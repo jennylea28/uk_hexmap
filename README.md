@@ -2,13 +2,16 @@ electionmap
 ===========
 
 
-Re-usable UK election map visualisation.
+Re-usable UK election map visualisation, compatible with [D3](http://d3js.org/)
+and [Raphaël](http://raphaeljs.com/).
 
 Original: [Proportional election maps, without Flash](http://timcraft.com/2010/05/09/electionmap)
 
+Demos: [D3 electionmap](http://bl.ocks.org/timcraft/5867015), [Raphaël electionmap](http://bl.ocks.org/timcraft/5866773)
 
-Quick start (with [D3](http://d3js.org/)
-----------------------------------------
+
+D3 quick start
+--------------
 
 ```javascript
 var svg = d3.select('#frame').append('svg').attr('width', 330).attr('height', 430);
@@ -19,8 +22,8 @@ map(svg);
 ```
 
 
-Quick start (with [Raphaël](http://raphaeljs.com/))
----------------------------------------------------
+Raphaël quick start
+-------------------
 
 ```javascript
 var frame = Raphael('frame', 330, 430);
@@ -67,5 +70,4 @@ Use the **edgeLength** setter to specify the length of the hexagonal tiles
 map.edgeLength(3);
 ```
 
-All options/setters exist for both D3 and Raphaël. The fill/stroke options
-will accept whatever the underlying library accepts.
+All options/setters exist for both D3 and Raphaël.
