@@ -7,7 +7,7 @@ and [Raphaël](http://raphaeljs.com/).
 
 Original: [Proportional election maps, without Flash](http://timcraft.com/2010/05/09/electionmap)
 
-Demos: [D3 electionmap](http://bl.ocks.org/timcraft/5867015), [Raphaël electionmap](http://bl.ocks.org/timcraft/5866773)
+Demos: [D3 electionmap](http://bl.ocks.org/timcraft/5866773), [Raphaël electionmap](http://bl.ocks.org/timcraft/5867015)
 
 
 D3 quick start
