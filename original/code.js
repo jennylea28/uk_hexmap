@@ -1,4 +1,4 @@
-var ElectionMap = (function () {
+var HexMap = (function () {
   var ANGLE = (60 * (Math.PI / 180.0));
 
   function closedPath(point, points) {
@@ -37,7 +37,46 @@ var ElectionMap = (function () {
 })();
 
 window.onload = function () {
-  ElectionMap(Raphael('frame', 330, 430), 55, 395, 5, function (constituency) {
-    return UK_POLITICAL_PARTY_COLOURS[UK_GENERAL_ELECTION_RESULTS_2010[constituency]];
+  var svg = d3.select('#frame').append('svg').attr('width', 500).attr('height', 430);
+
+  var map = UK.HexMap();
+
+  var pop_focus = 'pop0_19';
+
+  var minpop = 100;
+  var maxpop = 0;
+
+  for (constituency in UK_POPULATIONS_BY_AGE) {
+    var info = UK_POPULATIONS_BY_AGE[constituency];
+    var pop = info[pop_focus] / info['popTotal'];
+    minpop = Math.min(minpop, pop);
+    maxpop = Math.max(maxpop, pop);
+  }
+
+  var buckets = d3.range(minpop, maxpop, (maxpop - minpop) / (bucketCount + 1));
+  buckets.push(0.99);
+  buckets.shift();
+
+  var colour = d3.scaleThreshold()
+    .domain(buckets)
+    .range(colourArray);
+
+  map.fill(function(constituency) {
+
+    if (UK_POPULATIONS_BY_AGE[constituency]) {
+      var popTotal = UK_POPULATIONS_BY_AGE[constituency]['popTotal'];
+      var popPercent = UK_POPULATIONS_BY_AGE[constituency][pop_focus] / popTotal;
+      return colour(popPercent);
+    } else {
+      console.log("Cannot find constituency " + constituency + " in data");
+      return colourArray[Math.floor(Math.random() * colourArray.length)];;
+    }
   });
+
+  map.stroke('#333');
+
+  map.origin({x:100, y:395});
+
+  map(svg);
+
 }

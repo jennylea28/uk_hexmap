@@ -36,6 +36,5 @@ end
 task :default => :compile
 
 task :compile do
-  compile('src/d3.js', 'uk.electionmap.d3.js')
-  compile('src/raphael.js', 'uk.electionmap.raphael.js')
+  compile('src/d3.js', 'uk.hexmap.d3.js')
 end

@@ -1,13 +1,13 @@
-electionmap
+hexmap
 ===========
 
 
 Re-usable UK election map visualisation, compatible with [D3](http://d3js.org/)
 and [Raphaël](http://raphaeljs.com/).
 
-Original: [Proportional election maps, without Flash](http://timcraft.com/2010/05/09/electionmap)
+Original: [Proportional election maps, without Flash](http://timcraft.com/2010/05/09/hexmap)
 
-Demos: [D3 electionmap](http://bl.ocks.org/timcraft/5866773), [Raphaël electionmap](http://bl.ocks.org/timcraft/5867015)
+Demos: [D3 hexmap](http://bl.ocks.org/timcraft/5866773), [Raphaël hexmap](http://bl.ocks.org/timcraft/5867015)
 
 
 D3 quick start
@@ -16,7 +16,7 @@ D3 quick start
 ```javascript
 var svg = d3.select('#frame').append('svg').attr('width', 330).attr('height', 430);
 
-var map = UK.ElectionMap();
+var map = UK.HexMap();
 
 map(svg);
 ```
@@ -28,7 +28,7 @@ Raphaël quick start
 ```javascript
 var frame = Raphael('frame', 330, 430);
 
-var map = UK.ElectionMap();
+var map = UK.HexMap();
 
 map(frame);
 ```

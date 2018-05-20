@@ -1,0 +1,23 @@
+{
+  "name": "hexmap",
+  "version": "1.0.0",
+  "description": "hexmap ===========",
+  "main": "uk.hexmap.d3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timcraft/hexmap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timcraft/hexmap/issues"
+  },
+  "homepage": "https://github.com/timcraft/hexmap#readme",
+  "dependencies": {
+    "npm": "^6.0.1",
+    "raphael": "^2.2.7"
+  }
+}
