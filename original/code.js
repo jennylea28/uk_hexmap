@@ -78,6 +78,8 @@ var loadVisualisation = function(callback) {
 
   map(svg);
 
+  callback();
+
 }
 
 // FOR TESTING LOCALLY
