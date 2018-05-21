@@ -21,3 +21,12 @@ var pu_bu_7 = ['#edf8fb', '#bfd3e6', '#9ebcda', '#8c96c6', '#8c6bb1', '#88419d',
 
 var spectral_5 = ['#d7191c', '#fdae61', '#ffffbf', '#abdda4', '#2b83ba'];
 var spectral_7 = ['#d53e4f', '#fc8d59', '#fee08b', '#ffffbf', '#e6f598', '#99d594', '#3288bd'];
+
+var variables = { 1: {'title': 'Percentage of Population Aged 0-19 in 2017', 'field_name': 'pop_19_percent'},
+                  2: {'title': 'Youth Claimant Rate 2010', 'field_name': 'youth_unemp_rate'},
+                  3: {'title': 'Percentage of Population Aged 25-64 in 2017', 'field_name': 'pop_2064_percent'},
+                  4: {'title': 'Unemployment Rate 2017', 'field_name': 'percent_unemployed'},
+                  5: {'title': 'Number of Business 2017', 'field_name': 'num_bus'},
+                  6: {'title': 'Out of Work Rate 2017', 'field_name': 'percent_oow'},
+                  7: {'title': 'Percentage of Population Aged 65+ in 2017', 'field_name': 'pop_65_percent'},
+                  8: {'title': 'Wage Median 2017', 'field_name': 'wage'}};

@@ -1,0 +1,2602 @@
+{
+   "North East Hertfordshire": {
+      "percent_oow": "0.053",
+      "id": "E14000845"
+   },
+   "Blaydon": {
+      "percent_oow": "0.091",
+      "id": "E14000574"
+   },
+   "Thornbury and Yate": {
+      "percent_oow": "0.046",
+      "id": "E14000994"
+   },
+   "South Antrim": {
+      "percent_oow": "",
+      "id": "N06000014"
+   },
+   "Belfast North": {
+      "percent_oow": "",
+      "id": "N06000002"
+   },
+   "Fermanagh and South Tyrone": {
+      "percent_oow": "",
+      "id": "N06000007"
+   },
+   "Ipswich": {
+      "percent_oow": "0.098",
+      "id": "E14000761"
+   },
+   "Castle Point": {
+      "percent_oow": "0.067",
+      "id": "E14000622"
+   },
+   "Rochdale": {
+      "percent_oow": "0.132",
+      "id": "E14000897"
+   },
+   "Neath": {
+      "percent_oow": "0.14",
+      "id": "W07000069"
+   },
+   "Leeds West": {
+      "percent_oow": "0.129",
+      "id": "E14000781"
+   },
+   "South Leicestershire": {
+      "percent_oow": "0.046",
+      "id": "E14000940"
+   },
+   "Ashton-under-Lyne": {
+      "percent_oow": "0.119",
+      "id": "E14000537"
+   },
+   "Epsom and Ewell": {
+      "percent_oow": "0.04",
+      "id": "E14000694"
+   },
+   "Walsall North": {
+      "percent_oow": "0.142",
+      "id": "E14001011"
+   },
+   "Penistone and Stocksbridge": {
+      "percent_oow": "0.07",
+      "id": "E14000876"
+   },
+   "New Forest East": {
+      "percent_oow": "0.056",
+      "id": "E14000827"
+   },
+   "Chipping Barnet": {
+      "percent_oow": "0.059",
+      "id": "E14000636"
+   },
+   "Kilmarnock and Loudoun": {
+      "percent_oow": "0.124",
+      "id": "S14000040"
+   },
+   "Kettering": {
+      "percent_oow": "0.077",
+      "id": "E14000769"
+   },
+   "Orkney and Shetland": {
+      "percent_oow": "0.06",
+      "id": "S14000051"
+   },
+   "Aberavon": {
+      "percent_oow": "0.16",
+      "id": "W07000049"
+   },
+   "Rossendale and Darwen": {
+      "percent_oow": "0.096",
+      "id": "E14000902"
+   },
+   "Kensington": {
+      "percent_oow": "0.075",
+      "id": "E14000768"
+   },
+   "Westmorland and Lonsdale": {
+      "percent_oow": "0.046",
+      "id": "E14001037"
+   },
+   "Solihull": {
+      "percent_oow": "0.052",
+      "id": "E14000931"
+   },
+   "Totnes": {
+      "percent_oow": "0.082",
+      "id": "E14001001"
+   },
+   "Garston and Halewood": {
+      "percent_oow": "0.129",
+      "id": "E14000708"
+   },
+   "Warwick and Leamington": {
+      "percent_oow": "0.055",
+      "id": "E14001019"
+   },
+   "Basingstoke": {
+      "percent_oow": "0.059",
+      "id": "E14000545"
+   },
+   "Chesterfield": {
+      "percent_oow": "0.11",
+      "id": "E14000632"
+   },
+   "Dundee West": {
+      "percent_oow": "0.141",
+      "id": "S14000016"
+   },
+   "East Devon": {
+      "percent_oow": "0.057",
+      "id": "E14000678"
+   },
+   "Ceredigion": {
+      "percent_oow": "0.081",
+      "id": "W07000064"
+   },
+   "Harwich and North Essex": {
+      "percent_oow": "0.065",
+      "id": "E14000734"
+   },
+   "Bristol North West": {
+      "percent_oow": "0.091",
+      "id": "E14000600"
+   },
+   "Aberdeen South": {
+      "percent_oow": "0.064",
+      "id": "S14000002"
+   },
+   "Hartlepool": {
+      "percent_oow": "0.149",
+      "id": "E14000733"
+   },
+   "Hereford and South Herefordshire": {
+      "percent_oow": "0.07",
+      "id": "E14000743"
+   },
+   "North East Bedfordshire": {
+      "percent_oow": "0.045",
+      "id": "E14000841"
+   },
+   "Mid Norfolk": {
+      "percent_oow": "0.062",
+      "id": "E14000816"
+   },
+   "Witham": {
+      "percent_oow": "0.056",
+      "id": "E14001045"
+   },
+   "Eastbourne": {
+      "percent_oow": "0.099",
+      "id": "E14000684"
+   },
+   "Heywood and Middleton": {
+      "percent_oow": "0.108",
+      "id": "E14000747"
+   },
+   "Cardiff South and Penarth": {
+      "percent_oow": "0.12",
+      "id": "W07000080"
+   },
+   "South Down": {
+      "percent_oow": "",
+      "id": "N06000015"
+   },
+   "Bolton South East": {
+      "percent_oow": "0.124",
+      "id": "E14000579"
+   },
+   "Vale of Glamorgan": {
+      "percent_oow": "0.104",
+      "id": "W07000078"
+   },
+   "Caerphilly": {
+      "percent_oow": "0.128",
+      "id": "W07000076"
+   },
+   "Morecambe and Lunesdale": {
+      "percent_oow": "0.094",
+      "id": "E14000825"
+   },
+   "Derby North": {
+      "percent_oow": "0.088",
+      "id": "E14000662"
+   },
+   "Winchester": {
+      "percent_oow": "0.041",
+      "id": "E14001041"
+   },
+   "Staffordshire Moorlands": {
+      "percent_oow": "0.063",
+      "id": "E14000966"
+   },
+   "Redditch": {
+      "percent_oow": "0.076",
+      "id": "E14000892"
+   },
+   "Great Grimsby": {
+      "percent_oow": "0.139",
+      "id": "E14000716"
+   },
+   "Milton Keynes North": {
+      "percent_oow": "0.063",
+      "id": "E14000821"
+   },
+   "Ogmore": {
+      "percent_oow": "0.137",
+      "id": "W07000074"
+   },
+   "Southampton, Itchen": {
+      "percent_oow": "0.086",
+      "id": "E14000955"
+   },
+   "Wolverhampton South West": {
+      "percent_oow": "0.109",
+      "id": "E14001051"
+   },
+   "Pendle": {
+      "percent_oow": "0.1",
+      "id": "E14000875"
+   },
+   "Huddersfield": {
+      "percent_oow": "0.112",
+      "id": "E14000756"
+   },
+   "City of Durham": {
+      "percent_oow": "0.072",
+      "id": "E14000641"
+   },
+   "Milton Keynes South": {
+      "percent_oow": "0.074",
+      "id": "E14000822"
+   },
+   "Banff and Buchan": {
+      "percent_oow": "0.085",
+      "id": "S14000007"
+   },
+   "Richmond (Yorks)": {
+      "percent_oow": "0.043",
+      "id": "E14000895"
+   },
+   "Edinburgh South": {
+      "percent_oow": "0.058",
+      "id": "S14000024"
+   },
+   "Chippenham": {
+      "percent_oow": "0.059",
+      "id": "E14000635"
+   },
+   "Buckingham": {
+      "percent_oow": "0.034",
+      "id": "E14000608"
+   },
+   "Dumfriesshire, Clydesdale and Tweeddale": {
+      "percent_oow": "0.08",
+      "id": "S14000014"
+   },
+   "Bradford East": {
+      "percent_oow": "0.129",
+      "id": "E14000587"
+   },
+   "Sedgefield": {
+      "percent_oow": "0.116",
+      "id": "E14000915"
+   },
+   "Halesowen and Rowley Regis": {
+      "percent_oow": "0.094",
+      "id": "E14000722"
+   },
+   "Stourbridge": {
+      "percent_oow": "0.083",
+      "id": "E14000976"
+   },
+   "Broxbourne": {
+      "percent_oow": "0.063",
+      "id": "E14000606"
+   },
+   "Bury St Edmunds": {
+      "percent_oow": "0.053",
+      "id": "E14000613"
+   },
+   "Hertsmere": {
+      "percent_oow": "0.06",
+      "id": "E14000745"
+   },
+   "Clwyd South": {
+      "percent_oow": "0.096",
+      "id": "W07000062"
+   },
+   "High Peak": {
+      "percent_oow": "0.07",
+      "id": "E14000748"
+   },
+   "Halifax": {
+      "percent_oow": "0.115",
+      "id": "E14000723"
+   },
+   "Oxford East": {
+      "percent_oow": "0.058",
+      "id": "E14000873"
+   },
+   "South Basildon and East Thurrock": {
+      "percent_oow": "0.085",
+      "id": "E14000933"
+   },
+   "Cardiff North": {
+      "percent_oow": "0.063",
+      "id": "W07000051"
+   },
+   "Luton South": {
+      "percent_oow": "0.084",
+      "id": "E14000801"
+   },
+   "Camborne and Redruth": {
+      "percent_oow": "0.101",
+      "id": "E14000616"
+   },
+   "Alyn and Deeside": {
+      "percent_oow": "0.072",
+      "id": "W07000043"
+   },
+   "Sittingbourne and Sheppey": {
+      "percent_oow": "0.1",
+      "id": "E14000927"
+   },
+   "Warrington South": {
+      "percent_oow": "0.059",
+      "id": "E14001018"
+   },
+   "Ealing, Southall": {
+      "percent_oow": "0.082",
+      "id": "E14000676"
+   },
+   "Normanton, Pontefract and Castleford": {
+      "percent_oow": "0.118",
+      "id": "E14000836"
+   },
+   "Stockton North": {
+      "percent_oow": "0.14",
+      "id": "E14000970"
+   },
+   "Blyth Valley": {
+      "percent_oow": "0.116",
+      "id": "E14000575"
+   },
+   "North West Hampshire": {
+      "percent_oow": "0.049",
+      "id": "E14000857"
+   },
+   "Grantham and Stamford": {
+      "percent_oow": "0.064",
+      "id": "E14000714"
+   },
+   "Chichester": {
+      "percent_oow": "0.057",
+      "id": "E14000633"
+   },
+   "Ealing Central and Acton": {
+      "percent_oow": "0.068",
+      "id": "E14000674"
+   },
+   "Bexleyheath and Crayford": {
+      "percent_oow": "0.068",
+      "id": "E14000558"
+   },
+   "Tamworth": {
+      "percent_oow": "0.073",
+      "id": "E14000986"
+   },
+   "South East Cornwall": {
+      "percent_oow": "0.081",
+      "id": "E14000938"
+   },
+   "Hitchin and Harpenden": {
+      "percent_oow": "0.039",
+      "id": "E14000749"
+   },
+   "Bradford West": {
+      "percent_oow": "0.122",
+      "id": "E14000589"
+   },
+   "North Norfolk": {
+      "percent_oow": "0.075",
+      "id": "E14000848"
+   },
+   "The Cotswolds": {
+      "percent_oow": "0.04",
+      "id": "E14000991"
+   },
+   "Esher and Walton": {
+      "percent_oow": "0.04",
+      "id": "E14000697"
+   },
+   "Brentwood and Ongar": {
+      "percent_oow": "0.047",
+      "id": "E14000594"
+   },
+   "Ynys Môn": {
+      "percent_oow": "0.105",
+      "id": "W07000041"
+   },
+   "Hammersmith": {
+      "percent_oow": "0.084",
+      "id": "E14000726"
+   },
+   "Mid Sussex": {
+      "percent_oow": "0.04",
+      "id": "E14000817"
+   },
+   "Leeds North West": {
+      "percent_oow": "0.049",
+      "id": "E14000780"
+   },
+   "Twickenham": {
+      "percent_oow": "0.042",
+      "id": "E14001005"
+   },
+   "Sheffield, Hallam": {
+      "percent_oow": "0.039",
+      "id": "E14000922"
+   },
+   "Rochford and Southend East": {
+      "percent_oow": "0.116",
+      "id": "E14000899"
+   },
+   "Ashfield": {
+      "percent_oow": "0.113",
+      "id": "E14000535"
+   },
+   "Kingston upon Hull North": {
+      "percent_oow": "0.126",
+      "id": "E14000772"
+   },
+   "Scunthorpe": {
+      "percent_oow": "0.098",
+      "id": "E14000914"
+   },
+   "Stretford and Urmston": {
+      "percent_oow": "0.093",
+      "id": "E14000979"
+   },
+   "South Swindon": {
+      "percent_oow": "0.074",
+      "id": "E14000947"
+   },
+   "Cheltenham": {
+      "percent_oow": "0.063",
+      "id": "E14000630"
+   },
+   "Mid Derbyshire": {
+      "percent_oow": "0.048",
+      "id": "E14000814"
+   },
+   "North Down": {
+      "percent_oow": "",
+      "id": "N06000013"
+   },
+   "Bath": {
+      "percent_oow": "0.045",
+      "id": "E14000547"
+   },
+   "Stoke-on-Trent North": {
+      "percent_oow": "0.131",
+      "id": "E14000973"
+   },
+   "Stratford-on-Avon": {
+      "percent_oow": "0.048",
+      "id": "E14000977"
+   },
+   "Battersea": {
+      "percent_oow": "0.055",
+      "id": "E14000549"
+   },
+   "Leeds North East": {
+      "percent_oow": "0.08",
+      "id": "E14000779"
+   },
+   "St Albans": {
+      "percent_oow": "0.047",
+      "id": "E14000960"
+   },
+   "Dudley North": {
+      "percent_oow": "0.119",
+      "id": "E14000671"
+   },
+   "Chelmsford": {
+      "percent_oow": "0.058",
+      "id": "E14000628"
+   },
+   "North Shropshire": {
+      "percent_oow": "0.064",
+      "id": "E14000849"
+   },
+   "Waveney": {
+      "percent_oow": "0.096",
+      "id": "E14001022"
+   },
+   "Thirsk and Malton": {
+      "percent_oow": "0.048",
+      "id": "E14000993"
+   },
+   "Chatham and Aylesford": {
+      "percent_oow": "0.087",
+      "id": "E14000626"
+   },
+   "Weston-Super-Mare": {
+      "percent_oow": "0.105",
+      "id": "E14001038"
+   },
+   "Bassetlaw": {
+      "percent_oow": "0.091",
+      "id": "E14000546"
+   },
+   "Edinburgh South West": {
+      "percent_oow": "0.08",
+      "id": "S14000025"
+   },
+   "Forest of Dean": {
+      "percent_oow": "0.073",
+      "id": "E14000705"
+   },
+   "Motherwell and Wishaw": {
+      "percent_oow": "0.142",
+      "id": "S14000047"
+   },
+   "Sefton Central": {
+      "percent_oow": "0.065",
+      "id": "E14000916"
+   },
+   "Wansbeck": {
+      "percent_oow": "0.125",
+      "id": "E14001014"
+   },
+   "Islington South and Finsbury": {
+      "percent_oow": "0.096",
+      "id": "E14000764"
+   },
+   "South Holland and The Deepings": {
+      "percent_oow": "0.064",
+      "id": "E14000939"
+   },
+   "Mid Ulster": {
+      "percent_oow": "",
+      "id": "N06000010"
+   },
+   "Angus": {
+      "percent_oow": "0.102",
+      "id": "S14000004"
+   },
+   "East Londonderry": {
+      "percent_oow": "",
+      "id": "N06000006"
+   },
+   "Gower": {
+      "percent_oow": "0.088",
+      "id": "W07000046"
+   },
+   "Stafford": {
+      "percent_oow": "0.064",
+      "id": "E14000965"
+   },
+   "Glenrothes": {
+      "percent_oow": "0.147",
+      "id": "S14000036"
+   },
+   "Inverclyde": {
+      "percent_oow": "0.145",
+      "id": "S14000038"
+   },
+   "Harrow West": {
+      "percent_oow": "0.058",
+      "id": "E14000732"
+   },
+   "Liverpool, West Derby": {
+      "percent_oow": "0.159",
+      "id": "E14000796"
+   },
+   "Na h-Eileanan An Iar": {
+      "percent_oow": "0.081",
+      "id": "S14000027"
+   },
+   "Ealing North": {
+      "percent_oow": "0.078",
+      "id": "E14000675"
+   },
+   "Stirling": {
+      "percent_oow": "0.076",
+      "id": "S14000057"
+   },
+   "East Renfrewshire": {
+      "percent_oow": "0.063",
+      "id": "S14000021"
+   },
+   "Lagan Valley": {
+      "percent_oow": "",
+      "id": "N06000009"
+   },
+   "Crewe and Nantwich": {
+      "percent_oow": "0.068",
+      "id": "E14000653"
+   },
+   "Walthamstow": {
+      "percent_oow": "0.082",
+      "id": "E14001013"
+   },
+   "West Lancashire": {
+      "percent_oow": "0.078",
+      "id": "E14001033"
+   },
+   "Rushcliffe": {
+      "percent_oow": "0.045",
+      "id": "E14000908"
+   },
+   "St Helens North": {
+      "percent_oow": "0.115",
+      "id": "E14000962"
+   },
+   "Great Yarmouth": {
+      "percent_oow": "0.108",
+      "id": "E14000717"
+   },
+   "Reading East": {
+      "percent_oow": "0.051",
+      "id": "E14000889"
+   },
+   "Bognor Regis and Littlehampton": {
+      "percent_oow": "0.087",
+      "id": "E14000576"
+   },
+   "Birmingham, Yardley": {
+      "percent_oow": "0.131",
+      "id": "E14000568"
+   },
+   "South Cambridgeshire": {
+      "percent_oow": "0.036",
+      "id": "E14000934"
+   },
+   "Welwyn Hatfield": {
+      "percent_oow": "0.058",
+      "id": "E14001027"
+   },
+   "Southend West": {
+      "percent_oow": "0.069",
+      "id": "E14000957"
+   },
+   "Beckenham": {
+      "percent_oow": "0.042",
+      "id": "E14000551"
+   },
+   "Wyre and Preston North": {
+      "percent_oow": "0.048",
+      "id": "E14001057"
+   },
+   "Dundee East": {
+      "percent_oow": "0.107",
+      "id": "S14000015"
+   },
+   "Salisbury": {
+      "percent_oow": "0.059",
+      "id": "E14000912"
+   },
+   "Colne Valley": {
+      "percent_oow": "0.075",
+      "id": "E14000645"
+   },
+   "Brighton, Pavilion": {
+      "percent_oow": "0.065",
+      "id": "E14000598"
+   },
+   "Birmingham, Perry Barr": {
+      "percent_oow": "0.126",
+      "id": "E14000566"
+   },
+   "Ilford North": {
+      "percent_oow": "0.057",
+      "id": "E14000759"
+   },
+   "Kirkcaldy and Cowdenbeath": {
+      "percent_oow": "0.126",
+      "id": "S14000041"
+   },
+   "East Antrim": {
+      "percent_oow": "",
+      "id": "N06000005"
+   },
+   "Wyre Forest": {
+      "percent_oow": "0.091",
+      "id": "E14001058"
+   },
+   "Peterborough": {
+      "percent_oow": "0.103",
+      "id": "E14000878"
+   },
+   "Epping Forest": {
+      "percent_oow": "0.058",
+      "id": "E14000693"
+   },
+   "Wolverhampton South East": {
+      "percent_oow": "0.141",
+      "id": "E14001050"
+   },
+   "Wrexham": {
+      "percent_oow": "0.101",
+      "id": "W07000044"
+   },
+   "Newark": {
+      "percent_oow": "0.068",
+      "id": "E14000829"
+   },
+   "South Staffordshire": {
+      "percent_oow": "0.055",
+      "id": "E14000945"
+   },
+   "Bournemouth East": {
+      "percent_oow": "0.091",
+      "id": "E14000584"
+   },
+   "Bristol East": {
+      "percent_oow": "0.1",
+      "id": "E14000599"
+   },
+   "Weaver Vale": {
+      "percent_oow": "0.08",
+      "id": "E14001024"
+   },
+   "Glasgow South West": {
+      "percent_oow": "0.171",
+      "id": "S14000035"
+   },
+   "Portsmouth North": {
+      "percent_oow": "0.078",
+      "id": "E14000883"
+   },
+   "Witney": {
+      "percent_oow": "0.04",
+      "id": "E14001046"
+   },
+   "Ochil and South Perthshire": {
+      "percent_oow": "0.089",
+      "id": "S14000050"
+   },
+   "Llanelli": {
+      "percent_oow": "0.132",
+      "id": "W07000045"
+   },
+   "Birmingham, Erdington": {
+      "percent_oow": "0.169",
+      "id": "E14000561"
+   },
+   "Liverpool, Walton": {
+      "percent_oow": "0.188",
+      "id": "E14000794"
+   },
+   "Exeter": {
+      "percent_oow": "0.069",
+      "id": "E14000698"
+   },
+   "Glasgow North": {
+      "percent_oow": "0.103",
+      "id": "S14000031"
+   },
+   "Lewisham East": {
+      "percent_oow": "0.094",
+      "id": "E14000787"
+   },
+   "West Bromwich East": {
+      "percent_oow": "0.128",
+      "id": "E14001029"
+   },
+   "Altrincham and Sale West": {
+      "percent_oow": "0.048",
+      "id": "E14000532"
+   },
+   "Hendon": {
+      "percent_oow": "0.064",
+      "id": "E14000741"
+   },
+   "Stockton South": {
+      "percent_oow": "0.081",
+      "id": "E14000971"
+   },
+   "Middlesbrough South and East Cleveland": {
+      "percent_oow": "0.12",
+      "id": "E14000820"
+   },
+   "Gordon": {
+      "percent_oow": "0.047",
+      "id": "S14000037"
+   },
+   "Brigg and Goole": {
+      "percent_oow": "0.074",
+      "id": "E14000596"
+   },
+   "Midlothian": {
+      "percent_oow": "0.095",
+      "id": "S14000045"
+   },
+   "Louth and Horncastle": {
+      "percent_oow": "0.103",
+      "id": "E14000798"
+   },
+   "Wallasey": {
+      "percent_oow": "0.133",
+      "id": "E14001010"
+   },
+   "Gateshead": {
+      "percent_oow": "0.132",
+      "id": "E14000709"
+   },
+   "Falkirk": {
+      "percent_oow": "0.097",
+      "id": "S14000028"
+   },
+   "Vale of Clwyd": {
+      "percent_oow": "0.139",
+      "id": "W07000060"
+   },
+   "Birmingham, Hall Green": {
+      "percent_oow": "0.117",
+      "id": "E14000562"
+   },
+   "Birmingham, Ladywood": {
+      "percent_oow": "0.138",
+      "id": "E14000564"
+   },
+   "Oxford West and Abingdon": {
+      "percent_oow": "0.038",
+      "id": "E14000874"
+   },
+   "West Bromwich West": {
+      "percent_oow": "0.127",
+      "id": "E14001030"
+   },
+   "Camberwell and Peckham": {
+      "percent_oow": "0.098",
+      "id": "E14000615"
+   },
+   "Edmonton": {
+      "percent_oow": "0.108",
+      "id": "E14000687"
+   },
+   "Dudley South": {
+      "percent_oow": "0.103",
+      "id": "E14000672"
+   },
+   "Stoke-on-Trent South": {
+      "percent_oow": "0.121",
+      "id": "E14000974"
+   },
+   "Sevenoaks": {
+      "percent_oow": "0.047",
+      "id": "E14000918"
+   },
+   "Truro and Falmouth": {
+      "percent_oow": "0.071",
+      "id": "E14001003"
+   },
+   "Halton": {
+      "percent_oow": "0.105",
+      "id": "E14000725"
+   },
+   "Bradford South": {
+      "percent_oow": "0.128",
+      "id": "E14000588"
+   },
+   "Lanark and Hamilton East": {
+      "percent_oow": "0.116",
+      "id": "S14000042"
+   },
+   "Newcastle-under-Lyme": {
+      "percent_oow": "0.081",
+      "id": "E14000834"
+   },
+   "Broadland": {
+      "percent_oow": "0.057",
+      "id": "E14000603"
+   },
+   "Dewsbury": {
+      "percent_oow": "0.091",
+      "id": "E14000666"
+   },
+   "South West Surrey": {
+      "percent_oow": "0.043",
+      "id": "E14000953"
+   },
+   "Telford": {
+      "percent_oow": "0.118",
+      "id": "E14000989"
+   },
+   "Finchley and Golders Green": {
+      "percent_oow": "0.058",
+      "id": "E14000703"
+   },
+   "Rotherham": {
+      "percent_oow": "0.144",
+      "id": "E14000904"
+   },
+   "Coventry South": {
+      "percent_oow": "0.079",
+      "id": "E14000651"
+   },
+   "Feltham and Heston": {
+      "percent_oow": "0.053",
+      "id": "E14000701"
+   },
+   "Stone": {
+      "percent_oow": "0.054",
+      "id": "E14000975"
+   },
+   "Calder Valley": {
+      "percent_oow": "0.08",
+      "id": "E14000614"
+   },
+   "Northampton South": {
+      "percent_oow": "0.095",
+      "id": "E14000862"
+   },
+   "Tooting": {
+      "percent_oow": "0.058",
+      "id": "E14000998"
+   },
+   "Stalybridge and Hyde": {
+      "percent_oow": "0.108",
+      "id": "E14000967"
+   },
+   "Croydon South": {
+      "percent_oow": "0.043",
+      "id": "E14000656"
+   },
+   "Tynemouth": {
+      "percent_oow": "0.085",
+      "id": "E14001006"
+   },
+   "Berwick-upon-Tweed": {
+      "percent_oow": "0.076",
+      "id": "E14000554"
+   },
+   "Ross, Skye and Lochaber": {
+      "percent_oow": "0.067",
+      "id": "S14000055"
+   },
+   "Leicester South": {
+      "percent_oow": "0.093",
+      "id": "E14000783"
+   },
+   "Beverley and Holderness": {
+      "percent_oow": "0.069",
+      "id": "E14000556"
+   },
+   "Cambridge": {
+      "percent_oow": "0.051",
+      "id": "E14000617"
+   },
+   "Holborn and St Pancras": {
+      "percent_oow": "0.093",
+      "id": "E14000750"
+   },
+   "Woking": {
+      "percent_oow": "0.046",
+      "id": "E14001047"
+   },
+   "Washington and Sunderland West": {
+      "percent_oow": "0.128",
+      "id": "E14001020"
+   },
+   "Sheffield South East": {
+      "percent_oow": "0.103",
+      "id": "E14000920"
+   },
+   "Romsey and Southampton North": {
+      "percent_oow": "0.044",
+      "id": "E14000901"
+   },
+   "Coventry North East": {
+      "percent_oow": "0.112",
+      "id": "E14000649"
+   },
+   "Hornsey and Wood Green": {
+      "percent_oow": "0.07",
+      "id": "E14000752"
+   },
+   "Newcastle upon Tyne North": {
+      "percent_oow": "0.089",
+      "id": "E14000833"
+   },
+   "Sheffield, Heeley": {
+      "percent_oow": "0.129",
+      "id": "E14000923"
+   },
+   "Sutton Coldfield": {
+      "percent_oow": "0.053",
+      "id": "E14000985"
+   },
+   "North Durham": {
+      "percent_oow": "0.116",
+      "id": "E14000840"
+   },
+   "North West Durham": {
+      "percent_oow": "0.106",
+      "id": "E14000856"
+   },
+   "Wirral West": {
+      "percent_oow": "0.075",
+      "id": "E14001044"
+   },
+   "Mid Worcestershire": {
+      "percent_oow": "0.061",
+      "id": "E14000818"
+   },
+   "Dagenham and Rainham": {
+      "percent_oow": "0.094",
+      "id": "E14000657"
+   },
+   "Suffolk Coastal": {
+      "percent_oow": "0.062",
+      "id": "E14000981"
+   },
+   "Newbury": {
+      "percent_oow": "0.045",
+      "id": "E14000830"
+   },
+   "Loughborough": {
+      "percent_oow": "0.06",
+      "id": "E14000797"
+   },
+   "Barrow and Furness": {
+      "percent_oow": "0.102",
+      "id": "E14000543"
+   },
+   "Haltemprice and Howden": {
+      "percent_oow": "0.043",
+      "id": "E14000724"
+   },
+   "Gedling": {
+      "percent_oow": "0.082",
+      "id": "E14000710"
+   },
+   "South Shields": {
+      "percent_oow": "0.155",
+      "id": "E14000944"
+   },
+   "North Somerset": {
+      "percent_oow": "0.045",
+      "id": "E14000850"
+   },
+   "Ayr, Carrick and Cumnock": {
+      "percent_oow": "0.132",
+      "id": "S14000006"
+   },
+   "Lincoln": {
+      "percent_oow": "0.095",
+      "id": "E14000792"
+   },
+   "Swansea West": {
+      "percent_oow": "0.111",
+      "id": "W07000047"
+   },
+   "Moray": {
+      "percent_oow": "0.075",
+      "id": "S14000046"
+   },
+   "Belfast West": {
+      "percent_oow": "",
+      "id": "N06000004"
+   },
+   "Richmond Park": {
+      "percent_oow": "0.039",
+      "id": "E14000896"
+   },
+   "Amber Valley": {
+      "percent_oow": "0.091",
+      "id": "E14000533"
+   },
+   "Chingford and Woodford Green": {
+      "percent_oow": "0.064",
+      "id": "E14000634"
+   },
+   "Bridgwater and West Somerset": {
+      "percent_oow": "0.072",
+      "id": "E14000595"
+   },
+   "Stockport": {
+      "percent_oow": "0.112",
+      "id": "E14000969"
+   },
+   "Kingston and Surbiton": {
+      "percent_oow": "0.051",
+      "id": "E14000770"
+   },
+   "Cannock Chase": {
+      "percent_oow": "0.082",
+      "id": "E14000618"
+   },
+   "Bermondsey and Old Southwark": {
+      "percent_oow": "0.064",
+      "id": "E14000553"
+   },
+   "Mole Valley": {
+      "percent_oow": "0.042",
+      "id": "E14000824"
+   },
+   "Derby South": {
+      "percent_oow": "0.124",
+      "id": "E14000663"
+   },
+   "Maidenhead": {
+      "percent_oow": "0.037",
+      "id": "E14000803"
+   },
+   "Knowsley": {
+      "percent_oow": "0.165",
+      "id": "E14000775"
+   },
+   "Nottingham North": {
+      "percent_oow": "0.177",
+      "id": "E14000866"
+   },
+   "Burton": {
+      "percent_oow": "0.074",
+      "id": "E14000610"
+   },
+   "Hemsworth": {
+      "percent_oow": "0.12",
+      "id": "E14000740"
+   },
+   "Cynon Valley": {
+      "percent_oow": "0.169",
+      "id": "W07000070"
+   },
+   "North Herefordshire": {
+      "percent_oow": "0.058",
+      "id": "E14000847"
+   },
+   "West Suffolk": {
+      "percent_oow": "0.056",
+      "id": "E14001034"
+   },
+   "South Northamptonshire": {
+      "percent_oow": "0.033",
+      "id": "E14000942"
+   },
+   "Runnymede and Weybridge": {
+      "percent_oow": "0.039",
+      "id": "E14000907"
+   },
+   "Erewash": {
+      "percent_oow": "0.091",
+      "id": "E14000695"
+   },
+   "Aylesbury": {
+      "percent_oow": "0.053",
+      "id": "E14000538"
+   },
+   "Blackpool North and Cleveleys": {
+      "percent_oow": "0.139",
+      "id": "E14000572"
+   },
+   "Putney": {
+      "percent_oow": "0.057",
+      "id": "E14000887"
+   },
+   "Boston and Skegness": {
+      "percent_oow": "0.103",
+      "id": "E14000582"
+   },
+   "Beaconsfield": {
+      "percent_oow": "0.037",
+      "id": "E14000550"
+   },
+   "East Hampshire": {
+      "percent_oow": "0.045",
+      "id": "E14000680"
+   },
+   "Worthing West": {
+      "percent_oow": "0.081",
+      "id": "E14001055"
+   },
+   "Upper Bann": {
+      "percent_oow": "",
+      "id": "N06000017"
+   },
+   "North East Derbyshire": {
+      "percent_oow": "0.084",
+      "id": "E14000843"
+   },
+   "Meon Valley": {
+      "percent_oow": "0.046",
+      "id": "E14000811"
+   },
+   "Stroud": {
+      "percent_oow": "0.056",
+      "id": "E14000980"
+   },
+   "Bromley and Chislehurst": {
+      "percent_oow": "0.069",
+      "id": "E14000604"
+   },
+   "Newry and Armagh": {
+      "percent_oow": "",
+      "id": "N06000011"
+   },
+   "Morley and Outwood": {
+      "percent_oow": "0.072",
+      "id": "E14000826"
+   },
+   "Lancaster and Fleetwood": {
+      "percent_oow": "0.075",
+      "id": "E14000776"
+   },
+   "Guildford": {
+      "percent_oow": "0.04",
+      "id": "E14000719"
+   },
+   "Rugby": {
+      "percent_oow": "0.049",
+      "id": "E14000905"
+   },
+   "Newcastle upon Tyne East": {
+      "percent_oow": "0.091",
+      "id": "E14000832"
+   },
+   "Fylde": {
+      "percent_oow": "0.071",
+      "id": "E14000706"
+   },
+   "Rutland and Melton": {
+      "percent_oow": "0.041",
+      "id": "E14000909"
+   },
+   "Ludlow": {
+      "percent_oow": "0.054",
+      "id": "E14000799"
+   },
+   "North East Fife": {
+      "percent_oow": "0.062",
+      "id": "S14000049"
+   },
+   "North Swindon": {
+      "percent_oow": "0.064",
+      "id": "E14000851"
+   },
+   "Newport East": {
+      "percent_oow": "0.115",
+      "id": "W07000055"
+   },
+   "South Thanet": {
+      "percent_oow": "0.113",
+      "id": "E14000948"
+   },
+   "Sleaford and North Hykeham": {
+      "percent_oow": "0.057",
+      "id": "E14000929"
+   },
+   "Rhondda": {
+      "percent_oow": "0.18",
+      "id": "W07000052"
+   },
+   "Wycombe": {
+      "percent_oow": "0.053",
+      "id": "E14001056"
+   },
+   "Wirral South": {
+      "percent_oow": "0.071",
+      "id": "E14001043"
+   },
+   "Barking": {
+      "percent_oow": "0.101",
+      "id": "E14000540"
+   },
+   "Tewkesbury": {
+      "percent_oow": "0.05",
+      "id": "E14000990"
+   },
+   "Rayleigh and Wickford": {
+      "percent_oow": "0.041",
+      "id": "E14000888"
+   },
+   "Huntingdon": {
+      "percent_oow": "0.052",
+      "id": "E14000757"
+   },
+   "Vauxhall": {
+      "percent_oow": "0.082",
+      "id": "E14001008"
+   },
+   "West Tyrone": {
+      "percent_oow": "",
+      "id": "N06000018"
+   },
+   "Bolsover": {
+      "percent_oow": "0.108",
+      "id": "E14000577"
+   },
+   "Crawley": {
+      "percent_oow": "0.068",
+      "id": "E14000652"
+   },
+   "York Outer": {
+      "percent_oow": "0.036",
+      "id": "E14001062"
+   },
+   "The Wrekin": {
+      "percent_oow": "0.072",
+      "id": "E14000992"
+   },
+   "Tunbridge Wells": {
+      "percent_oow": "0.052",
+      "id": "E14001004"
+   },
+   "Filton and Bradley Stoke": {
+      "percent_oow": "0.051",
+      "id": "E14000702"
+   },
+   "Plymouth, Sutton and Devonport": {
+      "percent_oow": "0.121",
+      "id": "E14000880"
+   },
+   "Blaenau Gwent": {
+      "percent_oow": "0.162",
+      "id": "W07000072"
+   },
+   "Sheffield Central": {
+      "percent_oow": "0.072",
+      "id": "E14000919"
+   },
+   "Hackney South and Shoreditch": {
+      "percent_oow": "0.109",
+      "id": "E14000721"
+   },
+   "Nottingham East": {
+      "percent_oow": "0.129",
+      "id": "E14000865"
+   },
+   "Ribble Valley": {
+      "percent_oow": "0.053",
+      "id": "E14000894"
+   },
+   "Manchester Central": {
+      "percent_oow": "0.105",
+      "id": "E14000807"
+   },
+   "Newcastle upon Tyne Central": {
+      "percent_oow": "0.118",
+      "id": "E14000831"
+   },
+   "Central Devon": {
+      "percent_oow": "0.058",
+      "id": "E14000623"
+   },
+   "Hampstead and Kilburn": {
+      "percent_oow": "0.071",
+      "id": "E14000727"
+   },
+   "York Central": {
+      "percent_oow": "0.059",
+      "id": "E14001061"
+   },
+   "Arundel and South Downs": {
+      "percent_oow": "0.044",
+      "id": "E14000534"
+   },
+   "North East Cambridgeshire": {
+      "percent_oow": "0.083",
+      "id": "E14000842"
+   },
+   "Preseli Pembrokeshire": {
+      "percent_oow": "0.101",
+      "id": "W07000065"
+   },
+   "Chesham and Amersham": {
+      "percent_oow": "0.038",
+      "id": "E14000631"
+   },
+   "South West Bedfordshire": {
+      "percent_oow": "0.063",
+      "id": "E14000949"
+   },
+   "Sheffield, Brightside and Hillsborough": {
+      "percent_oow": "0.163",
+      "id": "E14000921"
+   },
+   "Maidstone and The Weald": {
+      "percent_oow": "0.061",
+      "id": "E14000804"
+   },
+   "Bedford": {
+      "percent_oow": "0.093",
+      "id": "E14000552"
+   },
+   "Torfaen": {
+      "percent_oow": "0.131",
+      "id": "W07000053"
+   },
+   "Ruislip, Northwood and Pinner": {
+      "percent_oow": "0.046",
+      "id": "E14000906"
+   },
+   "North East Somerset": {
+      "percent_oow": "0.042",
+      "id": "E14000846"
+   },
+   "Spelthorne": {
+      "percent_oow": "0.053",
+      "id": "E14000959"
+   },
+   "Wakefield": {
+      "percent_oow": "0.1",
+      "id": "E14001009"
+   },
+   "Havant": {
+      "percent_oow": "0.092",
+      "id": "E14000736"
+   },
+   "North Warwickshire": {
+      "percent_oow": "0.076",
+      "id": "E14000854"
+   },
+   "Lewisham West and Penge": {
+      "percent_oow": "0.093",
+      "id": "E14000788"
+   },
+   "Manchester, Gorton": {
+      "percent_oow": "0.109",
+      "id": "E14000808"
+   },
+   "Gloucester": {
+      "percent_oow": "0.094",
+      "id": "E14000712"
+   },
+   "Aldershot": {
+      "percent_oow": "0.056",
+      "id": "E14000530"
+   },
+   "Oldham East and Saddleworth": {
+      "percent_oow": "0.104",
+      "id": "E14000870"
+   },
+   "Wigan": {
+      "percent_oow": "0.102",
+      "id": "E14001039"
+   },
+   "Mid Dorset and North Poole": {
+      "percent_oow": "0.049",
+      "id": "E14000815"
+   },
+   "North Dorset": {
+      "percent_oow": "0.051",
+      "id": "E14000839"
+   },
+   "Darlington": {
+      "percent_oow": "0.115",
+      "id": "E14000658"
+   },
+   "Enfield, Southgate": {
+      "percent_oow": "0.054",
+      "id": "E14000692"
+   },
+   "Stevenage": {
+      "percent_oow": "0.074",
+      "id": "E14000968"
+   },
+   "Eddisbury": {
+      "percent_oow": "0.064",
+      "id": "E14000686"
+   },
+   "Carshalton and Wallington": {
+      "percent_oow": "0.052",
+      "id": "E14000621"
+   },
+   "Rochester and Strood": {
+      "percent_oow": "0.074",
+      "id": "E14000898"
+   },
+   "Slough": {
+      "percent_oow": "0.069",
+      "id": "E14000930"
+   },
+   "North Thanet": {
+      "percent_oow": "0.108",
+      "id": "E14000852"
+   },
+   "Harrow East": {
+      "percent_oow": "0.051",
+      "id": "E14000731"
+   },
+   "Easington": {
+      "percent_oow": "0.156",
+      "id": "E14000677"
+   },
+   "Leeds Central": {
+      "percent_oow": "0.124",
+      "id": "E14000777"
+   },
+   "Gravesham": {
+      "percent_oow": "0.075",
+      "id": "E14000715"
+   },
+   "Wolverhampton North East": {
+      "percent_oow": "0.134",
+      "id": "E14001049"
+   },
+   "Plymouth, Moor View": {
+      "percent_oow": "0.118",
+      "id": "E14000879"
+   },
+   "Merthyr Tydfil and Rhymney": {
+      "percent_oow": "0.164",
+      "id": "W07000071"
+   },
+   "Colchester": {
+      "percent_oow": "0.078",
+      "id": "E14000644"
+   },
+   "Arfon": {
+      "percent_oow": "0.088",
+      "id": "W07000057"
+   },
+   "Harlow": {
+      "percent_oow": "0.081",
+      "id": "E14000729"
+   },
+   "Doncaster North": {
+      "percent_oow": "0.123",
+      "id": "E14000669"
+   },
+   "Congleton": {
+      "percent_oow": "0.058",
+      "id": "E14000646"
+   },
+   "Broxtowe": {
+      "percent_oow": "0.064",
+      "id": "E14000607"
+   },
+   "Bristol West": {
+      "percent_oow": "0.069",
+      "id": "E14000602"
+   },
+   "Blackburn": {
+      "percent_oow": "0.136",
+      "id": "E14000570"
+   },
+   "Luton North": {
+      "percent_oow": "0.078",
+      "id": "E14000800"
+   },
+   "Yeovil": {
+      "percent_oow": "0.073",
+      "id": "E14001060"
+   },
+   "Wokingham": {
+      "percent_oow": "0.031",
+      "id": "E14001048"
+   },
+   "Blackpool South": {
+      "percent_oow": "0.173",
+      "id": "E14000573"
+   },
+   "Horsham": {
+      "percent_oow": "0.043",
+      "id": "E14000753"
+   },
+   "Newport West": {
+      "percent_oow": "0.121",
+      "id": "W07000056"
+   },
+   "Lewisham, Deptford": {
+      "percent_oow": "0.087",
+      "id": "E14000789"
+   },
+   "Streatham": {
+      "percent_oow": "0.072",
+      "id": "E14000978"
+   },
+   "Lewes": {
+      "percent_oow": "0.065",
+      "id": "E14000786"
+   },
+   "Wantage": {
+      "percent_oow": "0.042",
+      "id": "E14001015"
+   },
+   "Scarborough and Whitby": {
+      "percent_oow": "0.108",
+      "id": "E14000913"
+   },
+   "Middlesbrough": {
+      "percent_oow": "0.178",
+      "id": "E14000819"
+   },
+   "Watford": {
+      "percent_oow": "0.057",
+      "id": "E14001021"
+   },
+   "Maldon": {
+      "percent_oow": "0.052",
+      "id": "E14000806"
+   },
+   "Bishop Auckland": {
+      "percent_oow": "0.121",
+      "id": "E14000569"
+   },
+   "Cardiff Central": {
+      "percent_oow": "0.077",
+      "id": "W07000050"
+   },
+   "Reigate": {
+      "percent_oow": "0.049",
+      "id": "E14000893"
+   },
+   "Carlisle": {
+      "percent_oow": "0.093",
+      "id": "E14000620"
+   },
+   "Berwickshire, Roxburgh and Selkirk": {
+      "percent_oow": "0.09",
+      "id": "S14000008"
+   },
+   "Keighley": {
+      "percent_oow": "0.085",
+      "id": "E14000766"
+   },
+   "Hayes and Harlington": {
+      "percent_oow": "0.078",
+      "id": "E14000737"
+   },
+   "Torbay": {
+      "percent_oow": "0.134",
+      "id": "E14000999"
+   },
+   "Kingston upon Hull West and Hessle": {
+      "percent_oow": "0.15",
+      "id": "E14000773"
+   },
+   "Southampton, Test": {
+      "percent_oow": "0.084",
+      "id": "E14000956"
+   },
+   "Birmingham, Selly Oak": {
+      "percent_oow": "0.103",
+      "id": "E14000567"
+   },
+   "Sherwood": {
+      "percent_oow": "0.089",
+      "id": "E14000924"
+   },
+   "Blackley and Broughton": {
+      "percent_oow": "0.156",
+      "id": "E14000571"
+   },
+   "Inverness, Nairn, Badenoch and Strathspey": {
+      "percent_oow": "0.065",
+      "id": "S14000039"
+   },
+   "East Yorkshire": {
+      "percent_oow": "0.085",
+      "id": "E14000683"
+   },
+   "Norwich South": {
+      "percent_oow": "0.092",
+      "id": "E14000864"
+   },
+   "Orpington": {
+      "percent_oow": "0.054",
+      "id": "E14000872"
+   },
+   "Dartford": {
+      "percent_oow": "0.061",
+      "id": "E14000659"
+   },
+   "Bury South": {
+      "percent_oow": "0.095",
+      "id": "E14000612"
+   },
+   "Linlithgow and East Falkirk": {
+      "percent_oow": "0.101",
+      "id": "S14000043"
+   },
+   "Bracknell": {
+      "percent_oow": "0.05",
+      "id": "E14000586"
+   },
+   "Monmouth": {
+      "percent_oow": "0.075",
+      "id": "W07000054"
+   },
+   "Batley and Spen": {
+      "percent_oow": "0.094",
+      "id": "E14000548"
+   },
+   "Foyle": {
+      "percent_oow": "",
+      "id": "N06000008"
+   },
+   "Chorley": {
+      "percent_oow": "0.077",
+      "id": "E14000637"
+   },
+   "Mansfield": {
+      "percent_oow": "0.117",
+      "id": "E14000810"
+   },
+   "Leyton and Wanstead": {
+      "percent_oow": "0.068",
+      "id": "E14000790"
+   },
+   "Daventry": {
+      "percent_oow": "0.045",
+      "id": "E14000660"
+   },
+   "Hornchurch and Upminster": {
+      "percent_oow": "0.068",
+      "id": "E14000751"
+   },
+   "Strangford": {
+      "percent_oow": "",
+      "id": "N06000016"
+   },
+   "Glasgow Central": {
+      "percent_oow": "0.126",
+      "id": "S14000029"
+   },
+   "Bootle": {
+      "percent_oow": "0.164",
+      "id": "E14000581"
+   },
+   "Cleethorpes": {
+      "percent_oow": "0.088",
+      "id": "E14000643"
+   },
+   "North Antrim": {
+      "percent_oow": "",
+      "id": "N06000012"
+   },
+   "Devizes": {
+      "percent_oow": "0.045",
+      "id": "E14000665"
+   },
+   "Nuneaton": {
+      "percent_oow": "0.093",
+      "id": "E14000868"
+   },
+   "Enfield North": {
+      "percent_oow": "0.099",
+      "id": "E14000691"
+   },
+   "Hastings and Rye": {
+      "percent_oow": "0.134",
+      "id": "E14000735"
+   },
+   "Livingston": {
+      "percent_oow": "0.102",
+      "id": "S14000044"
+   },
+   "Walsall South": {
+      "percent_oow": "0.121",
+      "id": "E14001012"
+   },
+   "Edinburgh East": {
+      "percent_oow": "0.092",
+      "id": "S14000022"
+   },
+   "Braintree": {
+      "percent_oow": "0.061",
+      "id": "E14000590"
+   },
+   "Harrogate and Knaresborough": {
+      "percent_oow": "0.044",
+      "id": "E14000730"
+   },
+   "Denton and Reddish": {
+      "percent_oow": "0.099",
+      "id": "E14000661"
+   },
+   "St Austell and Newquay": {
+      "percent_oow": "0.094",
+      "id": "E14000961"
+   },
+   "Warley": {
+      "percent_oow": "0.121",
+      "id": "E14001016"
+   },
+   "Cardiff West": {
+      "percent_oow": "0.131",
+      "id": "W07000079"
+   },
+   "Worcester": {
+      "percent_oow": "0.077",
+      "id": "E14001052"
+   },
+   "Kingston upon Hull East": {
+      "percent_oow": "0.137",
+      "id": "E14000771"
+   },
+   "New Forest West": {
+      "percent_oow": "0.057",
+      "id": "E14000828"
+   },
+   "Doncaster Central": {
+      "percent_oow": "0.111",
+      "id": "E14000668"
+   },
+   "South Derbyshire": {
+      "percent_oow": "0.057",
+      "id": "E14000935"
+   },
+   "Brent Central": {
+      "percent_oow": "0.099",
+      "id": "E14000591"
+   },
+   "Belfast South": {
+      "percent_oow": "",
+      "id": "N06000003"
+   },
+   "Cumbernauld, Kilsyth and Kirkintilloch East": {
+      "percent_oow": "0.103",
+      "id": "S14000012"
+   },
+   "North Wiltshire": {
+      "percent_oow": "0.044",
+      "id": "E14000860"
+   },
+   "East Ham": {
+      "percent_oow": "0.072",
+      "id": "E14000679"
+   },
+   "Bolton West": {
+      "percent_oow": "0.082",
+      "id": "E14000580"
+   },
+   "Oldham West and Royton": {
+      "percent_oow": "0.117",
+      "id": "E14000871"
+   },
+   "Aberdeen North": {
+      "percent_oow": "0.094",
+      "id": "S14000001"
+   },
+   "Ashford": {
+      "percent_oow": "0.069",
+      "id": "E14000536"
+   },
+   "Aberconwy": {
+      "percent_oow": "0.092",
+      "id": "W07000058"
+   },
+   "North Devon": {
+      "percent_oow": "0.077",
+      "id": "E14000838"
+   },
+   "Clwyd West": {
+      "percent_oow": "0.109",
+      "id": "W07000059"
+   },
+   "Corby": {
+      "percent_oow": "0.074",
+      "id": "E14000648"
+   },
+   "East Dunbartonshire": {
+      "percent_oow": "0.051",
+      "id": "S14000018"
+   },
+   "Greenwich and Woolwich": {
+      "percent_oow": "0.091",
+      "id": "E14000718"
+   },
+   "St Helens South and Whiston": {
+      "percent_oow": "0.125",
+      "id": "E14000963"
+   },
+   "West Ham": {
+      "percent_oow": "0.08",
+      "id": "E14001032"
+   },
+   "Ellesmere Port and Neston": {
+      "percent_oow": "0.089",
+      "id": "E14000688"
+   },
+   "Windsor": {
+      "percent_oow": "0.034",
+      "id": "E14001042"
+   },
+   "Northampton North": {
+      "percent_oow": "0.08",
+      "id": "E14000861"
+   },
+   "Leicester East": {
+      "percent_oow": "0.09",
+      "id": "E14000782"
+   },
+   "South West Norfolk": {
+      "percent_oow": "0.072",
+      "id": "E14000952"
+   },
+   "Leeds East": {
+      "percent_oow": "0.144",
+      "id": "E14000778"
+   },
+   "North Cornwall": {
+      "percent_oow": "0.084",
+      "id": "E14000837"
+   },
+   "West Dunbartonshire": {
+      "percent_oow": "0.146",
+      "id": "S14000059"
+   },
+   "Pontypridd": {
+      "percent_oow": "0.102",
+      "id": "W07000075"
+   },
+   "Shipley": {
+      "percent_oow": "0.071",
+      "id": "E14000925"
+   },
+   "Basildon and Billericay": {
+      "percent_oow": "0.082",
+      "id": "E14000544"
+   },
+   "Brentford and Isleworth": {
+      "percent_oow": "0.048",
+      "id": "E14000593"
+   },
+   "Wentworth and Dearne": {
+      "percent_oow": "0.127",
+      "id": "E14001028"
+   },
+   "Islington North": {
+      "percent_oow": "0.108",
+      "id": "E14000763"
+   },
+   "Folkestone and Hythe": {
+      "percent_oow": "0.096",
+      "id": "E14000704"
+   },
+   "Swansea East": {
+      "percent_oow": "0.151",
+      "id": "W07000048"
+   },
+   "Hazel Grove": {
+      "percent_oow": "0.073",
+      "id": "E14000738"
+   },
+   "Hexham": {
+      "percent_oow": "0.051",
+      "id": "E14000746"
+   },
+   "Mid Bedfordshire": {
+      "percent_oow": "0.036",
+      "id": "E14000813"
+   },
+   "Pudsey": {
+      "percent_oow": "0.056",
+      "id": "E14000886"
+   },
+   "East Kilbride, Strathaven and Lesmahagow": {
+      "percent_oow": "0.088",
+      "id": "S14000019"
+   },
+   "Makerfield": {
+      "percent_oow": "0.084",
+      "id": "E14000805"
+   },
+   "Stoke-on-Trent Central": {
+      "percent_oow": "0.134",
+      "id": "E14000972"
+   },
+   "Harborough": {
+      "percent_oow": "0.049",
+      "id": "E14000728"
+   },
+   "Workington": {
+      "percent_oow": "0.091",
+      "id": "E14001053"
+   },
+   "Elmet and Rothwell": {
+      "percent_oow": "0.056",
+      "id": "E14000689"
+   },
+   "Edinburgh North and Leith": {
+      "percent_oow": "0.073",
+      "id": "S14000023"
+   },
+   "Copeland": {
+      "percent_oow": "0.087",
+      "id": "E14000647"
+   },
+   "Belfast East": {
+      "percent_oow": "",
+      "id": "N06000001"
+   },
+   "Shrewsbury and Atcham": {
+      "percent_oow": "0.066",
+      "id": "E14000926"
+   },
+   "Wythenshawe and Sale East": {
+      "percent_oow": "0.123",
+      "id": "E14001059"
+   },
+   "Glasgow South": {
+      "percent_oow": "0.123",
+      "id": "S14000034"
+   },
+   "Paisley and Renfrewshire South": {
+      "percent_oow": "0.134",
+      "id": "S14000053"
+   },
+   "North West Cambridgeshire": {
+      "percent_oow": "0.066",
+      "id": "E14000855"
+   },
+   "Bromsgrove": {
+      "percent_oow": "0.053",
+      "id": "E14000605"
+   },
+   "Edinburgh West": {
+      "percent_oow": "0.066",
+      "id": "S14000026"
+   },
+   "Old Bexley and Sidcup": {
+      "percent_oow": "0.047",
+      "id": "E14000869"
+   },
+   "Croydon Central": {
+      "percent_oow": "0.069",
+      "id": "E14000654"
+   },
+   "Thurrock": {
+      "percent_oow": "0.082",
+      "id": "E14000995"
+   },
+   "Bosworth": {
+      "percent_oow": "0.059",
+      "id": "E14000583"
+   },
+   "Chelsea and Fulham": {
+      "percent_oow": "0.057",
+      "id": "E14000629"
+   },
+   "Liverpool, Wavertree": {
+      "percent_oow": "0.132",
+      "id": "E14000795"
+   },
+   "Tiverton and Honiton": {
+      "percent_oow": "0.063",
+      "id": "E14000996"
+   },
+   "Rutherglen and Hamilton West": {
+      "percent_oow": "0.127",
+      "id": "S14000056"
+   },
+   "Brighton, Kemptown": {
+      "percent_oow": "0.107",
+      "id": "E14000597"
+   },
+   "Hackney North and Stoke Newington": {
+      "percent_oow": "0.095",
+      "id": "E14000720"
+   },
+   "Charnwood": {
+      "percent_oow": "0.046",
+      "id": "E14000625"
+   },
+   "Newton Abbot": {
+      "percent_oow": "0.076",
+      "id": "E14000835"
+   },
+   "East Worthing and Shoreham": {
+      "percent_oow": "0.072",
+      "id": "E14000682"
+   },
+   "Christchurch": {
+      "percent_oow": "0.063",
+      "id": "E14000638"
+   },
+   "Tonbridge and Malling": {
+      "percent_oow": "0.05",
+      "id": "E14000997"
+   },
+   "Carmarthen West and Pembrokeshire South": {
+      "percent_oow": "0.102",
+      "id": "W07000066"
+   },
+   "South East Cambridgeshire": {
+      "percent_oow": "0.043",
+      "id": "E14000937"
+   },
+   "Faversham and Mid Kent": {
+      "percent_oow": "0.066",
+      "id": "E14000700"
+   },
+   "Don Valley": {
+      "percent_oow": "0.099",
+      "id": "E14000667"
+   },
+   "Glasgow North West": {
+      "percent_oow": "0.152",
+      "id": "S14000033"
+   },
+   "Cities of London and Westminster": {
+      "percent_oow": "0.057",
+      "id": "E14000639"
+   },
+   "Glasgow East": {
+      "percent_oow": "0.192",
+      "id": "S14000030"
+   },
+   "Wealden": {
+      "percent_oow": "0.051",
+      "id": "E14001023"
+   },
+   "Selby and Ainsty": {
+      "percent_oow": "0.053",
+      "id": "E14000917"
+   },
+   "Kingswood": {
+      "percent_oow": "0.057",
+      "id": "E14000774"
+   },
+   "Manchester, Withington": {
+      "percent_oow": "0.07",
+      "id": "E14000809"
+   },
+   "Brecon and Radnorshire": {
+      "percent_oow": "0.083",
+      "id": "W07000068"
+   },
+   "Redcar": {
+      "percent_oow": "0.14",
+      "id": "E14000891"
+   },
+   "Airdrie and Shotts": {
+      "percent_oow": "0.129",
+      "id": "S14000003"
+   },
+   "Hove": {
+      "percent_oow": "0.078",
+      "id": "E14000755"
+   },
+   "Mitcham and Morden": {
+      "percent_oow": "0.069",
+      "id": "E14000823"
+   },
+   "Central Suffolk and North Ipswich": {
+      "percent_oow": "0.05",
+      "id": "E14000624"
+   },
+   "Banbury": {
+      "percent_oow": "0.051",
+      "id": "E14000539"
+   },
+   "Bexhill and Battle": {
+      "percent_oow": "0.074",
+      "id": "E14000557"
+   },
+   "Hemel Hempstead": {
+      "percent_oow": "0.066",
+      "id": "E14000739"
+   },
+   "Somerton and Frome": {
+      "percent_oow": "0.052",
+      "id": "E14000932"
+   },
+   "Uxbridge and South Ruislip": {
+      "percent_oow": "0.054",
+      "id": "E14001007"
+   },
+   "Hertford and Stortford": {
+      "percent_oow": "0.044",
+      "id": "E14000744"
+   },
+   "Croydon North": {
+      "percent_oow": "0.075",
+      "id": "E14000655"
+   },
+   "North Ayrshire and Arran": {
+      "percent_oow": "0.135",
+      "id": "S14000048"
+   },
+   "St Ives": {
+      "percent_oow": "0.09",
+      "id": "E14000964"
+   },
+   "Southport": {
+      "percent_oow": "0.094",
+      "id": "E14000958"
+   },
+   "Perth and North Perthshire": {
+      "percent_oow": "0.084",
+      "id": "S14000054"
+   },
+   "Dwyfor Meirionnydd": {
+      "percent_oow": "0.08",
+      "id": "W07000061"
+   },
+   "Dunfermline and West Fife": {
+      "percent_oow": "0.09",
+      "id": "S14000017"
+   },
+   "Bolton North East": {
+      "percent_oow": "0.123",
+      "id": "E14000578"
+   },
+   "Portsmouth South": {
+      "percent_oow": "0.086",
+      "id": "E14000884"
+   },
+   "Surrey Heath": {
+      "percent_oow": "0.042",
+      "id": "E14000983"
+   },
+   "Leigh": {
+      "percent_oow": "0.096",
+      "id": "E14000785"
+   },
+   "Houghton and Sunderland South": {
+      "percent_oow": "0.131",
+      "id": "E14000754"
+   },
+   "Sunderland Central": {
+      "percent_oow": "0.13",
+      "id": "E14000982"
+   },
+   "Hyndburn": {
+      "percent_oow": "0.117",
+      "id": "E14000758"
+   },
+   "Bridgend": {
+      "percent_oow": "0.106",
+      "id": "W07000073"
+   },
+   "Birmingham, Hodge Hill": {
+      "percent_oow": "0.146",
+      "id": "E14000563"
+   },
+   "West Worcestershire": {
+      "percent_oow": "0.064",
+      "id": "E14001035"
+   },
+   "Barnsley Central": {
+      "percent_oow": "0.121",
+      "id": "E14000541"
+   },
+   "Rother Valley": {
+      "percent_oow": "0.088",
+      "id": "E14000903"
+   },
+   "Tatton": {
+      "percent_oow": "0.048",
+      "id": "E14000987"
+   },
+   "East Lothian": {
+      "percent_oow": "0.066",
+      "id": "S14000020"
+   },
+   "Warrington North": {
+      "percent_oow": "0.086",
+      "id": "E14001017"
+   },
+   "South West Wiltshire": {
+      "percent_oow": "0.065",
+      "id": "E14000954"
+   },
+   "Kenilworth and Southam": {
+      "percent_oow": "0.034",
+      "id": "E14000767"
+   },
+   "Meriden": {
+      "percent_oow": "0.093",
+      "id": "E14000812"
+   },
+   "South Dorset": {
+      "percent_oow": "0.092",
+      "id": "E14000936"
+   },
+   "Glasgow North East": {
+      "percent_oow": "0.199",
+      "id": "S14000032"
+   },
+   "Skipton and Ripon": {
+      "percent_oow": "0.042",
+      "id": "E14000928"
+   },
+   "Worsley and Eccles South": {
+      "percent_oow": "0.116",
+      "id": "E14001054"
+   },
+   "Jarrow": {
+      "percent_oow": "0.119",
+      "id": "E14000765"
+   },
+   "Taunton Deane": {
+      "percent_oow": "0.069",
+      "id": "E14000988"
+   },
+   "Coventry North West": {
+      "percent_oow": "0.082",
+      "id": "E14000650"
+   },
+   "Paisley and Renfrewshire North": {
+      "percent_oow": "0.099",
+      "id": "S14000052"
+   },
+   "Gainsborough": {
+      "percent_oow": "0.087",
+      "id": "E14000707"
+   },
+   "Caithness, Sutherland and Easter Ross": {
+      "percent_oow": "0.105",
+      "id": "S14000009"
+   },
+   "Macclesfield": {
+      "percent_oow": "0.061",
+      "id": "E14000802"
+   },
+   "Liverpool, Riverside": {
+      "percent_oow": "0.108",
+      "id": "E14000793"
+   },
+   "South Suffolk": {
+      "percent_oow": "0.051",
+      "id": "E14000946"
+   },
+   "Erith and Thamesmead": {
+      "percent_oow": "0.092",
+      "id": "E14000696"
+   },
+   "South Ribble": {
+      "percent_oow": "0.059",
+      "id": "E14000943"
+   },
+   "Reading West": {
+      "percent_oow": "0.076",
+      "id": "E14000890"
+   },
+   "Torridge and West Devon": {
+      "percent_oow": "0.078",
+      "id": "E14001000"
+   },
+   "Nottingham South": {
+      "percent_oow": "0.075",
+      "id": "E14000867"
+   },
+   "West Dorset": {
+      "percent_oow": "0.062",
+      "id": "E14001031"
+   },
+   "Poole": {
+      "percent_oow": "0.068",
+      "id": "E14000881"
+   },
+   "Bournemouth West": {
+      "percent_oow": "0.084",
+      "id": "E14000585"
+   },
+   "Canterbury": {
+      "percent_oow": "0.058",
+      "id": "E14000619"
+   },
+   "Westminster North": {
+      "percent_oow": "0.086",
+      "id": "E14001036"
+   },
+   "North West Leicestershire": {
+      "percent_oow": "0.061",
+      "id": "E14000858"
+   },
+   "South West Devon": {
+      "percent_oow": "0.053",
+      "id": "E14000950"
+   },
+   "North West Norfolk": {
+      "percent_oow": "0.087",
+      "id": "E14000859"
+   },
+   "Bury North": {
+      "percent_oow": "0.091",
+      "id": "E14000611"
+   },
+   "Aldridge-Brownhills": {
+      "percent_oow": "0.073",
+      "id": "E14000531"
+   },
+   "Montgomeryshire": {
+      "percent_oow": "0.076",
+      "id": "W07000063"
+   },
+   "Preston": {
+      "percent_oow": "0.119",
+      "id": "E14000885"
+   },
+   "Brent North": {
+      "percent_oow": "0.054",
+      "id": "E14000592"
+   },
+   "North Tyneside": {
+      "percent_oow": "0.116",
+      "id": "E14000853"
+   },
+   "North East Hampshire": {
+      "percent_oow": "0.03",
+      "id": "E14000844"
+   },
+   "East Surrey": {
+      "percent_oow": "0.046",
+      "id": "E14000681"
+   },
+   "Birmingham, Northfield": {
+      "percent_oow": "0.151",
+      "id": "E14000565"
+   },
+   "Penrith and The Border": {
+      "percent_oow": "0.053",
+      "id": "E14000877"
+   },
+   "Romford": {
+      "percent_oow": "0.065",
+      "id": "E14000900"
+   },
+   "Salford and Eccles": {
+      "percent_oow": "0.11",
+      "id": "E14000911"
+   },
+   "Bethnal Green and Bow": {
+      "percent_oow": "0.088",
+      "id": "E14000555"
+   },
+   "Delyn": {
+      "percent_oow": "0.09",
+      "id": "W07000042"
+   },
+   "Fareham": {
+      "percent_oow": "0.044",
+      "id": "E14000699"
+   },
+   "Central Ayrshire": {
+      "percent_oow": "0.12",
+      "id": "S14000010"
+   },
+   "Henley": {
+      "percent_oow": "0.032",
+      "id": "E14000742"
+   },
+   "Argyll and Bute": {
+      "percent_oow": "0.089",
+      "id": "S14000005"
+   },
+   "Isle of Wight": {
+      "percent_oow": "0.101",
+      "id": "E14000762"
+   },
+   "Barnsley East": {
+      "percent_oow": "0.129",
+      "id": "E14000542"
+   },
+   "Wimbledon": {
+      "percent_oow": "0.035",
+      "id": "E14001040"
+   },
+   "Gillingham and Rainham": {
+      "percent_oow": "0.081",
+      "id": "E14000711"
+   },
+   "Islwyn": {
+      "percent_oow": "0.122",
+      "id": "W07000077"
+   },
+   "Bristol South": {
+      "percent_oow": "0.113",
+      "id": "E14000601"
+   },
+   "Dulwich and West Norwood": {
+      "percent_oow": "0.085",
+      "id": "E14000673"
+   },
+   "Lichfield": {
+      "percent_oow": "0.056",
+      "id": "E14000791"
+   },
+   "Burnley": {
+      "percent_oow": "0.131",
+      "id": "E14000609"
+   },
+   "Wells": {
+      "percent_oow": "0.066",
+      "id": "E14001026"
+   },
+   "West Aberdeenshire and Kincardine": {
+      "percent_oow": "0.042",
+      "id": "S14000058"
+   },
+   "Cheadle": {
+      "percent_oow": "0.048",
+      "id": "E14000627"
+   },
+   "South West Hertfordshire": {
+      "percent_oow": "0.04",
+      "id": "E14000951"
+   },
+   "Tottenham": {
+      "percent_oow": "0.11",
+      "id": "E14001002"
+   },
+   "Leicester West": {
+      "percent_oow": "0.125",
+      "id": "E14000784"
+   },
+   "Wellingborough": {
+      "percent_oow": "0.079",
+      "id": "E14001025"
+   },
+   "Gosport": {
+      "percent_oow": "0.071",
+      "id": "E14000713"
+   },
+   "Birmingham, Edgbaston": {
+      "percent_oow": "0.111",
+      "id": "E14000560"
+   },
+   "Birkenhead": {
+      "percent_oow": "0.177",
+      "id": "E14000559"
+   },
+   "Poplar and Limehouse": {
+      "percent_oow": "0.08",
+      "id": "E14000882"
+   },
+   "Carmarthen East and Dinefwr": {
+      "percent_oow": "0.103",
+      "id": "W07000067"
+   },
+   "Clacton": {
+      "percent_oow": "0.151",
+      "id": "E14000642"
+   },
+   "South Norfolk": {
+      "percent_oow": "0.053",
+      "id": "E14000941"
+   },
+   "Dover": {
+      "percent_oow": "0.096",
+      "id": "E14000670"
+   },
+   "Derbyshire Dales": {
+      "percent_oow": "0.047",
+      "id": "E14000664"
+   },
+   "Sutton and Cheam": {
+      "percent_oow": "0.037",
+      "id": "E14000984"
+   },
+   "Norwich North": {
+      "percent_oow": "0.089",
+      "id": "E14000863"
+   },
+   "Dumfries and Galloway": {
+      "percent_oow": "0.103",
+      "id": "S14000013"
+   },
+   "Coatbridge, Chryston and Bellshill": {
+      "percent_oow": "0.125",
+      "id": "S14000011"
+   },
+   "Eastleigh": {
+      "percent_oow": "0.049",
+      "id": "E14000685"
+   },
+   "Ilford South": {
+      "percent_oow": "0.063",
+      "id": "E14000760"
+   },
+   "Saffron Walden": {
+      "percent_oow": "0.037",
+      "id": "E14000910"
+   },
+   "City of Chester": {
+      "percent_oow": "0.07",
+      "id": "E14000640"
+   },
+   "Eltham": {
+      "percent_oow": "0.088",
+      "id": "E14000690"
+   }
+}

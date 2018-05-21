@@ -1,0 +1,2602 @@
+{
+   "North East Hertfordshire": {
+      "percent_unemployed": "0.0138073888568647",
+      "id": "E14000845"
+   },
+   "Blaydon": {
+      "percent_unemployed": "0.0359854321364042",
+      "id": "E14000574"
+   },
+   "Thornbury and Yate": {
+      "percent_unemployed": "0.00811415282405733",
+      "id": "E14000994"
+   },
+   "South Antrim": {
+      "percent_unemployed": "0.0218408277087376",
+      "id": "N06000014"
+   },
+   "Belfast North": {
+      "percent_unemployed": "0.0595953489704404",
+      "id": "N06000002"
+   },
+   "Fermanagh and South Tyrone": {
+      "percent_unemployed": "0.026786037196346",
+      "id": "N06000007"
+   },
+   "Ipswich": {
+      "percent_unemployed": "0.0278398054012917",
+      "id": "E14000761"
+   },
+   "Castle Point": {
+      "percent_unemployed": "0.0135932480060685",
+      "id": "E14000622"
+   },
+   "Rochdale": {
+      "percent_unemployed": "0.0502345099348494",
+      "id": "E14000897"
+   },
+   "Neath": {
+      "percent_unemployed": "0.0440817867704787",
+      "id": "W07000069"
+   },
+   "Leeds West": {
+      "percent_unemployed": "0.040526239769293",
+      "id": "E14000781"
+   },
+   "South Leicestershire": {
+      "percent_unemployed": "0.009406019501997",
+      "id": "E14000940"
+   },
+   "Ashton-under-Lyne": {
+      "percent_unemployed": "0.0441077547671019",
+      "id": "E14000537"
+   },
+   "Epsom and Ewell": {
+      "percent_unemployed": "0.00945290129463188",
+      "id": "E14000694"
+   },
+   "Walsall North": {
+      "percent_unemployed": "0.0537351533526391",
+      "id": "E14001011"
+   },
+   "Penistone and Stocksbridge": {
+      "percent_unemployed": "0.0197291981348316",
+      "id": "E14000876"
+   },
+   "New Forest East": {
+      "percent_unemployed": "0.0119685598609882",
+      "id": "E14000827"
+   },
+   "Chipping Barnet": {
+      "percent_unemployed": "0.0171691394755308",
+      "id": "E14000636"
+   },
+   "Kilmarnock and Loudoun": {
+      "percent_unemployed": "0.0565031210270083",
+      "id": "S14000040"
+   },
+   "Kettering": {
+      "percent_unemployed": "0.0245073620223891",
+      "id": "E14000769"
+   },
+   "Orkney and Shetland": {
+      "percent_unemployed": "0.0101929973478446",
+      "id": "S14000051"
+   },
+   "Aberavon": {
+      "percent_unemployed": "0.0504180523106919",
+      "id": "W07000049"
+   },
+   "Rossendale and Darwen": {
+      "percent_unemployed": "0.0306194618216354",
+      "id": "E14000902"
+   },
+   "Kensington": {
+      "percent_unemployed": "0.0244914123276961",
+      "id": "E14000768"
+   },
+   "Westmorland and Lonsdale": {
+      "percent_unemployed": "0.00676754700604411",
+      "id": "E14001037"
+   },
+   "Solihull": {
+      "percent_unemployed": "0.016782075550366",
+      "id": "E14000931"
+   },
+   "Totnes": {
+      "percent_unemployed": "0.0148965300612185",
+      "id": "E14001001"
+   },
+   "Garston and Halewood": {
+      "percent_unemployed": "0.0454273873078176",
+      "id": "E14000708"
+   },
+   "Warwick and Leamington": {
+      "percent_unemployed": "0.01302285642478",
+      "id": "E14001019"
+   },
+   "Basingstoke": {
+      "percent_unemployed": "0.0139181429640774",
+      "id": "E14000545"
+   },
+   "Chesterfield": {
+      "percent_unemployed": "0.0330216282363336",
+      "id": "E14000632"
+   },
+   "Dundee West": {
+      "percent_unemployed": "0.0667899035640849",
+      "id": "S14000016"
+   },
+   "East Devon": {
+      "percent_unemployed": "0.00923943361313763",
+      "id": "E14000678"
+   },
+   "Ceredigion": {
+      "percent_unemployed": "0.0152153099256256",
+      "id": "W07000064"
+   },
+   "Harwich and North Essex": {
+      "percent_unemployed": "0.0173749815941636",
+      "id": "E14000734"
+   },
+   "Bristol North West": {
+      "percent_unemployed": "0.0211829213083455",
+      "id": "E14000600"
+   },
+   "Aberdeen South": {
+      "percent_unemployed": "0.0225755564898158",
+      "id": "S14000002"
+   },
+   "Hartlepool": {
+      "percent_unemployed": "0.102680922006346",
+      "id": "E14000733"
+   },
+   "Hereford and South Herefordshire": {
+      "percent_unemployed": "0.0155985712394824",
+      "id": "E14000743"
+   },
+   "North East Bedfordshire": {
+      "percent_unemployed": "0.0161184066728131",
+      "id": "E14000841"
+   },
+   "Mid Norfolk": {
+      "percent_unemployed": "0.0139912167807038",
+      "id": "E14000816"
+   },
+   "Witham": {
+      "percent_unemployed": "0.013929217202886",
+      "id": "E14001045"
+   },
+   "Eastbourne": {
+      "percent_unemployed": "0.0342266575068097",
+      "id": "E14000684"
+   },
+   "Heywood and Middleton": {
+      "percent_unemployed": "0.0365609392383284",
+      "id": "E14000747"
+   },
+   "Cardiff South and Penarth": {
+      "percent_unemployed": "0.0326853316254522",
+      "id": "W07000080"
+   },
+   "South Down": {
+      "percent_unemployed": "0.0262164639572431",
+      "id": "N06000015"
+   },
+   "Bolton South East": {
+      "percent_unemployed": "0.0577286817901641",
+      "id": "E14000579"
+   },
+   "Vale of Glamorgan": {
+      "percent_unemployed": "0.0236661457819618",
+      "id": "W07000078"
+   },
+   "Caerphilly": {
+      "percent_unemployed": "0.0356048733882485",
+      "id": "W07000076"
+   },
+   "Morecambe and Lunesdale": {
+      "percent_unemployed": "0.0552918533381149",
+      "id": "E14000825"
+   },
+   "Derby North": {
+      "percent_unemployed": "0.0234978977824187",
+      "id": "E14000662"
+   },
+   "Winchester": {
+      "percent_unemployed": "0.00886732482367471",
+      "id": "E14001041"
+   },
+   "Staffordshire Moorlands": {
+      "percent_unemployed": "0.0142362348689788",
+      "id": "E14000966"
+   },
+   "Redditch": {
+      "percent_unemployed": "0.0283739677359186",
+      "id": "E14000892"
+   },
+   "Great Grimsby": {
+      "percent_unemployed": "0.0684331875225736",
+      "id": "E14000716"
+   },
+   "Milton Keynes North": {
+      "percent_unemployed": "0.0193233361208271",
+      "id": "E14000821"
+   },
+   "Ogmore": {
+      "percent_unemployed": "0.0288925999516845",
+      "id": "W07000074"
+   },
+   "Southampton, Itchen": {
+      "percent_unemployed": "0.0391978629517742",
+      "id": "E14000955"
+   },
+   "Wolverhampton South West": {
+      "percent_unemployed": "0.0581118327785969",
+      "id": "E14001051"
+   },
+   "Pendle": {
+      "percent_unemployed": "0.0311616508920755",
+      "id": "E14000875"
+   },
+   "Huddersfield": {
+      "percent_unemployed": "0.0507901997764108",
+      "id": "E14000756"
+   },
+   "City of Durham": {
+      "percent_unemployed": "0.0237815900572279",
+      "id": "E14000641"
+   },
+   "Milton Keynes South": {
+      "percent_unemployed": "0.0207951824246497",
+      "id": "E14000822"
+   },
+   "Banff and Buchan": {
+      "percent_unemployed": "0.0221667082243961",
+      "id": "S14000007"
+   },
+   "Richmond (Yorks)": {
+      "percent_unemployed": "0.0211143330831822",
+      "id": "E14000895"
+   },
+   "Edinburgh South": {
+      "percent_unemployed": "0.0141138874614325",
+      "id": "S14000024"
+   },
+   "Chippenham": {
+      "percent_unemployed": "0.0205546714566474",
+      "id": "E14000635"
+   },
+   "Buckingham": {
+      "percent_unemployed": "0.00705233001043047",
+      "id": "E14000608"
+   },
+   "Dumfriesshire, Clydesdale and Tweeddale": {
+      "percent_unemployed": "0.0197177287553953",
+      "id": "S14000014"
+   },
+   "Bradford East": {
+      "percent_unemployed": "0.0519962419002764",
+      "id": "E14000587"
+   },
+   "Sedgefield": {
+      "percent_unemployed": "0.0395988196083",
+      "id": "E14000915"
+   },
+   "Halesowen and Rowley Regis": {
+      "percent_unemployed": "0.0476423823295444",
+      "id": "E14000722"
+   },
+   "Stourbridge": {
+      "percent_unemployed": "0.0412562949192817",
+      "id": "E14000976"
+   },
+   "Broxbourne": {
+      "percent_unemployed": "0.0209395196389609",
+      "id": "E14000606"
+   },
+   "Bury St Edmunds": {
+      "percent_unemployed": "0.0151975651855651",
+      "id": "E14000613"
+   },
+   "Hertsmere": {
+      "percent_unemployed": "0.017402628736932",
+      "id": "E14000745"
+   },
+   "Clwyd South": {
+      "percent_unemployed": "0.0286073494945223",
+      "id": "W07000062"
+   },
+   "High Peak": {
+      "percent_unemployed": "0.0164594046650189",
+      "id": "E14000748"
+   },
+   "Halifax": {
+      "percent_unemployed": "0.057625705957369",
+      "id": "E14000723"
+   },
+   "Oxford East": {
+      "percent_unemployed": "0.0207931330678724",
+      "id": "E14000873"
+   },
+   "South Basildon and East Thurrock": {
+      "percent_unemployed": "0.0289031336464016",
+      "id": "E14000933"
+   },
+   "Cardiff North": {
+      "percent_unemployed": "0.0165198554323982",
+      "id": "W07000051"
+   },
+   "Luton South": {
+      "percent_unemployed": "0.0266209839764878",
+      "id": "E14000801"
+   },
+   "Camborne and Redruth": {
+      "percent_unemployed": "0.022498945313714",
+      "id": "E14000616"
+   },
+   "Alyn and Deeside": {
+      "percent_unemployed": "0.0294629218236477",
+      "id": "W07000043"
+   },
+   "Sittingbourne and Sheppey": {
+      "percent_unemployed": "0.0394417639570616",
+      "id": "E14000927"
+   },
+   "Warrington South": {
+      "percent_unemployed": "0.0277171230253973",
+      "id": "E14001018"
+   },
+   "Ealing, Southall": {
+      "percent_unemployed": "0.032286121749931",
+      "id": "E14000676"
+   },
+   "Normanton, Pontefract and Castleford": {
+      "percent_unemployed": "0.0292805944065347",
+      "id": "E14000836"
+   },
+   "Stockton North": {
+      "percent_unemployed": "0.054025332209685",
+      "id": "E14000970"
+   },
+   "Blyth Valley": {
+      "percent_unemployed": "0.0513217357631176",
+      "id": "E14000575"
+   },
+   "North West Hampshire": {
+      "percent_unemployed": "0.00900442213021259",
+      "id": "E14000857"
+   },
+   "Grantham and Stamford": {
+      "percent_unemployed": "0.0267189084713289",
+      "id": "E14000714"
+   },
+   "Chichester": {
+      "percent_unemployed": "0.0143166025441846",
+      "id": "E14000633"
+   },
+   "Ealing Central and Acton": {
+      "percent_unemployed": "0.0276668300055688",
+      "id": "E14000674"
+   },
+   "Bexleyheath and Crayford": {
+      "percent_unemployed": "0.0174813010176342",
+      "id": "E14000558"
+   },
+   "Tamworth": {
+      "percent_unemployed": "0.0212887285666826",
+      "id": "E14000986"
+   },
+   "South East Cornwall": {
+      "percent_unemployed": "0.020158975218389",
+      "id": "E14000938"
+   },
+   "Hitchin and Harpenden": {
+      "percent_unemployed": "0.0121606515955596",
+      "id": "E14000749"
+   },
+   "Bradford West": {
+      "percent_unemployed": "0.0605045400629557",
+      "id": "E14000589"
+   },
+   "North Norfolk": {
+      "percent_unemployed": "0.0143455218852332",
+      "id": "E14000848"
+   },
+   "The Cotswolds": {
+      "percent_unemployed": "0.0107459772691187",
+      "id": "E14000991"
+   },
+   "Esher and Walton": {
+      "percent_unemployed": "0.00841713881595054",
+      "id": "E14000697"
+   },
+   "Brentwood and Ongar": {
+      "percent_unemployed": "0.014507828332093",
+      "id": "E14000594"
+   },
+   "Hammersmith": {
+      "percent_unemployed": "0.0547697786822999",
+      "id": "E14000726"
+   },
+   "Mid Sussex": {
+      "percent_unemployed": "0.00603853468643095",
+      "id": "E14000817"
+   },
+   "Leeds North West": {
+      "percent_unemployed": "0.0158449898710632",
+      "id": "E14000780"
+   },
+   "Twickenham": {
+      "percent_unemployed": "0.0156110174147585",
+      "id": "E14001005"
+   },
+   "Sheffield, Hallam": {
+      "percent_unemployed": "0.0111453140856711",
+      "id": "E14000922"
+   },
+   "Rochford and Southend East": {
+      "percent_unemployed": "0.0492906022011159",
+      "id": "E14000899"
+   },
+   "Ashfield": {
+      "percent_unemployed": "0.0284501713875188",
+      "id": "E14000535"
+   },
+   "Kingston upon Hull North": {
+      "percent_unemployed": "0.0490212085012526",
+      "id": "E14000772"
+   },
+   "Scunthorpe": {
+      "percent_unemployed": "0.0477715196037222",
+      "id": "E14000914"
+   },
+   "Stretford and Urmston": {
+      "percent_unemployed": "0.0395277011484445",
+      "id": "E14000979"
+   },
+   "South Swindon": {
+      "percent_unemployed": "0.0337898872424804",
+      "id": "E14000947"
+   },
+   "Cheltenham": {
+      "percent_unemployed": "0.0166427436263523",
+      "id": "E14000630"
+   },
+   "Mid Derbyshire": {
+      "percent_unemployed": "0.0109514943879711",
+      "id": "E14000814"
+   },
+   "North Down": {
+      "percent_unemployed": "0.0246336758459967",
+      "id": "N06000013"
+   },
+   "Bath": {
+      "percent_unemployed": "0.0293911196682278",
+      "id": "E14000547"
+   },
+   "Stoke-on-Trent North": {
+      "percent_unemployed": "0.0392604527932879",
+      "id": "E14000973"
+   },
+   "Stratford-on-Avon": {
+      "percent_unemployed": "0.0164532415638031",
+      "id": "E14000977"
+   },
+   "Battersea": {
+      "percent_unemployed": "0.0172201429714803",
+      "id": "E14000549"
+   },
+   "Leeds North East": {
+      "percent_unemployed": "0.0269477396857823",
+      "id": "E14000779"
+   },
+   "St Albans": {
+      "percent_unemployed": "0.0167032788193479",
+      "id": "E14000960"
+   },
+   "Dudley North": {
+      "percent_unemployed": "0.0657857767221765",
+      "id": "E14000671"
+   },
+   "Chelmsford": {
+      "percent_unemployed": "0.0161984108730181",
+      "id": "E14000628"
+   },
+   "North Shropshire": {
+      "percent_unemployed": "0.0166401590171654",
+      "id": "E14000849"
+   },
+   "Waveney": {
+      "percent_unemployed": "0.0598612747153904",
+      "id": "E14001022"
+   },
+   "Thirsk and Malton": {
+      "percent_unemployed": "0.0210073666857112",
+      "id": "E14000993"
+   },
+   "Chatham and Aylesford": {
+      "percent_unemployed": "0.0248483535067664",
+      "id": "E14000626"
+   },
+   "Weston-Super-Mare": {
+      "percent_unemployed": "0.0347907349185454",
+      "id": "E14001038"
+   },
+   "Bassetlaw": {
+      "percent_unemployed": "0.0291710593490667",
+      "id": "E14000546"
+   },
+   "Edinburgh South West": {
+      "percent_unemployed": "0.022404096331284",
+      "id": "S14000025"
+   },
+   "Forest of Dean": {
+      "percent_unemployed": "0.0208143232779566",
+      "id": "E14000705"
+   },
+   "Motherwell and Wishaw": {
+      "percent_unemployed": "0.0403991348136767",
+      "id": "S14000047"
+   },
+   "Sefton Central": {
+      "percent_unemployed": "0.0190721427098715",
+      "id": "E14000916"
+   },
+   "Wansbeck": {
+      "percent_unemployed": "0.0475753098759044",
+      "id": "E14001014"
+   },
+   "Islington South and Finsbury": {
+      "percent_unemployed": "0.0271713813056638",
+      "id": "E14000764"
+   },
+   "South Holland and The Deepings": {
+      "percent_unemployed": "0.0167690242370268",
+      "id": "E14000939"
+   },
+   "Mid Ulster": {
+      "percent_unemployed": "0.0233031903970625",
+      "id": "N06000010"
+   },
+   "Angus": {
+      "percent_unemployed": "0.0427398351972205",
+      "id": "S14000004"
+   },
+   "East Londonderry": {
+      "percent_unemployed": "0.0433693203193875",
+      "id": "N06000006"
+   },
+   "Gower": {
+      "percent_unemployed": "0.0234751997272673",
+      "id": "W07000046"
+   },
+   "Stafford": {
+      "percent_unemployed": "0.0158570690036395",
+      "id": "E14000965"
+   },
+   "Glenrothes": {
+      "percent_unemployed": "0.0558860923710389",
+      "id": "S14000036"
+   },
+   "Inverclyde": {
+      "percent_unemployed": "0.0775097134477096",
+      "id": "S14000038"
+   },
+   "Harrow West": {
+      "percent_unemployed": "0.0172328554709017",
+      "id": "E14000732"
+   },
+   "Liverpool, West Derby": {
+      "percent_unemployed": "0.0519203713733283",
+      "id": "E14000796"
+   },
+   "Na h-Eileanan An Iar": {
+      "percent_unemployed": "0.0215808001525672",
+      "id": "S14000027"
+   },
+   "Ealing North": {
+      "percent_unemployed": "0.0291663639726722",
+      "id": "E14000675"
+   },
+   "Stirling": {
+      "percent_unemployed": "0.0342780516125117",
+      "id": "S14000057"
+   },
+   "East Renfrewshire": {
+      "percent_unemployed": "0.0161860218178727",
+      "id": "S14000021"
+   },
+   "Lagan Valley": {
+      "percent_unemployed": "0.0205344646924371",
+      "id": "N06000009"
+   },
+   "Crewe and Nantwich": {
+      "percent_unemployed": "0.0313890994923126",
+      "id": "E14000653"
+   },
+   "Walthamstow": {
+      "percent_unemployed": "0.0338128063949296",
+      "id": "E14001013"
+   },
+   "West Lancashire": {
+      "percent_unemployed": "0.0315096717211983",
+      "id": "E14001033"
+   },
+   "Rushcliffe": {
+      "percent_unemployed": "0.0118521443799158",
+      "id": "E14000908"
+   },
+   "St Helens North": {
+      "percent_unemployed": "0.0394985347629771",
+      "id": "E14000962"
+   },
+   "Great Yarmouth": {
+      "percent_unemployed": "0.0781180543431482",
+      "id": "E14000717"
+   },
+   "Reading East": {
+      "percent_unemployed": "0.0179959561739063",
+      "id": "E14000889"
+   },
+   "Bognor Regis and Littlehampton": {
+      "percent_unemployed": "0.0203520214892481",
+      "id": "E14000576"
+   },
+   "Birmingham, Yardley": {
+      "percent_unemployed": "0.067163349048037",
+      "id": "E14000568"
+   },
+   "South Cambridgeshire": {
+      "percent_unemployed": "0.00572891641436167",
+      "id": "E14000934"
+   },
+   "Welwyn Hatfield": {
+      "percent_unemployed": "0.0208074687390941",
+      "id": "E14001027"
+   },
+   "Southend West": {
+      "percent_unemployed": "0.0269482349095331",
+      "id": "E14000957"
+   },
+   "Beckenham": {
+      "percent_unemployed": "0.010450743123944",
+      "id": "E14000551"
+   },
+   "Wyre and Preston North": {
+      "percent_unemployed": "0.0103775369187115",
+      "id": "E14001057"
+   },
+   "Dundee East": {
+      "percent_unemployed": "0.0375140607065593",
+      "id": "S14000015"
+   },
+   "Salisbury": {
+      "percent_unemployed": "0.0191811542473608",
+      "id": "E14000912"
+   },
+   "Colne Valley": {
+      "percent_unemployed": "0.0271658352622419",
+      "id": "E14000645"
+   },
+   "Brighton, Pavilion": {
+      "percent_unemployed": "0.0194841060583382",
+      "id": "E14000598"
+   },
+   "Birmingham, Perry Barr": {
+      "percent_unemployed": "0.0840983793424318",
+      "id": "E14000566"
+   },
+   "Ilford North": {
+      "percent_unemployed": "0.0156639345241696",
+      "id": "E14000759"
+   },
+   "Kirkcaldy and Cowdenbeath": {
+      "percent_unemployed": "0.0581203056902859",
+      "id": "S14000041"
+   },
+   "East Antrim": {
+      "percent_unemployed": "0.0333281327055645",
+      "id": "N06000005"
+   },
+   "Wyre Forest": {
+      "percent_unemployed": "0.021629705029296",
+      "id": "E14001058"
+   },
+   "Peterborough": {
+      "percent_unemployed": "0.03505560503253",
+      "id": "E14000878"
+   },
+   "Epping Forest": {
+      "percent_unemployed": "0.016540461035251",
+      "id": "E14000693"
+   },
+   "Wolverhampton South East": {
+      "percent_unemployed": "0.0724764249879028",
+      "id": "E14001050"
+   },
+   "Wrexham": {
+      "percent_unemployed": "0.0332418883079525",
+      "id": "W07000044"
+   },
+   "Newark": {
+      "percent_unemployed": "0.0154992229447088",
+      "id": "E14000829"
+   },
+   "South Staffordshire": {
+      "percent_unemployed": "0.0186436120477486",
+      "id": "E14000945"
+   },
+   "Bournemouth East": {
+      "percent_unemployed": "0.0282364442531046",
+      "id": "E14000584"
+   },
+   "Bristol East": {
+      "percent_unemployed": "0.0231013081308209",
+      "id": "E14000599"
+   },
+   "Weaver Vale": {
+      "percent_unemployed": "0.0338061512226058",
+      "id": "E14001024"
+   },
+   "Glasgow South West": {
+      "percent_unemployed": "0.0545244146508716",
+      "id": "S14000035"
+   },
+   "Portsmouth North": {
+      "percent_unemployed": "0.0191441192445515",
+      "id": "E14000883"
+   },
+   "Witney": {
+      "percent_unemployed": "0.0104448711969735",
+      "id": "E14001046"
+   },
+   "Ochil and South Perthshire": {
+      "percent_unemployed": "0.034942631237951",
+      "id": "S14000050"
+   },
+   "Llanelli": {
+      "percent_unemployed": "0.0302445349679488",
+      "id": "W07000045"
+   },
+   "Birmingham, Erdington": {
+      "percent_unemployed": "0.0813687302681093",
+      "id": "E14000561"
+   },
+   "Liverpool, Walton": {
+      "percent_unemployed": "0.0693772292701541",
+      "id": "E14000794"
+   },
+   "Exeter": {
+      "percent_unemployed": "0.0142309093655135",
+      "id": "E14000698"
+   },
+   "Glasgow North": {
+      "percent_unemployed": "0.0381260411398525",
+      "id": "S14000031"
+   },
+   "Lewisham East": {
+      "percent_unemployed": "0.0322714323644403",
+      "id": "E14000787"
+   },
+   "West Bromwich East": {
+      "percent_unemployed": "0.0506929535302628",
+      "id": "E14001029"
+   },
+   "Altrincham and Sale West": {
+      "percent_unemployed": "0.0184684384186255",
+      "id": "E14000532"
+   },
+   "Hendon": {
+      "percent_unemployed": "0.0203953810681485",
+      "id": "E14000741"
+   },
+   "Stockton South": {
+      "percent_unemployed": "0.0318108357114335",
+      "id": "E14000971"
+   },
+   "Middlesbrough South and East Cleveland": {
+      "percent_unemployed": "0.0413083255976391",
+      "id": "E14000820"
+   },
+   "Gordon": {
+      "percent_unemployed": "0.0132292527364398",
+      "id": "S14000037"
+   },
+   "Brigg and Goole": {
+      "percent_unemployed": "0.0265674314889165",
+      "id": "E14000596"
+   },
+   "Midlothian": {
+      "percent_unemployed": "0.0394100561886395",
+      "id": "S14000045"
+   },
+   "Louth and Horncastle": {
+      "percent_unemployed": "0.0247262331589241",
+      "id": "E14000798"
+   },
+   "Wallasey": {
+      "percent_unemployed": "0.0413302668862957",
+      "id": "E14001010"
+   },
+   "Gateshead": {
+      "percent_unemployed": "0.0641517385945185",
+      "id": "E14000709"
+   },
+   "Falkirk": {
+      "percent_unemployed": "0.0317563046488696",
+      "id": "S14000028"
+   },
+   "Vale of Clwyd": {
+      "percent_unemployed": "0.0313669163325835",
+      "id": "W07000060"
+   },
+   "Birmingham, Hall Green": {
+      "percent_unemployed": "0.076142146749903",
+      "id": "E14000562"
+   },
+   "Birmingham, Ladywood": {
+      "percent_unemployed": "0.108532516353885",
+      "id": "E14000564"
+   },
+   "Oxford West and Abingdon": {
+      "percent_unemployed": "0.0119415967217256",
+      "id": "E14000874"
+   },
+   "West Bromwich West": {
+      "percent_unemployed": "0.0513364071630693",
+      "id": "E14001030"
+   },
+   "Camberwell and Peckham": {
+      "percent_unemployed": "0.0583270509709115",
+      "id": "E14000615"
+   },
+   "Edmonton": {
+      "percent_unemployed": "0.0416448407625006",
+      "id": "E14000687"
+   },
+   "Dudley South": {
+      "percent_unemployed": "0.0523804626854505",
+      "id": "E14000672"
+   },
+   "Stoke-on-Trent South": {
+      "percent_unemployed": "0.0290048037977837",
+      "id": "E14000974"
+   },
+   "Sevenoaks": {
+      "percent_unemployed": "0.00912655919059445",
+      "id": "E14000918"
+   },
+   "Truro and Falmouth": {
+      "percent_unemployed": "0.0148134242241363",
+      "id": "E14001003"
+   },
+   "Halton": {
+      "percent_unemployed": "0.0596409753278355",
+      "id": "E14000725"
+   },
+   "Bradford South": {
+      "percent_unemployed": "0.0404901893367186",
+      "id": "E14000588"
+   },
+   "Lanark and Hamilton East": {
+      "percent_unemployed": "0.0439139184115687",
+      "id": "S14000042"
+   },
+   "Newcastle-under-Lyme": {
+      "percent_unemployed": "0.020977792087873",
+      "id": "E14000834"
+   },
+   "Broadland": {
+      "percent_unemployed": "0.0108568728869172",
+      "id": "E14000603"
+   },
+   "Dewsbury": {
+      "percent_unemployed": "0.0374002144807649",
+      "id": "E14000666"
+   },
+   "South West Surrey": {
+      "percent_unemployed": "0.00695211598805189",
+      "id": "E14000953"
+   },
+   "Telford": {
+      "percent_unemployed": "0.0329403812493364",
+      "id": "E14000989"
+   },
+   "Finchley and Golders Green": {
+      "percent_unemployed": "0.0193312228429253",
+      "id": "E14000703"
+   },
+   "Rotherham": {
+      "percent_unemployed": "0.0493452773870361",
+      "id": "E14000904"
+   },
+   "Coventry South": {
+      "percent_unemployed": "0.0280606233381554",
+      "id": "E14000651"
+   },
+   "Feltham and Heston": {
+      "percent_unemployed": "0.0493952617607963",
+      "id": "E14000701"
+   },
+   "Stone": {
+      "percent_unemployed": "0.00959893564309582",
+      "id": "E14000975"
+   },
+   "Calder Valley": {
+      "percent_unemployed": "0.0314326771725536",
+      "id": "E14000614"
+   },
+   "Northampton South": {
+      "percent_unemployed": "0.0295272577682533",
+      "id": "E14000862"
+   },
+   "Tooting": {
+      "percent_unemployed": "0.0198492241075562",
+      "id": "E14000998"
+   },
+   "Stalybridge and Hyde": {
+      "percent_unemployed": "0.0382447898013877",
+      "id": "E14000967"
+   },
+   "Croydon South": {
+      "percent_unemployed": "0.0326500768316461",
+      "id": "E14000656"
+   },
+   "Tynemouth": {
+      "percent_unemployed": "0.0282581677235412",
+      "id": "E14001006"
+   },
+   "Berwick-upon-Tweed": {
+      "percent_unemployed": "0.02209231333685",
+      "id": "E14000554"
+   },
+   "Ross, Skye and Lochaber": {
+      "percent_unemployed": "0.0250881585076925",
+      "id": "S14000055"
+   },
+   "Leicester South": {
+      "percent_unemployed": "0.0296073211777134",
+      "id": "E14000783"
+   },
+   "Ynys Mon": {
+      "percent_unemployed": "0.0329394532269063",
+      "id": "W07000041"
+   },
+   "Beverley and Holderness": {
+      "percent_unemployed": "0.0180382640477912",
+      "id": "E14000556"
+   },
+   "Cambridge": {
+      "percent_unemployed": "0.0129968288479406",
+      "id": "E14000617"
+   },
+   "Holborn and St Pancras": {
+      "percent_unemployed": "0.0286302579712896",
+      "id": "E14000750"
+   },
+   "Woking": {
+      "percent_unemployed": "0.00862805675367217",
+      "id": "E14001047"
+   },
+   "Washington and Sunderland West": {
+      "percent_unemployed": "0.0438859190110272",
+      "id": "E14001020"
+   },
+   "Sheffield South East": {
+      "percent_unemployed": "0.033770636925553",
+      "id": "E14000920"
+   },
+   "Romsey and Southampton North": {
+      "percent_unemployed": "0.0159090213326683",
+      "id": "E14000901"
+   },
+   "Coventry North East": {
+      "percent_unemployed": "0.0337221469554237",
+      "id": "E14000649"
+   },
+   "Hornsey and Wood Green": {
+      "percent_unemployed": "0.0229436886500036",
+      "id": "E14000752"
+   },
+   "Newcastle upon Tyne North": {
+      "percent_unemployed": "0.0472837969497927",
+      "id": "E14000833"
+   },
+   "Sheffield, Heeley": {
+      "percent_unemployed": "0.043976644761188",
+      "id": "E14000923"
+   },
+   "Sutton Coldfield": {
+      "percent_unemployed": "0.0201406187540205",
+      "id": "E14000985"
+   },
+   "North Durham": {
+      "percent_unemployed": "0.0421302255563932",
+      "id": "E14000840"
+   },
+   "North West Durham": {
+      "percent_unemployed": "0.0367134512365081",
+      "id": "E14000856"
+   },
+   "Wirral West": {
+      "percent_unemployed": "0.0215133140046862",
+      "id": "E14001044"
+   },
+   "Mid Worcestershire": {
+      "percent_unemployed": "0.0149346164418086",
+      "id": "E14000818"
+   },
+   "Dagenham and Rainham": {
+      "percent_unemployed": "0.032588429662067",
+      "id": "E14000657"
+   },
+   "Suffolk Coastal": {
+      "percent_unemployed": "0.0119979989944984",
+      "id": "E14000981"
+   },
+   "Newbury": {
+      "percent_unemployed": "0.0110693499668859",
+      "id": "E14000830"
+   },
+   "Loughborough": {
+      "percent_unemployed": "0.0138382357404335",
+      "id": "E14000797"
+   },
+   "Barrow and Furness": {
+      "percent_unemployed": "0.0284557345483822",
+      "id": "E14000543"
+   },
+   "Haltemprice and Howden": {
+      "percent_unemployed": "0.0113966986248333",
+      "id": "E14000724"
+   },
+   "Gedling": {
+      "percent_unemployed": "0.0217501902814676",
+      "id": "E14000710"
+   },
+   "South Shields": {
+      "percent_unemployed": "0.0725731319665833",
+      "id": "E14000944"
+   },
+   "North Somerset": {
+      "percent_unemployed": "0.00959152682506152",
+      "id": "E14000850"
+   },
+   "Ayr, Carrick and Cumnock": {
+      "percent_unemployed": "0.0455265663809649",
+      "id": "S14000006"
+   },
+   "Lincoln": {
+      "percent_unemployed": "0.0333316695642496",
+      "id": "E14000792"
+   },
+   "Swansea West": {
+      "percent_unemployed": "0.0481463842478149",
+      "id": "W07000047"
+   },
+   "Moray": {
+      "percent_unemployed": "0.0240977930103237",
+      "id": "S14000046"
+   },
+   "Belfast West": {
+      "percent_unemployed": "0.0634803885977544",
+      "id": "N06000004"
+   },
+   "Richmond Park": {
+      "percent_unemployed": "0.0135426399120482",
+      "id": "E14000896"
+   },
+   "Amber Valley": {
+      "percent_unemployed": "0.0209498859186669",
+      "id": "E14000533"
+   },
+   "Chingford and Woodford Green": {
+      "percent_unemployed": "0.0207420601157992",
+      "id": "E14000634"
+   },
+   "Bridgwater and West Somerset": {
+      "percent_unemployed": "0.0408097819189889",
+      "id": "E14000595"
+   },
+   "Stockport": {
+      "percent_unemployed": "0.0376517394384424",
+      "id": "E14000969"
+   },
+   "Kingston and Surbiton": {
+      "percent_unemployed": "0.0153259641860008",
+      "id": "E14000770"
+   },
+   "Cannock Chase": {
+      "percent_unemployed": "0.0190598711385868",
+      "id": "E14000618"
+   },
+   "Bermondsey and Old Southwark": {
+      "percent_unemployed": "0.0452591248128825",
+      "id": "E14000553"
+   },
+   "Mole Valley": {
+      "percent_unemployed": "0.00709160055050392",
+      "id": "E14000824"
+   },
+   "Derby South": {
+      "percent_unemployed": "0.0401861804074335",
+      "id": "E14000663"
+   },
+   "Maidenhead": {
+      "percent_unemployed": "0.009662638092849",
+      "id": "E14000803"
+   },
+   "Knowsley": {
+      "percent_unemployed": "0.0517471441470491",
+      "id": "E14000775"
+   },
+   "Nottingham North": {
+      "percent_unemployed": "0.0644892734453538",
+      "id": "E14000866"
+   },
+   "Burton": {
+      "percent_unemployed": "0.0169378633293256",
+      "id": "E14000610"
+   },
+   "Hemsworth": {
+      "percent_unemployed": "0.0267083080971026",
+      "id": "E14000740"
+   },
+   "Cynon Valley": {
+      "percent_unemployed": "0.0344051942389976",
+      "id": "W07000070"
+   },
+   "North Herefordshire": {
+      "percent_unemployed": "0.0131670797410151",
+      "id": "E14000847"
+   },
+   "West Suffolk": {
+      "percent_unemployed": "0.0165049757647942",
+      "id": "E14001034"
+   },
+   "South Northamptonshire": {
+      "percent_unemployed": "0.00794873246769903",
+      "id": "E14000942"
+   },
+   "Runnymede and Weybridge": {
+      "percent_unemployed": "0.0087423647887825",
+      "id": "E14000907"
+   },
+   "Erewash": {
+      "percent_unemployed": "0.0403052519726817",
+      "id": "E14000695"
+   },
+   "Aylesbury": {
+      "percent_unemployed": "0.0124934022436004",
+      "id": "E14000538"
+   },
+   "Blackpool North and Cleveleys": {
+      "percent_unemployed": "0.0479401453371049",
+      "id": "E14000572"
+   },
+   "Putney": {
+      "percent_unemployed": "0.0180747239210576",
+      "id": "E14000887"
+   },
+   "Boston and Skegness": {
+      "percent_unemployed": "0.031360332427165",
+      "id": "E14000582"
+   },
+   "Beaconsfield": {
+      "percent_unemployed": "0.00911090386432036",
+      "id": "E14000550"
+   },
+   "East Hampshire": {
+      "percent_unemployed": "0.00804713355883704",
+      "id": "E14000680"
+   },
+   "Worthing West": {
+      "percent_unemployed": "0.0180839384123901",
+      "id": "E14001055"
+   },
+   "Upper Bann": {
+      "percent_unemployed": "0.0275791159936204",
+      "id": "N06000017"
+   },
+   "North East Derbyshire": {
+      "percent_unemployed": "0.0197305423562684",
+      "id": "E14000843"
+   },
+   "Meon Valley": {
+      "percent_unemployed": "0.0105930074600684",
+      "id": "E14000811"
+   },
+   "Stroud": {
+      "percent_unemployed": "0.0140986845050269",
+      "id": "E14000980"
+   },
+   "Bromley and Chislehurst": {
+      "percent_unemployed": "0.0163633317642742",
+      "id": "E14000604"
+   },
+   "Newry and Armagh": {
+      "percent_unemployed": "0.0298409261942031",
+      "id": "N06000011"
+   },
+   "Morley and Outwood": {
+      "percent_unemployed": "0.0147217618116556",
+      "id": "E14000826"
+   },
+   "Lancaster and Fleetwood": {
+      "percent_unemployed": "0.0333188645452673",
+      "id": "E14000776"
+   },
+   "Guildford": {
+      "percent_unemployed": "0.00792217908193442",
+      "id": "E14000719"
+   },
+   "Rugby": {
+      "percent_unemployed": "0.031661823440222",
+      "id": "E14000905"
+   },
+   "Newcastle upon Tyne East": {
+      "percent_unemployed": "0.0578743466850952",
+      "id": "E14000832"
+   },
+   "Fylde": {
+      "percent_unemployed": "0.0188120565606627",
+      "id": "E14000706"
+   },
+   "Rutland and Melton": {
+      "percent_unemployed": "0.0188488567450085",
+      "id": "E14000909"
+   },
+   "Ludlow": {
+      "percent_unemployed": "0.0156130898548165",
+      "id": "E14000799"
+   },
+   "North East Fife": {
+      "percent_unemployed": "0.0250507793111769",
+      "id": "S14000049"
+   },
+   "North Swindon": {
+      "percent_unemployed": "0.0273751473305081",
+      "id": "E14000851"
+   },
+   "Newport East": {
+      "percent_unemployed": "0.0423427375365741",
+      "id": "W07000055"
+   },
+   "South Thanet": {
+      "percent_unemployed": "0.0625714312818745",
+      "id": "E14000948"
+   },
+   "Sleaford and North Hykeham": {
+      "percent_unemployed": "0.0126800650687348",
+      "id": "E14000929"
+   },
+   "Rhondda": {
+      "percent_unemployed": "0.0437571232585632",
+      "id": "W07000052"
+   },
+   "Wycombe": {
+      "percent_unemployed": "0.0184688614104837",
+      "id": "E14001056"
+   },
+   "Wirral South": {
+      "percent_unemployed": "0.0193189200010547",
+      "id": "E14001043"
+   },
+   "Barking": {
+      "percent_unemployed": "0.0347717487733596",
+      "id": "E14000540"
+   },
+   "Tewkesbury": {
+      "percent_unemployed": "0.0122490842583163",
+      "id": "E14000990"
+   },
+   "Rayleigh and Wickford": {
+      "percent_unemployed": "0.0107462242962108",
+      "id": "E14000888"
+   },
+   "Huntingdon": {
+      "percent_unemployed": "0.0101226235309466",
+      "id": "E14000757"
+   },
+   "Vauxhall": {
+      "percent_unemployed": "0.0337814394869434",
+      "id": "E14001008"
+   },
+   "West Tyrone": {
+      "percent_unemployed": "0.0409202044229598",
+      "id": "N06000018"
+   },
+   "Bolsover": {
+      "percent_unemployed": "0.0226894591285926",
+      "id": "E14000577"
+   },
+   "Crawley": {
+      "percent_unemployed": "0.0175047980865013",
+      "id": "E14000652"
+   },
+   "York Outer": {
+      "percent_unemployed": "0.00987715187650079",
+      "id": "E14001062"
+   },
+   "The Wrekin": {
+      "percent_unemployed": "0.0180572532224211",
+      "id": "E14000992"
+   },
+   "Tunbridge Wells": {
+      "percent_unemployed": "0.0115637533405333",
+      "id": "E14001004"
+   },
+   "Filton and Bradley Stoke": {
+      "percent_unemployed": "0.0110436777068161",
+      "id": "E14000702"
+   },
+   "Plymouth, Sutton and Devonport": {
+      "percent_unemployed": "0.0464605215056278",
+      "id": "E14000880"
+   },
+   "Blaenau Gwent": {
+      "percent_unemployed": "0.0405223524084388",
+      "id": "W07000072"
+   },
+   "Sheffield Central": {
+      "percent_unemployed": "0.0330135708958602",
+      "id": "E14000919"
+   },
+   "Hackney South and Shoreditch": {
+      "percent_unemployed": "0.0363934911433805",
+      "id": "E14000721"
+   },
+   "Nottingham East": {
+      "percent_unemployed": "0.05746936293521",
+      "id": "E14000865"
+   },
+   "Ribble Valley": {
+      "percent_unemployed": "0.0123215250076248",
+      "id": "E14000894"
+   },
+   "Manchester Central": {
+      "percent_unemployed": "0.0511359060732372",
+      "id": "E14000807"
+   },
+   "Newcastle upon Tyne Central": {
+      "percent_unemployed": "0.0860866491584614",
+      "id": "E14000831"
+   },
+   "Central Devon": {
+      "percent_unemployed": "0.0107673407610737",
+      "id": "E14000623"
+   },
+   "Hampstead and Kilburn": {
+      "percent_unemployed": "0.0202949742421764",
+      "id": "E14000727"
+   },
+   "York Central": {
+      "percent_unemployed": "0.0228612344794514",
+      "id": "E14001061"
+   },
+   "Arundel and South Downs": {
+      "percent_unemployed": "0.00843766200824009",
+      "id": "E14000534"
+   },
+   "North East Cambridgeshire": {
+      "percent_unemployed": "0.0158236807320519",
+      "id": "E14000842"
+   },
+   "Preseli Pembrokeshire": {
+      "percent_unemployed": "0.0259763953321313",
+      "id": "W07000065"
+   },
+   "Chesham and Amersham": {
+      "percent_unemployed": "0.00969864205288684",
+      "id": "E14000631"
+   },
+   "South West Bedfordshire": {
+      "percent_unemployed": "0.0108059506203035",
+      "id": "E14000949"
+   },
+   "Sheffield, Brightside and Hillsborough": {
+      "percent_unemployed": "0.0564657379203479",
+      "id": "E14000921"
+   },
+   "Maidstone and The Weald": {
+      "percent_unemployed": "0.0156585624745166",
+      "id": "E14000804"
+   },
+   "Bedford": {
+      "percent_unemployed": "0.0532066186881725",
+      "id": "E14000552"
+   },
+   "Torfaen": {
+      "percent_unemployed": "0.0512761079805467",
+      "id": "W07000053"
+   },
+   "Ruislip, Northwood and Pinner": {
+      "percent_unemployed": "0.011470670221656",
+      "id": "E14000906"
+   },
+   "North East Somerset": {
+      "percent_unemployed": "0.0228652436862226",
+      "id": "E14000846"
+   },
+   "Spelthorne": {
+      "percent_unemployed": "0.0114533812481405",
+      "id": "E14000959"
+   },
+   "Wakefield": {
+      "percent_unemployed": "0.0287822676310619",
+      "id": "E14001009"
+   },
+   "Havant": {
+      "percent_unemployed": "0.0221834086084428",
+      "id": "E14000736"
+   },
+   "North Warwickshire": {
+      "percent_unemployed": "0.0222117967184015",
+      "id": "E14000854"
+   },
+   "Lewisham West and Penge": {
+      "percent_unemployed": "0.0317373880400624",
+      "id": "E14000788"
+   },
+   "Manchester, Gorton": {
+      "percent_unemployed": "0.0560856278013444",
+      "id": "E14000808"
+   },
+   "Gloucester": {
+      "percent_unemployed": "0.0220584490599646",
+      "id": "E14000712"
+   },
+   "Aldershot": {
+      "percent_unemployed": "0.00977144264718974",
+      "id": "E14000530"
+   },
+   "Oldham East and Saddleworth": {
+      "percent_unemployed": "0.0615171289631253",
+      "id": "E14000870"
+   },
+   "Wigan": {
+      "percent_unemployed": "0.0406696585825243",
+      "id": "E14001039"
+   },
+   "Mid Dorset and North Poole": {
+      "percent_unemployed": "0.0124738999364748",
+      "id": "E14000815"
+   },
+   "North Dorset": {
+      "percent_unemployed": "0.0118954013525315",
+      "id": "E14000839"
+   },
+   "Darlington": {
+      "percent_unemployed": "0.0513052217161937",
+      "id": "E14000658"
+   },
+   "Enfield, Southgate": {
+      "percent_unemployed": "0.0177997848956909",
+      "id": "E14000692"
+   },
+   "Stevenage": {
+      "percent_unemployed": "0.0181335392710587",
+      "id": "E14000968"
+   },
+   "Eddisbury": {
+      "percent_unemployed": "0.0230844810925491",
+      "id": "E14000686"
+   },
+   "Carshalton and Wallington": {
+      "percent_unemployed": "0.0373712517581404",
+      "id": "E14000621"
+   },
+   "Rochester and Strood": {
+      "percent_unemployed": "0.0221323372422816",
+      "id": "E14000898"
+   },
+   "Slough": {
+      "percent_unemployed": "0.0178638976255943",
+      "id": "E14000930"
+   },
+   "North Thanet": {
+      "percent_unemployed": "0.0475866916048236",
+      "id": "E14000852"
+   },
+   "Harrow East": {
+      "percent_unemployed": "0.0142596139248382",
+      "id": "E14000731"
+   },
+   "Easington": {
+      "percent_unemployed": "0.0716800429748885",
+      "id": "E14000677"
+   },
+   "Leeds Central": {
+      "percent_unemployed": "0.0516207544211887",
+      "id": "E14000777"
+   },
+   "Gravesham": {
+      "percent_unemployed": "0.0269922894512957",
+      "id": "E14000715"
+   },
+   "Wolverhampton North East": {
+      "percent_unemployed": "0.0661197509821728",
+      "id": "E14001049"
+   },
+   "Plymouth, Moor View": {
+      "percent_unemployed": "0.0303759550059769",
+      "id": "E14000879"
+   },
+   "Merthyr Tydfil and Rhymney": {
+      "percent_unemployed": "0.0426318631885997",
+      "id": "W07000071"
+   },
+   "Colchester": {
+      "percent_unemployed": "0.0186945160083892",
+      "id": "E14000644"
+   },
+   "Arfon": {
+      "percent_unemployed": "0.0322396606442719",
+      "id": "W07000057"
+   },
+   "Harlow": {
+      "percent_unemployed": "0.032804681630661",
+      "id": "E14000729"
+   },
+   "Doncaster North": {
+      "percent_unemployed": "0.0485612593436517",
+      "id": "E14000669"
+   },
+   "Congleton": {
+      "percent_unemployed": "0.0165604323597689",
+      "id": "E14000646"
+   },
+   "Broxtowe": {
+      "percent_unemployed": "0.0187599606451243",
+      "id": "E14000607"
+   },
+   "Bristol West": {
+      "percent_unemployed": "0.0238959742356299",
+      "id": "E14000602"
+   },
+   "Blackburn": {
+      "percent_unemployed": "0.0517837341128292",
+      "id": "E14000570"
+   },
+   "Luton North": {
+      "percent_unemployed": "0.022521069403393",
+      "id": "E14000800"
+   },
+   "Yeovil": {
+      "percent_unemployed": "0.0269784315908843",
+      "id": "E14001060"
+   },
+   "Wokingham": {
+      "percent_unemployed": "0.00848478039840329",
+      "id": "E14001048"
+   },
+   "Blackpool South": {
+      "percent_unemployed": "0.0693838241974394",
+      "id": "E14000573"
+   },
+   "Horsham": {
+      "percent_unemployed": "0.00908575933812712",
+      "id": "E14000753"
+   },
+   "Newport West": {
+      "percent_unemployed": "0.0443969567984235",
+      "id": "W07000056"
+   },
+   "Lewisham, Deptford": {
+      "percent_unemployed": "0.033822609606927",
+      "id": "E14000789"
+   },
+   "Streatham": {
+      "percent_unemployed": "0.0282928862950438",
+      "id": "E14000978"
+   },
+   "Lewes": {
+      "percent_unemployed": "0.0154931114506086",
+      "id": "E14000786"
+   },
+   "Wantage": {
+      "percent_unemployed": "0.0119147519367112",
+      "id": "E14001015"
+   },
+   "Scarborough and Whitby": {
+      "percent_unemployed": "0.0240080719250283",
+      "id": "E14000913"
+   },
+   "Middlesbrough": {
+      "percent_unemployed": "0.0784472382988495",
+      "id": "E14000819"
+   },
+   "Watford": {
+      "percent_unemployed": "0.0203336288122895",
+      "id": "E14001021"
+   },
+   "Maldon": {
+      "percent_unemployed": "0.01186087928306",
+      "id": "E14000806"
+   },
+   "Bishop Auckland": {
+      "percent_unemployed": "0.0484642086604721",
+      "id": "E14000569"
+   },
+   "Cardiff Central": {
+      "percent_unemployed": "0.0307648583098909",
+      "id": "W07000050"
+   },
+   "Reigate": {
+      "percent_unemployed": "0.0101921122505663",
+      "id": "E14000893"
+   },
+   "Carlisle": {
+      "percent_unemployed": "0.0227404363290492",
+      "id": "E14000620"
+   },
+   "Berwickshire, Roxburgh and Selkirk": {
+      "percent_unemployed": "0.0230017553066066",
+      "id": "S14000008"
+   },
+   "Keighley": {
+      "percent_unemployed": "0.0248256836200015",
+      "id": "E14000766"
+   },
+   "Hayes and Harlington": {
+      "percent_unemployed": "0.0250486946001967",
+      "id": "E14000737"
+   },
+   "Torbay": {
+      "percent_unemployed": "0.032506985047548",
+      "id": "E14000999"
+   },
+   "Kingston upon Hull West and Hessle": {
+      "percent_unemployed": "0.0536084704743172",
+      "id": "E14000773"
+   },
+   "Southampton, Test": {
+      "percent_unemployed": "0.0414373011733919",
+      "id": "E14000956"
+   },
+   "Birmingham, Selly Oak": {
+      "percent_unemployed": "0.0508527000112597",
+      "id": "E14000567"
+   },
+   "Sherwood": {
+      "percent_unemployed": "0.0228186072984525",
+      "id": "E14000924"
+   },
+   "Blackley and Broughton": {
+      "percent_unemployed": "0.0627083786157468",
+      "id": "E14000571"
+   },
+   "Inverness, Nairn, Badenoch and Strathspey": {
+      "percent_unemployed": "0.0371196350618852",
+      "id": "S14000039"
+   },
+   "East Yorkshire": {
+      "percent_unemployed": "0.0222677802498722",
+      "id": "E14000683"
+   },
+   "Norwich South": {
+      "percent_unemployed": "0.0237164088085176",
+      "id": "E14000864"
+   },
+   "Orpington": {
+      "percent_unemployed": "0.0115056287043785",
+      "id": "E14000872"
+   },
+   "Dartford": {
+      "percent_unemployed": "0.0142256641212874",
+      "id": "E14000659"
+   },
+   "Bury South": {
+      "percent_unemployed": "0.0314926915881212",
+      "id": "E14000612"
+   },
+   "Linlithgow and East Falkirk": {
+      "percent_unemployed": "0.0280151814196538",
+      "id": "S14000043"
+   },
+   "Bracknell": {
+      "percent_unemployed": "0.00905882087732248",
+      "id": "E14000586"
+   },
+   "Monmouth": {
+      "percent_unemployed": "0.0155585491876245",
+      "id": "W07000054"
+   },
+   "Batley and Spen": {
+      "percent_unemployed": "0.0408261518818984",
+      "id": "E14000548"
+   },
+   "Foyle": {
+      "percent_unemployed": "0.0756291978595456",
+      "id": "N06000008"
+   },
+   "Chorley": {
+      "percent_unemployed": "0.0219856448701763",
+      "id": "E14000637"
+   },
+   "Mansfield": {
+      "percent_unemployed": "0.0280547386145295",
+      "id": "E14000810"
+   },
+   "Leyton and Wanstead": {
+      "percent_unemployed": "0.0247864503898648",
+      "id": "E14000790"
+   },
+   "Daventry": {
+      "percent_unemployed": "0.0229786683386381",
+      "id": "E14000660"
+   },
+   "Hornchurch and Upminster": {
+      "percent_unemployed": "0.0208644785904774",
+      "id": "E14000751"
+   },
+   "Strangford": {
+      "percent_unemployed": "0.0314054669148681",
+      "id": "N06000016"
+   },
+   "Glasgow Central": {
+      "percent_unemployed": "0.0462846805825616",
+      "id": "S14000029"
+   },
+   "Bootle": {
+      "percent_unemployed": "0.0737186527769746",
+      "id": "E14000581"
+   },
+   "Cleethorpes": {
+      "percent_unemployed": "0.0336284314226166",
+      "id": "E14000643"
+   },
+   "North Antrim": {
+      "percent_unemployed": "0.0312375487163682",
+      "id": "N06000012"
+   },
+   "Devizes": {
+      "percent_unemployed": "0.0156160177543948",
+      "id": "E14000665"
+   },
+   "Nuneaton": {
+      "percent_unemployed": "0.0361116020006101",
+      "id": "E14000868"
+   },
+   "Enfield North": {
+      "percent_unemployed": "0.036765045854667",
+      "id": "E14000691"
+   },
+   "Hastings and Rye": {
+      "percent_unemployed": "0.0598470575047802",
+      "id": "E14000735"
+   },
+   "Livingston": {
+      "percent_unemployed": "0.0236594573760105",
+      "id": "S14000044"
+   },
+   "Walsall South": {
+      "percent_unemployed": "0.0473693028790751",
+      "id": "E14001012"
+   },
+   "Edinburgh East": {
+      "percent_unemployed": "0.0244947865448808",
+      "id": "S14000022"
+   },
+   "Braintree": {
+      "percent_unemployed": "0.017439459641509",
+      "id": "E14000590"
+   },
+   "Harrogate and Knaresborough": {
+      "percent_unemployed": "0.0244503648809121",
+      "id": "E14000730"
+   },
+   "Denton and Reddish": {
+      "percent_unemployed": "0.0291211916823969",
+      "id": "E14000661"
+   },
+   "St Austell and Newquay": {
+      "percent_unemployed": "0.0209805039138831",
+      "id": "E14000961"
+   },
+   "Warley": {
+      "percent_unemployed": "0.0521855854779476",
+      "id": "E14001016"
+   },
+   "Cardiff West": {
+      "percent_unemployed": "0.0334117424915982",
+      "id": "W07000079"
+   },
+   "Worcester": {
+      "percent_unemployed": "0.0219358734167458",
+      "id": "E14001052"
+   },
+   "Kingston upon Hull East": {
+      "percent_unemployed": "0.0453478458520429",
+      "id": "E14000771"
+   },
+   "New Forest West": {
+      "percent_unemployed": "0.00973303164641466",
+      "id": "E14000828"
+   },
+   "Doncaster Central": {
+      "percent_unemployed": "0.0477953154450496",
+      "id": "E14000668"
+   },
+   "South Derbyshire": {
+      "percent_unemployed": "0.010604995651432",
+      "id": "E14000935"
+   },
+   "Brent Central": {
+      "percent_unemployed": "0.0404633127376841",
+      "id": "E14000591"
+   },
+   "Belfast South": {
+      "percent_unemployed": "0.0248265318078179",
+      "id": "N06000003"
+   },
+   "Cumbernauld, Kilsyth and Kirkintilloch East": {
+      "percent_unemployed": "0.0360190305517533",
+      "id": "S14000012"
+   },
+   "North Wiltshire": {
+      "percent_unemployed": "0.0159193803620056",
+      "id": "E14000860"
+   },
+   "East Ham": {
+      "percent_unemployed": "0.0264376040377988",
+      "id": "E14000679"
+   },
+   "Bolton West": {
+      "percent_unemployed": "0.0299361110803587",
+      "id": "E14000580"
+   },
+   "Oldham West and Royton": {
+      "percent_unemployed": "0.0705618106217443",
+      "id": "E14000871"
+   },
+   "Aberdeen North": {
+      "percent_unemployed": "0.0354375875882899",
+      "id": "S14000001"
+   },
+   "Ashford": {
+      "percent_unemployed": "0.0231345607763872",
+      "id": "E14000536"
+   },
+   "Aberconwy": {
+      "percent_unemployed": "0.0239115230863033",
+      "id": "W07000058"
+   },
+   "North Devon": {
+      "percent_unemployed": "0.0130834114141442",
+      "id": "E14000838"
+   },
+   "Clwyd West": {
+      "percent_unemployed": "0.027757921599511",
+      "id": "W07000059"
+   },
+   "Corby": {
+      "percent_unemployed": "0.029534993182117",
+      "id": "E14000648"
+   },
+   "East Dunbartonshire": {
+      "percent_unemployed": "0.0155927590382303",
+      "id": "S14000018"
+   },
+   "Greenwich and Woolwich": {
+      "percent_unemployed": "0.0324135508907832",
+      "id": "E14000718"
+   },
+   "St Helens South and Whiston": {
+      "percent_unemployed": "0.0413542239918505",
+      "id": "E14000963"
+   },
+   "West Ham": {
+      "percent_unemployed": "0.0310912762263787",
+      "id": "E14001032"
+   },
+   "Ellesmere Port and Neston": {
+      "percent_unemployed": "0.0327785582839947",
+      "id": "E14000688"
+   },
+   "Windsor": {
+      "percent_unemployed": "0.00883469600418364",
+      "id": "E14001042"
+   },
+   "Northampton North": {
+      "percent_unemployed": "0.0269833546534648",
+      "id": "E14000861"
+   },
+   "Leicester East": {
+      "percent_unemployed": "0.0221380490937549",
+      "id": "E14000782"
+   },
+   "South West Norfolk": {
+      "percent_unemployed": "0.0142781510266898",
+      "id": "E14000952"
+   },
+   "Leeds East": {
+      "percent_unemployed": "0.0506715942330439",
+      "id": "E14000778"
+   },
+   "North Cornwall": {
+      "percent_unemployed": "0.0185265849800957",
+      "id": "E14000837"
+   },
+   "West Dunbartonshire": {
+      "percent_unemployed": "0.0502018112528762",
+      "id": "S14000059"
+   },
+   "Pontypridd": {
+      "percent_unemployed": "0.0216488332645803",
+      "id": "W07000075"
+   },
+   "Shipley": {
+      "percent_unemployed": "0.0195165855599115",
+      "id": "E14000925"
+   },
+   "Basildon and Billericay": {
+      "percent_unemployed": "0.0302169653754728",
+      "id": "E14000544"
+   },
+   "Brentford and Isleworth": {
+      "percent_unemployed": "0.0369337263059955",
+      "id": "E14000593"
+   },
+   "Wentworth and Dearne": {
+      "percent_unemployed": "0.0450766835398619",
+      "id": "E14001028"
+   },
+   "Islington North": {
+      "percent_unemployed": "0.0327828978145477",
+      "id": "E14000763"
+   },
+   "Folkestone and Hythe": {
+      "percent_unemployed": "0.0307695911125122",
+      "id": "E14000704"
+   },
+   "Swansea East": {
+      "percent_unemployed": "0.0495071450958843",
+      "id": "W07000048"
+   },
+   "Hazel Grove": {
+      "percent_unemployed": "0.0204121588172773",
+      "id": "E14000738"
+   },
+   "Hexham": {
+      "percent_unemployed": "0.0150108457177363",
+      "id": "E14000746"
+   },
+   "Mid Bedfordshire": {
+      "percent_unemployed": "0.0125402317072513",
+      "id": "E14000813"
+   },
+   "Pudsey": {
+      "percent_unemployed": "0.0148911463268295",
+      "id": "E14000886"
+   },
+   "East Kilbride, Strathaven and Lesmahagow": {
+      "percent_unemployed": "0.0301088250664299",
+      "id": "S14000019"
+   },
+   "Makerfield": {
+      "percent_unemployed": "0.0281948052956147",
+      "id": "E14000805"
+   },
+   "Stoke-on-Trent Central": {
+      "percent_unemployed": "0.0468859145482235",
+      "id": "E14000972"
+   },
+   "Harborough": {
+      "percent_unemployed": "0.0138905178344201",
+      "id": "E14000728"
+   },
+   "Workington": {
+      "percent_unemployed": "0.0450019870342021",
+      "id": "E14001053"
+   },
+   "Elmet and Rothwell": {
+      "percent_unemployed": "0.0116843340292131",
+      "id": "E14000689"
+   },
+   "Edinburgh North and Leith": {
+      "percent_unemployed": "0.0206240515953607",
+      "id": "S14000023"
+   },
+   "Copeland": {
+      "percent_unemployed": "0.0383966280880545",
+      "id": "E14000647"
+   },
+   "Belfast East": {
+      "percent_unemployed": "0.0308226026933733",
+      "id": "N06000001"
+   },
+   "Shrewsbury and Atcham": {
+      "percent_unemployed": "0.0172217988358965",
+      "id": "E14000926"
+   },
+   "Wythenshawe and Sale East": {
+      "percent_unemployed": "0.037257351775512",
+      "id": "E14001059"
+   },
+   "Glasgow South": {
+      "percent_unemployed": "0.0349502288890418",
+      "id": "S14000034"
+   },
+   "Paisley and Renfrewshire South": {
+      "percent_unemployed": "0.0472025069675911",
+      "id": "S14000053"
+   },
+   "North West Cambridgeshire": {
+      "percent_unemployed": "0.0182742698514066",
+      "id": "E14000855"
+   },
+   "Bromsgrove": {
+      "percent_unemployed": "0.016702854336812",
+      "id": "E14000605"
+   },
+   "Edinburgh West": {
+      "percent_unemployed": "0.0153389215110212",
+      "id": "S14000026"
+   },
+   "Old Bexley and Sidcup": {
+      "percent_unemployed": "0.0104073885540266",
+      "id": "E14000869"
+   },
+   "Croydon Central": {
+      "percent_unemployed": "0.0572192497934257",
+      "id": "E14000654"
+   },
+   "Thurrock": {
+      "percent_unemployed": "0.0310599056434746",
+      "id": "E14000995"
+   },
+   "Bosworth": {
+      "percent_unemployed": "0.0224021057583568",
+      "id": "E14000583"
+   },
+   "Chelsea and Fulham": {
+      "percent_unemployed": "0.0305121873387306",
+      "id": "E14000629"
+   },
+   "Liverpool, Wavertree": {
+      "percent_unemployed": "0.0534589877635146",
+      "id": "E14000795"
+   },
+   "Tiverton and Honiton": {
+      "percent_unemployed": "0.0120228285378769",
+      "id": "E14000996"
+   },
+   "Rutherglen and Hamilton West": {
+      "percent_unemployed": "0.0460797943299489",
+      "id": "S14000056"
+   },
+   "Brighton, Kemptown": {
+      "percent_unemployed": "0.0322517025401001",
+      "id": "E14000597"
+   },
+   "Hackney North and Stoke Newington": {
+      "percent_unemployed": "0.0330834455724102",
+      "id": "E14000720"
+   },
+   "Charnwood": {
+      "percent_unemployed": "0.00850320927476482",
+      "id": "E14000625"
+   },
+   "Newton Abbot": {
+      "percent_unemployed": "0.0127586845218657",
+      "id": "E14000835"
+   },
+   "East Worthing and Shoreham": {
+      "percent_unemployed": "0.0166103748196128",
+      "id": "E14000682"
+   },
+   "Christchurch": {
+      "percent_unemployed": "0.0141392243185943",
+      "id": "E14000638"
+   },
+   "Tonbridge and Malling": {
+      "percent_unemployed": "0.0124989598126873",
+      "id": "E14000997"
+   },
+   "Carmarthen West and Pembrokeshire South": {
+      "percent_unemployed": "0.0267031026766082",
+      "id": "W07000066"
+   },
+   "South East Cambridgeshire": {
+      "percent_unemployed": "0.0078323980318463",
+      "id": "E14000937"
+   },
+   "Faversham and Mid Kent": {
+      "percent_unemployed": "0.0179180538332261",
+      "id": "E14000700"
+   },
+   "Don Valley": {
+      "percent_unemployed": "0.0339264525961764",
+      "id": "E14000667"
+   },
+   "Glasgow North West": {
+      "percent_unemployed": "0.0488434372185336",
+      "id": "S14000033"
+   },
+   "Cities of London and Westminster": {
+      "percent_unemployed": "0.0177139476876518",
+      "id": "E14000639"
+   },
+   "Glasgow East": {
+      "percent_unemployed": "0.052699084564629",
+      "id": "S14000030"
+   },
+   "Wealden": {
+      "percent_unemployed": "0.00943305790760725",
+      "id": "E14001023"
+   },
+   "Selby and Ainsty": {
+      "percent_unemployed": "0.015173919611393",
+      "id": "E14000917"
+   },
+   "Kingswood": {
+      "percent_unemployed": "0.0134989980027364",
+      "id": "E14000774"
+   },
+   "Manchester, Withington": {
+      "percent_unemployed": "0.0295131110053907",
+      "id": "E14000809"
+   },
+   "Brecon and Radnorshire": {
+      "percent_unemployed": "0.011963426643828",
+      "id": "W07000068"
+   },
+   "Redcar": {
+      "percent_unemployed": "0.0551227522758256",
+      "id": "E14000891"
+   },
+   "Airdrie and Shotts": {
+      "percent_unemployed": "0.0395303126431822",
+      "id": "S14000003"
+   },
+   "Hove": {
+      "percent_unemployed": "0.0265700197001894",
+      "id": "E14000755"
+   },
+   "Mitcham and Morden": {
+      "percent_unemployed": "0.0364202721633951",
+      "id": "E14000823"
+   },
+   "Central Suffolk and North Ipswich": {
+      "percent_unemployed": "0.0119056635868061",
+      "id": "E14000624"
+   },
+   "Banbury": {
+      "percent_unemployed": "0.0115227448691224",
+      "id": "E14000539"
+   },
+   "Bexhill and Battle": {
+      "percent_unemployed": "0.0254569220009674",
+      "id": "E14000557"
+   },
+   "Hemel Hempstead": {
+      "percent_unemployed": "0.017800673879015",
+      "id": "E14000739"
+   },
+   "Somerton and Frome": {
+      "percent_unemployed": "0.0247199898085932",
+      "id": "E14000932"
+   },
+   "Uxbridge and South Ruislip": {
+      "percent_unemployed": "0.013715934193898",
+      "id": "E14001007"
+   },
+   "Hertford and Stortford": {
+      "percent_unemployed": "0.00904467843892789",
+      "id": "E14000744"
+   },
+   "Croydon North": {
+      "percent_unemployed": "0.0678200747690784",
+      "id": "E14000655"
+   },
+   "North Ayrshire and Arran": {
+      "percent_unemployed": "0.0631340009105014",
+      "id": "S14000048"
+   },
+   "St Ives": {
+      "percent_unemployed": "0.015351059927698",
+      "id": "E14000964"
+   },
+   "Southport": {
+      "percent_unemployed": "0.0348728221738843",
+      "id": "E14000958"
+   },
+   "Perth and North Perthshire": {
+      "percent_unemployed": "0.0184791628430972",
+      "id": "S14000054"
+   },
+   "Dwyfor Meirionnydd": {
+      "percent_unemployed": "0.0150397096690298",
+      "id": "W07000061"
+   },
+   "Dunfermline and West Fife": {
+      "percent_unemployed": "0.0377633561925944",
+      "id": "S14000017"
+   },
+   "Bolton North East": {
+      "percent_unemployed": "0.0578376407573354",
+      "id": "E14000578"
+   },
+   "Portsmouth South": {
+      "percent_unemployed": "0.0272993246210569",
+      "id": "E14000884"
+   },
+   "Surrey Heath": {
+      "percent_unemployed": "0.00817872978990363",
+      "id": "E14000983"
+   },
+   "Leigh": {
+      "percent_unemployed": "0.0384035083756372",
+      "id": "E14000785"
+   },
+   "Houghton and Sunderland South": {
+      "percent_unemployed": "0.0418234923204136",
+      "id": "E14000754"
+   },
+   "Sunderland Central": {
+      "percent_unemployed": "0.0481211746910901",
+      "id": "E14000982"
+   },
+   "Hyndburn": {
+      "percent_unemployed": "0.0399390989823575",
+      "id": "E14000758"
+   },
+   "Bridgend": {
+      "percent_unemployed": "0.0245588287658963",
+      "id": "W07000073"
+   },
+   "Birmingham, Hodge Hill": {
+      "percent_unemployed": "0.100600168863084",
+      "id": "E14000563"
+   },
+   "West Worcestershire": {
+      "percent_unemployed": "0.0163773368585255",
+      "id": "E14001035"
+   },
+   "Barnsley Central": {
+      "percent_unemployed": "0.0493284805376471",
+      "id": "E14000541"
+   },
+   "Rother Valley": {
+      "percent_unemployed": "0.0255395064179435",
+      "id": "E14000903"
+   },
+   "Tatton": {
+      "percent_unemployed": "0.011688351394423",
+      "id": "E14000987"
+   },
+   "East Lothian": {
+      "percent_unemployed": "0.0431706912520179",
+      "id": "S14000020"
+   },
+   "Warrington North": {
+      "percent_unemployed": "0.0424221369148275",
+      "id": "E14001017"
+   },
+   "South West Wiltshire": {
+      "percent_unemployed": "0.0233311447291062",
+      "id": "E14000954"
+   },
+   "Kenilworth and Southam": {
+      "percent_unemployed": "0.00862264573731589",
+      "id": "E14000767"
+   },
+   "Meriden": {
+      "percent_unemployed": "0.0455216210232272",
+      "id": "E14000812"
+   },
+   "South Dorset": {
+      "percent_unemployed": "0.0225108297109174",
+      "id": "E14000936"
+   },
+   "Glasgow North East": {
+      "percent_unemployed": "0.0624002877377088",
+      "id": "S14000032"
+   },
+   "Skipton and Ripon": {
+      "percent_unemployed": "0.0191595402381849",
+      "id": "E14000928"
+   },
+   "Worsley and Eccles South": {
+      "percent_unemployed": "0.0386849487704353",
+      "id": "E14001054"
+   },
+   "Jarrow": {
+      "percent_unemployed": "0.049539907067315",
+      "id": "E14000765"
+   },
+   "Taunton Deane": {
+      "percent_unemployed": "0.0316530243265936",
+      "id": "E14000988"
+   },
+   "Coventry North West": {
+      "percent_unemployed": "0.0248630373023061",
+      "id": "E14000650"
+   },
+   "Paisley and Renfrewshire North": {
+      "percent_unemployed": "0.0294112987371331",
+      "id": "S14000052"
+   },
+   "Gainsborough": {
+      "percent_unemployed": "0.0272565912737288",
+      "id": "E14000707"
+   },
+   "Caithness, Sutherland and Easter Ross": {
+      "percent_unemployed": "0.04582679916168",
+      "id": "S14000009"
+   },
+   "Macclesfield": {
+      "percent_unemployed": "0.0168337314484586",
+      "id": "E14000802"
+   },
+   "Liverpool, Riverside": {
+      "percent_unemployed": "0.0478428423968993",
+      "id": "E14000793"
+   },
+   "South Suffolk": {
+      "percent_unemployed": "0.0153285581822302",
+      "id": "E14000946"
+   },
+   "Erith and Thamesmead": {
+      "percent_unemployed": "0.0313967295443279",
+      "id": "E14000696"
+   },
+   "South Ribble": {
+      "percent_unemployed": "0.0177214938269638",
+      "id": "E14000943"
+   },
+   "Reading West": {
+      "percent_unemployed": "0.0209740775775071",
+      "id": "E14000890"
+   },
+   "Torridge and West Devon": {
+      "percent_unemployed": "0.0153219022924074",
+      "id": "E14001000"
+   },
+   "Nottingham South": {
+      "percent_unemployed": "0.0364204917840778",
+      "id": "E14000867"
+   },
+   "West Dorset": {
+      "percent_unemployed": "0.0158220648302894",
+      "id": "E14001031"
+   },
+   "Poole": {
+      "percent_unemployed": "0.0220861063936674",
+      "id": "E14000881"
+   },
+   "Bournemouth West": {
+      "percent_unemployed": "0.0249735302422488",
+      "id": "E14000585"
+   },
+   "Canterbury": {
+      "percent_unemployed": "0.0195601430061511",
+      "id": "E14000619"
+   },
+   "Westminster North": {
+      "percent_unemployed": "0.0227330217274097",
+      "id": "E14001036"
+   },
+   "North West Leicestershire": {
+      "percent_unemployed": "0.0132185242197942",
+      "id": "E14000858"
+   },
+   "South West Devon": {
+      "percent_unemployed": "0.0112010150385088",
+      "id": "E14000950"
+   },
+   "North West Norfolk": {
+      "percent_unemployed": "0.0157401002492744",
+      "id": "E14000859"
+   },
+   "Bury North": {
+      "percent_unemployed": "0.0362958676752373",
+      "id": "E14000611"
+   },
+   "Aldridge-Brownhills": {
+      "percent_unemployed": "0.0209848843343857",
+      "id": "E14000531"
+   },
+   "Montgomeryshire": {
+      "percent_unemployed": "0.0119327794724453",
+      "id": "W07000063"
+   },
+   "Preston": {
+      "percent_unemployed": "0.0456165413241521",
+      "id": "E14000885"
+   },
+   "Brent North": {
+      "percent_unemployed": "0.0180677333366317",
+      "id": "E14000592"
+   },
+   "North Tyneside": {
+      "percent_unemployed": "0.0412420264185564",
+      "id": "E14000853"
+   },
+   "North East Hampshire": {
+      "percent_unemployed": "0.00577308182220062",
+      "id": "E14000844"
+   },
+   "East Surrey": {
+      "percent_unemployed": "0.0120541751456125",
+      "id": "E14000681"
+   },
+   "Birmingham, Northfield": {
+      "percent_unemployed": "0.0660137844146656",
+      "id": "E14000565"
+   },
+   "Penrith and The Border": {
+      "percent_unemployed": "0.0108441139204493",
+      "id": "E14000877"
+   },
+   "Romford": {
+      "percent_unemployed": "0.0201927645969156",
+      "id": "E14000900"
+   },
+   "Salford and Eccles": {
+      "percent_unemployed": "0.0368339221782454",
+      "id": "E14000911"
+   },
+   "Bethnal Green and Bow": {
+      "percent_unemployed": "0.0445857774928675",
+      "id": "E14000555"
+   },
+   "Delyn": {
+      "percent_unemployed": "0.0316738584701075",
+      "id": "W07000042"
+   },
+   "Fareham": {
+      "percent_unemployed": "0.0100710988725969",
+      "id": "E14000699"
+   },
+   "Central Ayrshire": {
+      "percent_unemployed": "0.0465308608367048",
+      "id": "S14000010"
+   },
+   "Henley": {
+      "percent_unemployed": "0.00821766732301151",
+      "id": "E14000742"
+   },
+   "Argyll and Bute": {
+      "percent_unemployed": "0.0219809459053561",
+      "id": "S14000005"
+   },
+   "Isle of Wight": {
+      "percent_unemployed": "0.0249813505870237",
+      "id": "E14000762"
+   },
+   "Barnsley East": {
+      "percent_unemployed": "0.0489321012856072",
+      "id": "E14000542"
+   },
+   "Wimbledon": {
+      "percent_unemployed": "0.0125895696676497",
+      "id": "E14001040"
+   },
+   "Gillingham and Rainham": {
+      "percent_unemployed": "0.0236699370764205",
+      "id": "E14000711"
+   },
+   "Islwyn": {
+      "percent_unemployed": "0.0296824549984912",
+      "id": "W07000077"
+   },
+   "Bristol South": {
+      "percent_unemployed": "0.0234519305678582",
+      "id": "E14000601"
+   },
+   "Dulwich and West Norwood": {
+      "percent_unemployed": "0.0365106710131178",
+      "id": "E14000673"
+   },
+   "Lichfield": {
+      "percent_unemployed": "0.0152111072646479",
+      "id": "E14000791"
+   },
+   "Burnley": {
+      "percent_unemployed": "0.0717159221748554",
+      "id": "E14000609"
+   },
+   "Wells": {
+      "percent_unemployed": "0.0317930399662639",
+      "id": "E14001026"
+   },
+   "West Aberdeenshire and Kincardine": {
+      "percent_unemployed": "0.0123190387599131",
+      "id": "S14000058"
+   },
+   "Cheadle": {
+      "percent_unemployed": "0.0132686903720523",
+      "id": "E14000627"
+   },
+   "South West Hertfordshire": {
+      "percent_unemployed": "0.0115954051293264",
+      "id": "E14000951"
+   },
+   "Tottenham": {
+      "percent_unemployed": "0.0401174735100208",
+      "id": "E14001002"
+   },
+   "Leicester West": {
+      "percent_unemployed": "0.0317377165529354",
+      "id": "E14000784"
+   },
+   "Wellingborough": {
+      "percent_unemployed": "0.0245386427350578",
+      "id": "E14001025"
+   },
+   "Gosport": {
+      "percent_unemployed": "0.0178170137551076",
+      "id": "E14000713"
+   },
+   "Birmingham, Edgbaston": {
+      "percent_unemployed": "0.0601242727839532",
+      "id": "E14000560"
+   },
+   "Birkenhead": {
+      "percent_unemployed": "0.0648182173009526",
+      "id": "E14000559"
+   },
+   "Poplar and Limehouse": {
+      "percent_unemployed": "0.0422887165709194",
+      "id": "E14000882"
+   },
+   "Carmarthen East and Dinefwr": {
+      "percent_unemployed": "0.0250686633207833",
+      "id": "W07000067"
+   },
+   "Clacton": {
+      "percent_unemployed": "0.0499727592652429",
+      "id": "E14000642"
+   },
+   "South Norfolk": {
+      "percent_unemployed": "0.0120539520070966",
+      "id": "E14000941"
+   },
+   "Dover": {
+      "percent_unemployed": "0.0492122513711026",
+      "id": "E14000670"
+   },
+   "Derbyshire Dales": {
+      "percent_unemployed": "0.00838448520073804",
+      "id": "E14000664"
+   },
+   "Sutton and Cheam": {
+      "percent_unemployed": "0.02427508714481",
+      "id": "E14000984"
+   },
+   "Norwich North": {
+      "percent_unemployed": "0.0204993878801329",
+      "id": "E14000863"
+   },
+   "Dumfries and Galloway": {
+      "percent_unemployed": "0.026339986515074",
+      "id": "S14000013"
+   },
+   "Coatbridge, Chryston and Bellshill": {
+      "percent_unemployed": "0.0338736881438675",
+      "id": "S14000011"
+   },
+   "Eastleigh": {
+      "percent_unemployed": "0.0170442795458357",
+      "id": "E14000685"
+   },
+   "Ilford South": {
+      "percent_unemployed": "0.0220706312544236",
+      "id": "E14000760"
+   },
+   "Saffron Walden": {
+      "percent_unemployed": "0.00916893223681267",
+      "id": "E14000910"
+   },
+   "City of Chester": {
+      "percent_unemployed": "0.0320504458217593",
+      "id": "E14000640"
+   },
+   "Eltham": {
+      "percent_unemployed": "0.025826446222033",
+      "id": "E14000690"
+   }
+}

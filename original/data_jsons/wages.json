@@ -1,0 +1,2602 @@
+{
+   "North East Hertfordshire": {
+      "wage": "690",
+      "id": "E14000845"
+   },
+   "Blaydon": {
+      "wage": "520",
+      "id": "E14000574"
+   },
+   "Thornbury and Yate": {
+      "wage": "570",
+      "id": "E14000994"
+   },
+   "South Antrim": {
+      "wage": "",
+      "id": "N06000014"
+   },
+   "Belfast North": {
+      "wage": "",
+      "id": "N06000002"
+   },
+   "Fermanagh and South Tyrone": {
+      "wage": "",
+      "id": "N06000007"
+   },
+   "Ipswich": {
+      "wage": "510",
+      "id": "E14000761"
+   },
+   "Castle Point": {
+      "wage": "630",
+      "id": "E14000622"
+   },
+   "Rochdale": {
+      "wage": "460",
+      "id": "E14000897"
+   },
+   "Neath": {
+      "wage": "460",
+      "id": "W07000069"
+   },
+   "Leeds West": {
+      "wage": "460",
+      "id": "E14000781"
+   },
+   "South Leicestershire": {
+      "wage": "560",
+      "id": "E14000940"
+   },
+   "Ashton-under-Lyne": {
+      "wage": "450",
+      "id": "E14000537"
+   },
+   "Epsom and Ewell": {
+      "wage": "680",
+      "id": "E14000694"
+   },
+   "Walsall North": {
+      "wage": "460",
+      "id": "E14001011"
+   },
+   "Penistone and Stocksbridge": {
+      "wage": "630",
+      "id": "E14000876"
+   },
+   "New Forest East": {
+      "wage": "570",
+      "id": "E14000827"
+   },
+   "Chipping Barnet": {
+      "wage": "700",
+      "id": "E14000636"
+   },
+   "Kilmarnock and Loudoun": {
+      "wage": "590",
+      "id": "S14000040"
+   },
+   "Kettering": {
+      "wage": "520",
+      "id": "E14000769"
+   },
+   "Orkney and Shetland": {
+      "wage": "590",
+      "id": "S14000051"
+   },
+   "Aberavon": {
+      "wage": "530",
+      "id": "W07000049"
+   },
+   "Rossendale and Darwen": {
+      "wage": "460",
+      "id": "E14000902"
+   },
+   "Kensington": {
+      "wage": "830",
+      "id": "E14000768"
+   },
+   "Westmorland and Lonsdale": {
+      "wage": "510",
+      "id": "E14001037"
+   },
+   "Solihull": {
+      "wage": "660",
+      "id": "E14000931"
+   },
+   "Totnes": {
+      "wage": "470",
+      "id": "E14001001"
+   },
+   "Garston and Halewood": {
+      "wage": "520",
+      "id": "E14000708"
+   },
+   "Warwick and Leamington": {
+      "wage": "560",
+      "id": "E14001019"
+   },
+   "Basingstoke": {
+      "wage": "650",
+      "id": "E14000545"
+   },
+   "Chesterfield": {
+      "wage": "510",
+      "id": "E14000632"
+   },
+   "Dundee West": {
+      "wage": "550",
+      "id": "S14000016"
+   },
+   "East Devon": {
+      "wage": "540",
+      "id": "E14000678"
+   },
+   "Ceredigion": {
+      "wage": "470",
+      "id": "W07000064"
+   },
+   "Harwich and North Essex": {
+      "wage": "580",
+      "id": "E14000734"
+   },
+   "Bristol North West": {
+      "wage": "520",
+      "id": "E14000600"
+   },
+   "Aberdeen South": {
+      "wage": "560",
+      "id": "S14000002"
+   },
+   "Hartlepool": {
+      "wage": "500",
+      "id": "E14000733"
+   },
+   "Hereford and South Herefordshire": {
+      "wage": "480",
+      "id": "E14000743"
+   },
+   "North East Bedfordshire": {
+      "wage": "670",
+      "id": "E14000841"
+   },
+   "Mid Norfolk": {
+      "wage": "490",
+      "id": "E14000816"
+   },
+   "Witham": {
+      "wage": "610",
+      "id": "E14001045"
+   },
+   "Eastbourne": {
+      "wage": "490",
+      "id": "E14000684"
+   },
+   "Heywood and Middleton": {
+      "wage": "470",
+      "id": "E14000747"
+   },
+   "Cardiff South and Penarth": {
+      "wage": "530",
+      "id": "W07000080"
+   },
+   "South Down": {
+      "wage": "",
+      "id": "N06000015"
+   },
+   "Bolton South East": {
+      "wage": "430",
+      "id": "E14000579"
+   },
+   "Vale of Glamorgan": {
+      "wage": "560",
+      "id": "W07000078"
+   },
+   "Caerphilly": {
+      "wage": "500",
+      "id": "W07000076"
+   },
+   "Morecambe and Lunesdale": {
+      "wage": "480",
+      "id": "E14000825"
+   },
+   "Derby North": {
+      "wage": "550",
+      "id": "E14000662"
+   },
+   "Winchester": {
+      "wage": "670",
+      "id": "E14001041"
+   },
+   "Staffordshire Moorlands": {
+      "wage": "540",
+      "id": "E14000966"
+   },
+   "Redditch": {
+      "wage": "460",
+      "id": "E14000892"
+   },
+   "Great Grimsby": {
+      "wage": "410",
+      "id": "E14000716"
+   },
+   "Milton Keynes North": {
+      "wage": "590",
+      "id": "E14000821"
+   },
+   "Ogmore": {
+      "wage": "490",
+      "id": "W07000074"
+   },
+   "Southampton, Itchen": {
+      "wage": "520",
+      "id": "E14000955"
+   },
+   "Wolverhampton South West": {
+      "wage": "510",
+      "id": "E14001051"
+   },
+   "Pendle": {
+      "wage": "490",
+      "id": "E14000875"
+   },
+   "Huddersfield": {
+      "wage": "480",
+      "id": "E14000756"
+   },
+   "City of Durham": {
+      "wage": "520",
+      "id": "E14000641"
+   },
+   "Milton Keynes South": {
+      "wage": "570",
+      "id": "E14000822"
+   },
+   "Banff and Buchan": {
+      "wage": "490",
+      "id": "S14000007"
+   },
+   "Richmond (Yorks)": {
+      "wage": "520",
+      "id": "E14000895"
+   },
+   "Edinburgh South": {
+      "wage": "670",
+      "id": "S14000024"
+   },
+   "Chippenham": {
+      "wage": "520",
+      "id": "E14000635"
+   },
+   "Buckingham": {
+      "wage": "690",
+      "id": "E14000608"
+   },
+   "Dumfriesshire, Clydesdale and Tweeddale": {
+      "wage": "510",
+      "id": "S14000014"
+   },
+   "Bradford East": {
+      "wage": "450",
+      "id": "E14000587"
+   },
+   "Sedgefield": {
+      "wage": "580",
+      "id": "E14000915"
+   },
+   "Halesowen and Rowley Regis": {
+      "wage": "510",
+      "id": "E14000722"
+   },
+   "Stourbridge": {
+      "wage": "550",
+      "id": "E14000976"
+   },
+   "Broxbourne": {
+      "wage": "630",
+      "id": "E14000606"
+   },
+   "Bury St Edmunds": {
+      "wage": "540",
+      "id": "E14000613"
+   },
+   "Hertsmere": {
+      "wage": "630",
+      "id": "E14000745"
+   },
+   "Clwyd South": {
+      "wage": "470",
+      "id": "W07000062"
+   },
+   "High Peak": {
+      "wage": "540",
+      "id": "E14000748"
+   },
+   "Halifax": {
+      "wage": "490",
+      "id": "E14000723"
+   },
+   "Oxford East": {
+      "wage": "630",
+      "id": "E14000873"
+   },
+   "South Basildon and East Thurrock": {
+      "wage": "580",
+      "id": "E14000933"
+   },
+   "Cardiff North": {
+      "wage": "630",
+      "id": "W07000051"
+   },
+   "Luton South": {
+      "wage": "550",
+      "id": "E14000801"
+   },
+   "Camborne and Redruth": {
+      "wage": "460",
+      "id": "E14000616"
+   },
+   "Alyn and Deeside": {
+      "wage": "530",
+      "id": "W07000043"
+   },
+   "Sittingbourne and Sheppey": {
+      "wage": "560",
+      "id": "E14000927"
+   },
+   "Warrington South": {
+      "wage": "610",
+      "id": "E14001018"
+   },
+   "Ealing, Southall": {
+      "wage": "530",
+      "id": "E14000676"
+   },
+   "Normanton, Pontefract and Castleford": {
+      "wage": "470",
+      "id": "E14000836"
+   },
+   "Stockton North": {
+      "wage": "490",
+      "id": "E14000970"
+   },
+   "Blyth Valley": {
+      "wage": "490",
+      "id": "E14000575"
+   },
+   "North West Hampshire": {
+      "wage": "650",
+      "id": "E14000857"
+   },
+   "Grantham and Stamford": {
+      "wage": "490",
+      "id": "E14000714"
+   },
+   "Chichester": {
+      "wage": "590",
+      "id": "E14000633"
+   },
+   "Ealing Central and Acton": {
+      "wage": "710",
+      "id": "E14000674"
+   },
+   "Bexleyheath and Crayford": {
+      "wage": "630",
+      "id": "E14000558"
+   },
+   "Tamworth": {
+      "wage": "520",
+      "id": "E14000986"
+   },
+   "South East Cornwall": {
+      "wage": "510",
+      "id": "E14000938"
+   },
+   "Hitchin and Harpenden": {
+      "wage": "780",
+      "id": "E14000749"
+   },
+   "Bradford West": {
+      "wage": "450",
+      "id": "E14000589"
+   },
+   "North Norfolk": {
+      "wage": "470",
+      "id": "E14000848"
+   },
+   "The Cotswolds": {
+      "wage": "590",
+      "id": "E14000991"
+   },
+   "Esher and Walton": {
+      "wage": "730",
+      "id": "E14000697"
+   },
+   "Brentwood and Ongar": {
+      "wage": "730",
+      "id": "E14000594"
+   },
+   "Ynys Môn": {
+      "wage": "500",
+      "id": "W07000041"
+   },
+   "Hammersmith": {
+      "wage": "700",
+      "id": "E14000726"
+   },
+   "Mid Sussex": {
+      "wage": "660",
+      "id": "E14000817"
+   },
+   "Leeds North West": {
+      "wage": "640",
+      "id": "E14000780"
+   },
+   "Twickenham": {
+      "wage": "730",
+      "id": "E14001005"
+   },
+   "Sheffield, Hallam": {
+      "wage": "630",
+      "id": "E14000922"
+   },
+   "Rochford and Southend East": {
+      "wage": "550",
+      "id": "E14000899"
+   },
+   "Ashfield": {
+      "wage": "470",
+      "id": "E14000535"
+   },
+   "Kingston upon Hull North": {
+      "wage": "450",
+      "id": "E14000772"
+   },
+   "Scunthorpe": {
+      "wage": "480",
+      "id": "E14000914"
+   },
+   "Stretford and Urmston": {
+      "wage": "550",
+      "id": "E14000979"
+   },
+   "South Swindon": {
+      "wage": "540",
+      "id": "E14000947"
+   },
+   "Cheltenham": {
+      "wage": "570",
+      "id": "E14000630"
+   },
+   "Mid Derbyshire": {
+      "wage": "620",
+      "id": "E14000814"
+   },
+   "North Down": {
+      "wage": "",
+      "id": "N06000013"
+   },
+   "Bath": {
+      "wage": "580",
+      "id": "E14000547"
+   },
+   "Stoke-on-Trent North": {
+      "wage": "450",
+      "id": "E14000973"
+   },
+   "Stratford-on-Avon": {
+      "wage": "580",
+      "id": "E14000977"
+   },
+   "Battersea": {
+      "wage": "760",
+      "id": "E14000549"
+   },
+   "Leeds North East": {
+      "wage": "570",
+      "id": "E14000779"
+   },
+   "St Albans": {
+      "wage": "710",
+      "id": "E14000960"
+   },
+   "Dudley North": {
+      "wage": "480",
+      "id": "E14000671"
+   },
+   "Chelmsford": {
+      "wage": "570",
+      "id": "E14000628"
+   },
+   "North Shropshire": {
+      "wage": "480",
+      "id": "E14000849"
+   },
+   "Waveney": {
+      "wage": "460",
+      "id": "E14001022"
+   },
+   "Thirsk and Malton": {
+      "wage": "470",
+      "id": "E14000993"
+   },
+   "Chatham and Aylesford": {
+      "wage": "540",
+      "id": "E14000626"
+   },
+   "Weston-Super-Mare": {
+      "wage": "510",
+      "id": "E14001038"
+   },
+   "Bassetlaw": {
+      "wage": "530",
+      "id": "E14000546"
+   },
+   "Edinburgh South West": {
+      "wage": "550",
+      "id": "S14000025"
+   },
+   "Forest of Dean": {
+      "wage": "610",
+      "id": "E14000705"
+   },
+   "Motherwell and Wishaw": {
+      "wage": "530",
+      "id": "S14000047"
+   },
+   "Sefton Central": {
+      "wage": "590",
+      "id": "E14000916"
+   },
+   "Wansbeck": {
+      "wage": "470",
+      "id": "E14001014"
+   },
+   "Islington South and Finsbury": {
+      "wage": "750",
+      "id": "E14000764"
+   },
+   "South Holland and The Deepings": {
+      "wage": "460",
+      "id": "E14000939"
+   },
+   "Mid Ulster": {
+      "wage": "",
+      "id": "N06000010"
+   },
+   "Angus": {
+      "wage": "510",
+      "id": "S14000004"
+   },
+   "East Londonderry": {
+      "wage": "",
+      "id": "N06000006"
+   },
+   "Gower": {
+      "wage": "500",
+      "id": "W07000046"
+   },
+   "Stafford": {
+      "wage": "560",
+      "id": "E14000965"
+   },
+   "Glenrothes": {
+      "wage": "530",
+      "id": "S14000036"
+   },
+   "Inverclyde": {
+      "wage": "550",
+      "id": "S14000038"
+   },
+   "Harrow West": {
+      "wage": "670",
+      "id": "E14000732"
+   },
+   "Liverpool, West Derby": {
+      "wage": "540",
+      "id": "E14000796"
+   },
+   "Na h-Eileanan An Iar": {
+      "wage": "480",
+      "id": "S14000027"
+   },
+   "Ealing North": {
+      "wage": "570",
+      "id": "E14000675"
+   },
+   "Stirling": {
+      "wage": "600",
+      "id": "S14000057"
+   },
+   "East Renfrewshire": {
+      "wage": "690",
+      "id": "S14000021"
+   },
+   "Lagan Valley": {
+      "wage": "",
+      "id": "N06000009"
+   },
+   "Crewe and Nantwich": {
+      "wage": "500",
+      "id": "E14000653"
+   },
+   "Walthamstow": {
+      "wage": "550",
+      "id": "E14001013"
+   },
+   "West Lancashire": {
+      "wage": "510",
+      "id": "E14001033"
+   },
+   "Rushcliffe": {
+      "wage": "670",
+      "id": "E14000908"
+   },
+   "St Helens North": {
+      "wage": "490",
+      "id": "E14000962"
+   },
+   "Great Yarmouth": {
+      "wage": "450",
+      "id": "E14000717"
+   },
+   "Reading East": {
+      "wage": "640",
+      "id": "E14000889"
+   },
+   "Bognor Regis and Littlehampton": {
+      "wage": "450",
+      "id": "E14000576"
+   },
+   "Birmingham, Yardley": {
+      "wage": "510",
+      "id": "E14000568"
+   },
+   "South Cambridgeshire": {
+      "wage": "640",
+      "id": "E14000934"
+   },
+   "Welwyn Hatfield": {
+      "wage": "610",
+      "id": "E14001027"
+   },
+   "Southend West": {
+      "wage": "570",
+      "id": "E14000957"
+   },
+   "Beckenham": {
+      "wage": "730",
+      "id": "E14000551"
+   },
+   "Wyre and Preston North": {
+      "wage": "550",
+      "id": "E14001057"
+   },
+   "Dundee East": {
+      "wage": "530",
+      "id": "S14000015"
+   },
+   "Salisbury": {
+      "wage": "560",
+      "id": "E14000912"
+   },
+   "Colne Valley": {
+      "wage": "560",
+      "id": "E14000645"
+   },
+   "Brighton, Pavilion": {
+      "wage": "590",
+      "id": "E14000598"
+   },
+   "Birmingham, Perry Barr": {
+      "wage": "460",
+      "id": "E14000566"
+   },
+   "Ilford North": {
+      "wage": "690",
+      "id": "E14000759"
+   },
+   "Kirkcaldy and Cowdenbeath": {
+      "wage": "510",
+      "id": "S14000041"
+   },
+   "East Antrim": {
+      "wage": "",
+      "id": "N06000005"
+   },
+   "Wyre Forest": {
+      "wage": "470",
+      "id": "E14001058"
+   },
+   "Peterborough": {
+      "wage": "420",
+      "id": "E14000878"
+   },
+   "Epping Forest": {
+      "wage": "630",
+      "id": "E14000693"
+   },
+   "Wolverhampton South East": {
+      "wage": "440",
+      "id": "E14001050"
+   },
+   "Wrexham": {
+      "wage": "520",
+      "id": "W07000044"
+   },
+   "Newark": {
+      "wage": "500",
+      "id": "E14000829"
+   },
+   "South Staffordshire": {
+      "wage": "590",
+      "id": "E14000945"
+   },
+   "Bournemouth East": {
+      "wage": "530",
+      "id": "E14000584"
+   },
+   "Bristol East": {
+      "wage": "510",
+      "id": "E14000599"
+   },
+   "Weaver Vale": {
+      "wage": "580",
+      "id": "E14001024"
+   },
+   "Glasgow South West": {
+      "wage": "480",
+      "id": "S14000035"
+   },
+   "Portsmouth North": {
+      "wage": "520",
+      "id": "E14000883"
+   },
+   "Witney": {
+      "wage": "630",
+      "id": "E14001046"
+   },
+   "Ochil and South Perthshire": {
+      "wage": "530",
+      "id": "S14000050"
+   },
+   "Llanelli": {
+      "wage": "520",
+      "id": "W07000045"
+   },
+   "Birmingham, Erdington": {
+      "wage": "480",
+      "id": "E14000561"
+   },
+   "Liverpool, Walton": {
+      "wage": "450",
+      "id": "E14000794"
+   },
+   "Exeter": {
+      "wage": "500",
+      "id": "E14000698"
+   },
+   "Glasgow North": {
+      "wage": "570",
+      "id": "S14000031"
+   },
+   "Lewisham East": {
+      "wage": "600",
+      "id": "E14000787"
+   },
+   "West Bromwich East": {
+      "wage": "480",
+      "id": "E14001029"
+   },
+   "Altrincham and Sale West": {
+      "wage": "750",
+      "id": "E14000532"
+   },
+   "Hendon": {
+      "wage": "670",
+      "id": "E14000741"
+   },
+   "Stockton South": {
+      "wage": "540",
+      "id": "E14000971"
+   },
+   "Middlesbrough South and East Cleveland": {
+      "wage": "530",
+      "id": "E14000820"
+   },
+   "Gordon": {
+      "wage": "580",
+      "id": "S14000037"
+   },
+   "Brigg and Goole": {
+      "wage": "500",
+      "id": "E14000596"
+   },
+   "Midlothian": {
+      "wage": "540",
+      "id": "S14000045"
+   },
+   "Louth and Horncastle": {
+      "wage": "490",
+      "id": "E14000798"
+   },
+   "Wallasey": {
+      "wage": "500",
+      "id": "E14001010"
+   },
+   "Gateshead": {
+      "wage": "480",
+      "id": "E14000709"
+   },
+   "Falkirk": {
+      "wage": "540",
+      "id": "S14000028"
+   },
+   "Vale of Clwyd": {
+      "wage": "490",
+      "id": "W07000060"
+   },
+   "Birmingham, Hall Green": {
+      "wage": "560",
+      "id": "E14000562"
+   },
+   "Birmingham, Ladywood": {
+      "wage": "530",
+      "id": "E14000564"
+   },
+   "Oxford West and Abingdon": {
+      "wage": "630",
+      "id": "E14000874"
+   },
+   "West Bromwich West": {
+      "wage": "470",
+      "id": "E14001030"
+   },
+   "Camberwell and Peckham": {
+      "wage": "620",
+      "id": "E14000615"
+   },
+   "Edmonton": {
+      "wage": "540",
+      "id": "E14000687"
+   },
+   "Dudley South": {
+      "wage": "510",
+      "id": "E14000672"
+   },
+   "Stoke-on-Trent South": {
+      "wage": "480",
+      "id": "E14000974"
+   },
+   "Sevenoaks": {
+      "wage": "610",
+      "id": "E14000918"
+   },
+   "Truro and Falmouth": {
+      "wage": "500",
+      "id": "E14001003"
+   },
+   "Halton": {
+      "wage": "490",
+      "id": "E14000725"
+   },
+   "Bradford South": {
+      "wage": "440",
+      "id": "E14000588"
+   },
+   "Lanark and Hamilton East": {
+      "wage": "610",
+      "id": "S14000042"
+   },
+   "Newcastle-under-Lyme": {
+      "wage": "500",
+      "id": "E14000834"
+   },
+   "Broadland": {
+      "wage": "520",
+      "id": "E14000603"
+   },
+   "Dewsbury": {
+      "wage": "490",
+      "id": "E14000666"
+   },
+   "South West Surrey": {
+      "wage": "750",
+      "id": "E14000953"
+   },
+   "Telford": {
+      "wage": "470",
+      "id": "E14000989"
+   },
+   "Finchley and Golders Green": {
+      "wage": "710",
+      "id": "E14000703"
+   },
+   "Rotherham": {
+      "wage": "450",
+      "id": "E14000904"
+   },
+   "Coventry South": {
+      "wage": "580",
+      "id": "E14000651"
+   },
+   "Feltham and Heston": {
+      "wage": "530",
+      "id": "E14000701"
+   },
+   "Stone": {
+      "wage": "530",
+      "id": "E14000975"
+   },
+   "Calder Valley": {
+      "wage": "530",
+      "id": "E14000614"
+   },
+   "Northampton South": {
+      "wage": "490",
+      "id": "E14000862"
+   },
+   "Tooting": {
+      "wage": "740",
+      "id": "E14000998"
+   },
+   "Stalybridge and Hyde": {
+      "wage": "460",
+      "id": "E14000967"
+   },
+   "Croydon South": {
+      "wage": "710",
+      "id": "E14000656"
+   },
+   "Tynemouth": {
+      "wage": "590",
+      "id": "E14001006"
+   },
+   "Berwick-upon-Tweed": {
+      "wage": "560",
+      "id": "E14000554"
+   },
+   "Ross, Skye and Lochaber": {
+      "wage": "490",
+      "id": "S14000055"
+   },
+   "Leicester South": {
+      "wage": "470",
+      "id": "E14000783"
+   },
+   "Beverley and Holderness": {
+      "wage": "560",
+      "id": "E14000556"
+   },
+   "Cambridge": {
+      "wage": "600",
+      "id": "E14000617"
+   },
+   "Holborn and St Pancras": {
+      "wage": "670",
+      "id": "E14000750"
+   },
+   "Woking": {
+      "wage": "670",
+      "id": "E14001047"
+   },
+   "Washington and Sunderland West": {
+      "wage": "440",
+      "id": "E14001020"
+   },
+   "Sheffield South East": {
+      "wage": "480",
+      "id": "E14000920"
+   },
+   "Romsey and Southampton North": {
+      "wage": "610",
+      "id": "E14000901"
+   },
+   "Coventry North East": {
+      "wage": "460",
+      "id": "E14000649"
+   },
+   "Hornsey and Wood Green": {
+      "wage": "700",
+      "id": "E14000752"
+   },
+   "Newcastle upon Tyne North": {
+      "wage": "550",
+      "id": "E14000833"
+   },
+   "Sheffield, Heeley": {
+      "wage": "480",
+      "id": "E14000923"
+   },
+   "Sutton Coldfield": {
+      "wage": "630",
+      "id": "E14000985"
+   },
+   "North Durham": {
+      "wage": "520",
+      "id": "E14000840"
+   },
+   "North West Durham": {
+      "wage": "500",
+      "id": "E14000856"
+   },
+   "Wirral West": {
+      "wage": "550",
+      "id": "E14001044"
+   },
+   "Mid Worcestershire": {
+      "wage": "550",
+      "id": "E14000818"
+   },
+   "Dagenham and Rainham": {
+      "wage": "600",
+      "id": "E14000657"
+   },
+   "Suffolk Coastal": {
+      "wage": "520",
+      "id": "E14000981"
+   },
+   "Newbury": {
+      "wage": "630",
+      "id": "E14000830"
+   },
+   "Loughborough": {
+      "wage": "550",
+      "id": "E14000797"
+   },
+   "Barrow and Furness": {
+      "wage": "600",
+      "id": "E14000543"
+   },
+   "Haltemprice and Howden": {
+      "wage": "560",
+      "id": "E14000724"
+   },
+   "Gedling": {
+      "wage": "540",
+      "id": "E14000710"
+   },
+   "South Shields": {
+      "wage": "470",
+      "id": "E14000944"
+   },
+   "North Somerset": {
+      "wage": "640",
+      "id": "E14000850"
+   },
+   "Ayr, Carrick and Cumnock": {
+      "wage": "510",
+      "id": "S14000006"
+   },
+   "Lincoln": {
+      "wage": "450",
+      "id": "E14000792"
+   },
+   "Swansea West": {
+      "wage": "520",
+      "id": "W07000047"
+   },
+   "Moray": {
+      "wage": "500",
+      "id": "S14000046"
+   },
+   "Belfast West": {
+      "wage": "",
+      "id": "N06000004"
+   },
+   "Richmond Park": {
+      "wage": "780",
+      "id": "E14000896"
+   },
+   "Amber Valley": {
+      "wage": "500",
+      "id": "E14000533"
+   },
+   "Chingford and Woodford Green": {
+      "wage": "670",
+      "id": "E14000634"
+   },
+   "Bridgwater and West Somerset": {
+      "wage": "510",
+      "id": "E14000595"
+   },
+   "Stockport": {
+      "wage": "520",
+      "id": "E14000969"
+   },
+   "Kingston and Surbiton": {
+      "wage": "690",
+      "id": "E14000770"
+   },
+   "Cannock Chase": {
+      "wage": "520",
+      "id": "E14000618"
+   },
+   "Bermondsey and Old Southwark": {
+      "wage": "690",
+      "id": "E14000553"
+   },
+   "Mole Valley": {
+      "wage": "680",
+      "id": "E14000824"
+   },
+   "Derby South": {
+      "wage": "510",
+      "id": "E14000663"
+   },
+   "Maidenhead": {
+      "wage": "660",
+      "id": "E14000803"
+   },
+   "Knowsley": {
+      "wage": "490",
+      "id": "E14000775"
+   },
+   "Nottingham North": {
+      "wage": "410",
+      "id": "E14000866"
+   },
+   "Burton": {
+      "wage": "480",
+      "id": "E14000610"
+   },
+   "Hemsworth": {
+      "wage": "460",
+      "id": "E14000740"
+   },
+   "Cynon Valley": {
+      "wage": "480",
+      "id": "W07000070"
+   },
+   "North Herefordshire": {
+      "wage": "440",
+      "id": "E14000847"
+   },
+   "West Suffolk": {
+      "wage": "510",
+      "id": "E14001034"
+   },
+   "South Northamptonshire": {
+      "wage": "630",
+      "id": "E14000942"
+   },
+   "Runnymede and Weybridge": {
+      "wage": "620",
+      "id": "E14000907"
+   },
+   "Erewash": {
+      "wage": "500",
+      "id": "E14000695"
+   },
+   "Aylesbury": {
+      "wage": "560",
+      "id": "E14000538"
+   },
+   "Blackpool North and Cleveleys": {
+      "wage": "450",
+      "id": "E14000572"
+   },
+   "Putney": {
+      "wage": "760",
+      "id": "E14000887"
+   },
+   "Boston and Skegness": {
+      "wage": "420",
+      "id": "E14000582"
+   },
+   "Beaconsfield": {
+      "wage": "720",
+      "id": "E14000550"
+   },
+   "East Hampshire": {
+      "wage": "650",
+      "id": "E14000680"
+   },
+   "Worthing West": {
+      "wage": "520",
+      "id": "E14001055"
+   },
+   "Upper Bann": {
+      "wage": "",
+      "id": "N06000017"
+   },
+   "North East Derbyshire": {
+      "wage": "570",
+      "id": "E14000843"
+   },
+   "Meon Valley": {
+      "wage": "670",
+      "id": "E14000811"
+   },
+   "Stroud": {
+      "wage": "540",
+      "id": "E14000980"
+   },
+   "Bromley and Chislehurst": {
+      "wage": "740",
+      "id": "E14000604"
+   },
+   "Newry and Armagh": {
+      "wage": "",
+      "id": "N06000011"
+   },
+   "Morley and Outwood": {
+      "wage": "590",
+      "id": "E14000826"
+   },
+   "Lancaster and Fleetwood": {
+      "wage": "520",
+      "id": "E14000776"
+   },
+   "Guildford": {
+      "wage": "730",
+      "id": "E14000719"
+   },
+   "Rugby": {
+      "wage": "560",
+      "id": "E14000905"
+   },
+   "Newcastle upon Tyne East": {
+      "wage": "520",
+      "id": "E14000832"
+   },
+   "Fylde": {
+      "wage": "580",
+      "id": "E14000706"
+   },
+   "Rutland and Melton": {
+      "wage": "520",
+      "id": "E14000909"
+   },
+   "Ludlow": {
+      "wage": "570",
+      "id": "E14000799"
+   },
+   "North East Fife": {
+      "wage": "520",
+      "id": "S14000049"
+   },
+   "North Swindon": {
+      "wage": "550",
+      "id": "E14000851"
+   },
+   "Newport East": {
+      "wage": "500",
+      "id": "W07000055"
+   },
+   "South Thanet": {
+      "wage": "480",
+      "id": "E14000948"
+   },
+   "Sleaford and North Hykeham": {
+      "wage": "580",
+      "id": "E14000929"
+   },
+   "Rhondda": {
+      "wage": "450",
+      "id": "W07000052"
+   },
+   "Wycombe": {
+      "wage": "570",
+      "id": "E14001056"
+   },
+   "Wirral South": {
+      "wage": "600",
+      "id": "E14001043"
+   },
+   "Barking": {
+      "wage": "530",
+      "id": "E14000540"
+   },
+   "Tewkesbury": {
+      "wage": "570",
+      "id": "E14000990"
+   },
+   "Rayleigh and Wickford": {
+      "wage": "640",
+      "id": "E14000888"
+   },
+   "Huntingdon": {
+      "wage": "590",
+      "id": "E14000757"
+   },
+   "Vauxhall": {
+      "wage": "650",
+      "id": "E14001008"
+   },
+   "West Tyrone": {
+      "wage": "",
+      "id": "N06000018"
+   },
+   "Bolsover": {
+      "wage": "450",
+      "id": "E14000577"
+   },
+   "Crawley": {
+      "wage": "510",
+      "id": "E14000652"
+   },
+   "York Outer": {
+      "wage": "580",
+      "id": "E14001062"
+   },
+   "The Wrekin": {
+      "wage": "500",
+      "id": "E14000992"
+   },
+   "Tunbridge Wells": {
+      "wage": "590",
+      "id": "E14001004"
+   },
+   "Filton and Bradley Stoke": {
+      "wage": "590",
+      "id": "E14000702"
+   },
+   "Plymouth, Sutton and Devonport": {
+      "wage": "480",
+      "id": "E14000880"
+   },
+   "Blaenau Gwent": {
+      "wage": "490",
+      "id": "W07000072"
+   },
+   "Sheffield Central": {
+      "wage": "530",
+      "id": "E14000919"
+   },
+   "Hackney South and Shoreditch": {
+      "wage": "620",
+      "id": "E14000721"
+   },
+   "Nottingham East": {
+      "wage": "490",
+      "id": "E14000865"
+   },
+   "Ribble Valley": {
+      "wage": "540",
+      "id": "E14000894"
+   },
+   "Manchester Central": {
+      "wage": "460",
+      "id": "E14000807"
+   },
+   "Newcastle upon Tyne Central": {
+      "wage": "490",
+      "id": "E14000831"
+   },
+   "Central Devon": {
+      "wage": "470",
+      "id": "E14000623"
+   },
+   "Hampstead and Kilburn": {
+      "wage": "760",
+      "id": "E14000727"
+   },
+   "York Central": {
+      "wage": "480",
+      "id": "E14001061"
+   },
+   "Arundel and South Downs": {
+      "wage": "600",
+      "id": "E14000534"
+   },
+   "North East Cambridgeshire": {
+      "wage": "500",
+      "id": "E14000842"
+   },
+   "Preseli Pembrokeshire": {
+      "wage": "450",
+      "id": "W07000065"
+   },
+   "Chesham and Amersham": {
+      "wage": "800",
+      "id": "E14000631"
+   },
+   "South West Bedfordshire": {
+      "wage": "580",
+      "id": "E14000949"
+   },
+   "Sheffield, Brightside and Hillsborough": {
+      "wage": "480",
+      "id": "E14000921"
+   },
+   "Maidstone and The Weald": {
+      "wage": "560",
+      "id": "E14000804"
+   },
+   "Bedford": {
+      "wage": "500",
+      "id": "E14000552"
+   },
+   "Torfaen": {
+      "wage": "550",
+      "id": "W07000053"
+   },
+   "Ruislip, Northwood and Pinner": {
+      "wage": "680",
+      "id": "E14000906"
+   },
+   "North East Somerset": {
+      "wage": "530",
+      "id": "E14000846"
+   },
+   "Spelthorne": {
+      "wage": "640",
+      "id": "E14000959"
+   },
+   "Wakefield": {
+      "wage": "490",
+      "id": "E14001009"
+   },
+   "Havant": {
+      "wage": "500",
+      "id": "E14000736"
+   },
+   "North Warwickshire": {
+      "wage": "510",
+      "id": "E14000854"
+   },
+   "Lewisham West and Penge": {
+      "wage": "690",
+      "id": "E14000788"
+   },
+   "Manchester, Gorton": {
+      "wage": "480",
+      "id": "E14000808"
+   },
+   "Gloucester": {
+      "wage": "500",
+      "id": "E14000712"
+   },
+   "Aldershot": {
+      "wage": "560",
+      "id": "E14000530"
+   },
+   "Oldham East and Saddleworth": {
+      "wage": "510",
+      "id": "E14000870"
+   },
+   "Wigan": {
+      "wage": "480",
+      "id": "E14001039"
+   },
+   "Mid Dorset and North Poole": {
+      "wage": "570",
+      "id": "E14000815"
+   },
+   "North Dorset": {
+      "wage": "500",
+      "id": "E14000839"
+   },
+   "Darlington": {
+      "wage": "470",
+      "id": "E14000658"
+   },
+   "Enfield, Southgate": {
+      "wage": "670",
+      "id": "E14000692"
+   },
+   "Stevenage": {
+      "wage": "580",
+      "id": "E14000968"
+   },
+   "Eddisbury": {
+      "wage": "590",
+      "id": "E14000686"
+   },
+   "Carshalton and Wallington": {
+      "wage": "610",
+      "id": "E14000621"
+   },
+   "Rochester and Strood": {
+      "wage": "570",
+      "id": "E14000898"
+   },
+   "Slough": {
+      "wage": "570",
+      "id": "E14000930"
+   },
+   "North Thanet": {
+      "wage": "500",
+      "id": "E14000852"
+   },
+   "Harrow East": {
+      "wage": "620",
+      "id": "E14000731"
+   },
+   "Easington": {
+      "wage": "480",
+      "id": "E14000677"
+   },
+   "Leeds Central": {
+      "wage": "430",
+      "id": "E14000777"
+   },
+   "Gravesham": {
+      "wage": "550",
+      "id": "E14000715"
+   },
+   "Wolverhampton North East": {
+      "wage": "430",
+      "id": "E14001049"
+   },
+   "Plymouth, Moor View": {
+      "wage": "500",
+      "id": "E14000879"
+   },
+   "Merthyr Tydfil and Rhymney": {
+      "wage": "440",
+      "id": "W07000071"
+   },
+   "Colchester": {
+      "wage": "580",
+      "id": "E14000644"
+   },
+   "Arfon": {
+      "wage": "450",
+      "id": "W07000057"
+   },
+   "Harlow": {
+      "wage": "540",
+      "id": "E14000729"
+   },
+   "Doncaster North": {
+      "wage": "510",
+      "id": "E14000669"
+   },
+   "Congleton": {
+      "wage": "550",
+      "id": "E14000646"
+   },
+   "Broxtowe": {
+      "wage": "580",
+      "id": "E14000607"
+   },
+   "Bristol West": {
+      "wage": "590",
+      "id": "E14000602"
+   },
+   "Blackburn": {
+      "wage": "450",
+      "id": "E14000570"
+   },
+   "Luton North": {
+      "wage": "500",
+      "id": "E14000800"
+   },
+   "Yeovil": {
+      "wage": "",
+      "id": "E14001060"
+   },
+   "Wokingham": {
+      "wage": "660",
+      "id": "E14001048"
+   },
+   "Blackpool South": {
+      "wage": "440",
+      "id": "E14000573"
+   },
+   "Horsham": {
+      "wage": "610",
+      "id": "E14000753"
+   },
+   "Newport West": {
+      "wage": "510",
+      "id": "W07000056"
+   },
+   "Lewisham, Deptford": {
+      "wage": "670",
+      "id": "E14000789"
+   },
+   "Streatham": {
+      "wage": "690",
+      "id": "E14000978"
+   },
+   "Lewes": {
+      "wage": "520",
+      "id": "E14000786"
+   },
+   "Wantage": {
+      "wage": "680",
+      "id": "E14001015"
+   },
+   "Scarborough and Whitby": {
+      "wage": "480",
+      "id": "E14000913"
+   },
+   "Middlesbrough": {
+      "wage": "440",
+      "id": "E14000819"
+   },
+   "Watford": {
+      "wage": "640",
+      "id": "E14001021"
+   },
+   "Maldon": {
+      "wage": "620",
+      "id": "E14000806"
+   },
+   "Bishop Auckland": {
+      "wage": "480",
+      "id": "E14000569"
+   },
+   "Cardiff Central": {
+      "wage": "520",
+      "id": "W07000050"
+   },
+   "Reigate": {
+      "wage": "700",
+      "id": "E14000893"
+   },
+   "Carlisle": {
+      "wage": "440",
+      "id": "E14000620"
+   },
+   "Berwickshire, Roxburgh and Selkirk": {
+      "wage": "490",
+      "id": "S14000008"
+   },
+   "Keighley": {
+      "wage": "510",
+      "id": "E14000766"
+   },
+   "Hayes and Harlington": {
+      "wage": "500",
+      "id": "E14000737"
+   },
+   "Torbay": {
+      "wage": "480",
+      "id": "E14000999"
+   },
+   "Kingston upon Hull West and Hessle": {
+      "wage": "450",
+      "id": "E14000773"
+   },
+   "Southampton, Test": {
+      "wage": "500",
+      "id": "E14000956"
+   },
+   "Birmingham, Selly Oak": {
+      "wage": "550",
+      "id": "E14000567"
+   },
+   "Sherwood": {
+      "wage": "510",
+      "id": "E14000924"
+   },
+   "Blackley and Broughton": {
+      "wage": "430",
+      "id": "E14000571"
+   },
+   "Inverness, Nairn, Badenoch and Strathspey": {
+      "wage": "540",
+      "id": "S14000039"
+   },
+   "East Yorkshire": {
+      "wage": "480",
+      "id": "E14000683"
+   },
+   "Norwich South": {
+      "wage": "530",
+      "id": "E14000864"
+   },
+   "Orpington": {
+      "wage": "700",
+      "id": "E14000872"
+   },
+   "Dartford": {
+      "wage": "640",
+      "id": "E14000659"
+   },
+   "Bury South": {
+      "wage": "530",
+      "id": "E14000612"
+   },
+   "Linlithgow and East Falkirk": {
+      "wage": "550",
+      "id": "S14000043"
+   },
+   "Bracknell": {
+      "wage": "670",
+      "id": "E14000586"
+   },
+   "Monmouth": {
+      "wage": "590",
+      "id": "W07000054"
+   },
+   "Batley and Spen": {
+      "wage": "500",
+      "id": "E14000548"
+   },
+   "Foyle": {
+      "wage": "",
+      "id": "N06000008"
+   },
+   "Chorley": {
+      "wage": "540",
+      "id": "E14000637"
+   },
+   "Mansfield": {
+      "wage": "450",
+      "id": "E14000810"
+   },
+   "Leyton and Wanstead": {
+      "wage": "600",
+      "id": "E14000790"
+   },
+   "Daventry": {
+      "wage": "560",
+      "id": "E14000660"
+   },
+   "Hornchurch and Upminster": {
+      "wage": "640",
+      "id": "E14000751"
+   },
+   "Strangford": {
+      "wage": "",
+      "id": "N06000016"
+   },
+   "Glasgow Central": {
+      "wage": "520",
+      "id": "S14000029"
+   },
+   "Bootle": {
+      "wage": "480",
+      "id": "E14000581"
+   },
+   "Cleethorpes": {
+      "wage": "530",
+      "id": "E14000643"
+   },
+   "North Antrim": {
+      "wage": "",
+      "id": "N06000012"
+   },
+   "Devizes": {
+      "wage": "520",
+      "id": "E14000665"
+   },
+   "Nuneaton": {
+      "wage": "520",
+      "id": "E14000868"
+   },
+   "Enfield North": {
+      "wage": "610",
+      "id": "E14000691"
+   },
+   "Hastings and Rye": {
+      "wage": "480",
+      "id": "E14000735"
+   },
+   "Livingston": {
+      "wage": "520",
+      "id": "S14000044"
+   },
+   "Walsall South": {
+      "wage": "470",
+      "id": "E14001012"
+   },
+   "Edinburgh East": {
+      "wage": "550",
+      "id": "S14000022"
+   },
+   "Braintree": {
+      "wage": "560",
+      "id": "E14000590"
+   },
+   "Harrogate and Knaresborough": {
+      "wage": "540",
+      "id": "E14000730"
+   },
+   "Denton and Reddish": {
+      "wage": "540",
+      "id": "E14000661"
+   },
+   "St Austell and Newquay": {
+      "wage": "460",
+      "id": "E14000961"
+   },
+   "Warley": {
+      "wage": "440",
+      "id": "E14001016"
+   },
+   "Cardiff West": {
+      "wage": "540",
+      "id": "W07000079"
+   },
+   "Worcester": {
+      "wage": "550",
+      "id": "E14001052"
+   },
+   "Kingston upon Hull East": {
+      "wage": "460",
+      "id": "E14000771"
+   },
+   "New Forest West": {
+      "wage": "570",
+      "id": "E14000828"
+   },
+   "Doncaster Central": {
+      "wage": "440",
+      "id": "E14000668"
+   },
+   "South Derbyshire": {
+      "wage": "570",
+      "id": "E14000935"
+   },
+   "Brent Central": {
+      "wage": "530",
+      "id": "E14000591"
+   },
+   "Belfast South": {
+      "wage": "",
+      "id": "N06000003"
+   },
+   "Cumbernauld, Kilsyth and Kirkintilloch East": {
+      "wage": "530",
+      "id": "S14000012"
+   },
+   "North Wiltshire": {
+      "wage": "630",
+      "id": "E14000860"
+   },
+   "East Ham": {
+      "wage": "580",
+      "id": "E14000679"
+   },
+   "Bolton West": {
+      "wage": "550",
+      "id": "E14000580"
+   },
+   "Oldham West and Royton": {
+      "wage": "460",
+      "id": "E14000871"
+   },
+   "Aberdeen North": {
+      "wage": "500",
+      "id": "S14000001"
+   },
+   "Ashford": {
+      "wage": "580",
+      "id": "E14000536"
+   },
+   "Aberconwy": {
+      "wage": "500",
+      "id": "W07000058"
+   },
+   "North Devon": {
+      "wage": "440",
+      "id": "E14000838"
+   },
+   "Clwyd West": {
+      "wage": "540",
+      "id": "W07000059"
+   },
+   "Corby": {
+      "wage": "540",
+      "id": "E14000648"
+   },
+   "East Dunbartonshire": {
+      "wage": "650",
+      "id": "S14000018"
+   },
+   "Greenwich and Woolwich": {
+      "wage": "650",
+      "id": "E14000718"
+   },
+   "St Helens South and Whiston": {
+      "wage": "510",
+      "id": "E14000963"
+   },
+   "West Ham": {
+      "wage": "590",
+      "id": "E14001032"
+   },
+   "Ellesmere Port and Neston": {
+      "wage": "520",
+      "id": "E14000688"
+   },
+   "Windsor": {
+      "wage": "640",
+      "id": "E14001042"
+   },
+   "Northampton North": {
+      "wage": "510",
+      "id": "E14000861"
+   },
+   "Leicester East": {
+      "wage": "390",
+      "id": "E14000782"
+   },
+   "South West Norfolk": {
+      "wage": "490",
+      "id": "E14000952"
+   },
+   "Leeds East": {
+      "wage": "480",
+      "id": "E14000778"
+   },
+   "North Cornwall": {
+      "wage": "480",
+      "id": "E14000837"
+   },
+   "West Dunbartonshire": {
+      "wage": "510",
+      "id": "S14000059"
+   },
+   "Pontypridd": {
+      "wage": "530",
+      "id": "W07000075"
+   },
+   "Shipley": {
+      "wage": "520",
+      "id": "E14000925"
+   },
+   "Basildon and Billericay": {
+      "wage": "590",
+      "id": "E14000544"
+   },
+   "Brentford and Isleworth": {
+      "wage": "670",
+      "id": "E14000593"
+   },
+   "Wentworth and Dearne": {
+      "wage": "480",
+      "id": "E14001028"
+   },
+   "Islington North": {
+      "wage": "660",
+      "id": "E14000763"
+   },
+   "Folkestone and Hythe": {
+      "wage": "510",
+      "id": "E14000704"
+   },
+   "Swansea East": {
+      "wage": "480",
+      "id": "W07000048"
+   },
+   "Hazel Grove": {
+      "wage": "580",
+      "id": "E14000738"
+   },
+   "Hexham": {
+      "wage": "690",
+      "id": "E14000746"
+   },
+   "Mid Bedfordshire": {
+      "wage": "620",
+      "id": "E14000813"
+   },
+   "Pudsey": {
+      "wage": "600",
+      "id": "E14000886"
+   },
+   "East Kilbride, Strathaven and Lesmahagow": {
+      "wage": "580",
+      "id": "S14000019"
+   },
+   "Makerfield": {
+      "wage": "550",
+      "id": "E14000805"
+   },
+   "Stoke-on-Trent Central": {
+      "wage": "460",
+      "id": "E14000972"
+   },
+   "Harborough": {
+      "wage": "540",
+      "id": "E14000728"
+   },
+   "Workington": {
+      "wage": "530",
+      "id": "E14001053"
+   },
+   "Elmet and Rothwell": {
+      "wage": "570",
+      "id": "E14000689"
+   },
+   "Edinburgh North and Leith": {
+      "wage": "590",
+      "id": "S14000023"
+   },
+   "Copeland": {
+      "wage": "730",
+      "id": "E14000647"
+   },
+   "Belfast East": {
+      "wage": "",
+      "id": "N06000001"
+   },
+   "Shrewsbury and Atcham": {
+      "wage": "520",
+      "id": "E14000926"
+   },
+   "Wythenshawe and Sale East": {
+      "wage": "460",
+      "id": "E14001059"
+   },
+   "Glasgow South": {
+      "wage": "550",
+      "id": "S14000034"
+   },
+   "Paisley and Renfrewshire South": {
+      "wage": "510",
+      "id": "S14000053"
+   },
+   "North West Cambridgeshire": {
+      "wage": "540",
+      "id": "E14000855"
+   },
+   "Bromsgrove": {
+      "wage": "660",
+      "id": "E14000605"
+   },
+   "Edinburgh West": {
+      "wage": "560",
+      "id": "S14000026"
+   },
+   "Old Bexley and Sidcup": {
+      "wage": "710",
+      "id": "E14000869"
+   },
+   "Croydon Central": {
+      "wage": "630",
+      "id": "E14000654"
+   },
+   "Thurrock": {
+      "wage": "540",
+      "id": "E14000995"
+   },
+   "Bosworth": {
+      "wage": "520",
+      "id": "E14000583"
+   },
+   "Chelsea and Fulham": {
+      "wage": "790",
+      "id": "E14000629"
+   },
+   "Liverpool, Wavertree": {
+      "wage": "540",
+      "id": "E14000795"
+   },
+   "Tiverton and Honiton": {
+      "wage": "490",
+      "id": "E14000996"
+   },
+   "Rutherglen and Hamilton West": {
+      "wage": "520",
+      "id": "S14000056"
+   },
+   "Brighton, Kemptown": {
+      "wage": "570",
+      "id": "E14000597"
+   },
+   "Hackney North and Stoke Newington": {
+      "wage": "670",
+      "id": "E14000720"
+   },
+   "Charnwood": {
+      "wage": "530",
+      "id": "E14000625"
+   },
+   "Newton Abbot": {
+      "wage": "460",
+      "id": "E14000835"
+   },
+   "East Worthing and Shoreham": {
+      "wage": "500",
+      "id": "E14000682"
+   },
+   "Christchurch": {
+      "wage": "590",
+      "id": "E14000638"
+   },
+   "Tonbridge and Malling": {
+      "wage": "670",
+      "id": "E14000997"
+   },
+   "Carmarthen West and Pembrokeshire South": {
+      "wage": "490",
+      "id": "W07000066"
+   },
+   "South East Cambridgeshire": {
+      "wage": "660",
+      "id": "E14000937"
+   },
+   "Faversham and Mid Kent": {
+      "wage": "580",
+      "id": "E14000700"
+   },
+   "Don Valley": {
+      "wage": "500",
+      "id": "E14000667"
+   },
+   "Glasgow North West": {
+      "wage": "570",
+      "id": "S14000033"
+   },
+   "Cities of London and Westminster": {
+      "wage": "920",
+      "id": "E14000639"
+   },
+   "Glasgow East": {
+      "wage": "510",
+      "id": "S14000030"
+   },
+   "Wealden": {
+      "wage": "660",
+      "id": "E14001023"
+   },
+   "Selby and Ainsty": {
+      "wage": "550",
+      "id": "E14000917"
+   },
+   "Kingswood": {
+      "wage": "550",
+      "id": "E14000774"
+   },
+   "Manchester, Withington": {
+      "wage": "600",
+      "id": "E14000809"
+   },
+   "Brecon and Radnorshire": {
+      "wage": "460",
+      "id": "W07000068"
+   },
+   "Redcar": {
+      "wage": "480",
+      "id": "E14000891"
+   },
+   "Airdrie and Shotts": {
+      "wage": "500",
+      "id": "S14000003"
+   },
+   "Hove": {
+      "wage": "580",
+      "id": "E14000755"
+   },
+   "Mitcham and Morden": {
+      "wage": "570",
+      "id": "E14000823"
+   },
+   "Central Suffolk and North Ipswich": {
+      "wage": "570",
+      "id": "E14000624"
+   },
+   "Banbury": {
+      "wage": "590",
+      "id": "E14000539"
+   },
+   "Bexhill and Battle": {
+      "wage": "530",
+      "id": "E14000557"
+   },
+   "Hemel Hempstead": {
+      "wage": "580",
+      "id": "E14000739"
+   },
+   "Somerton and Frome": {
+      "wage": "570",
+      "id": "E14000932"
+   },
+   "Uxbridge and South Ruislip": {
+      "wage": "630",
+      "id": "E14001007"
+   },
+   "Hertford and Stortford": {
+      "wage": "650",
+      "id": "E14000744"
+   },
+   "Croydon North": {
+      "wage": "580",
+      "id": "E14000655"
+   },
+   "North Ayrshire and Arran": {
+      "wage": "570",
+      "id": "S14000048"
+   },
+   "St Ives": {
+      "wage": "450",
+      "id": "E14000964"
+   },
+   "Southport": {
+      "wage": "520",
+      "id": "E14000958"
+   },
+   "Perth and North Perthshire": {
+      "wage": "550",
+      "id": "S14000054"
+   },
+   "Dwyfor Meirionnydd": {
+      "wage": "400",
+      "id": "W07000061"
+   },
+   "Dunfermline and West Fife": {
+      "wage": "550",
+      "id": "S14000017"
+   },
+   "Bolton North East": {
+      "wage": "440",
+      "id": "E14000578"
+   },
+   "Portsmouth South": {
+      "wage": "490",
+      "id": "E14000884"
+   },
+   "Surrey Heath": {
+      "wage": "680",
+      "id": "E14000983"
+   },
+   "Leigh": {
+      "wage": "520",
+      "id": "E14000785"
+   },
+   "Houghton and Sunderland South": {
+      "wage": "500",
+      "id": "E14000754"
+   },
+   "Sunderland Central": {
+      "wage": "500",
+      "id": "E14000982"
+   },
+   "Hyndburn": {
+      "wage": "480",
+      "id": "E14000758"
+   },
+   "Bridgend": {
+      "wage": "530",
+      "id": "W07000073"
+   },
+   "Birmingham, Hodge Hill": {
+      "wage": "440",
+      "id": "E14000563"
+   },
+   "West Worcestershire": {
+      "wage": "550",
+      "id": "E14001035"
+   },
+   "Barnsley Central": {
+      "wage": "460",
+      "id": "E14000541"
+   },
+   "Rother Valley": {
+      "wage": "530",
+      "id": "E14000903"
+   },
+   "Tatton": {
+      "wage": "670",
+      "id": "E14000987"
+   },
+   "East Lothian": {
+      "wage": "600",
+      "id": "S14000020"
+   },
+   "Warrington North": {
+      "wage": "520",
+      "id": "E14001017"
+   },
+   "South West Wiltshire": {
+      "wage": "490",
+      "id": "E14000954"
+   },
+   "Kenilworth and Southam": {
+      "wage": "740",
+      "id": "E14000767"
+   },
+   "Meriden": {
+      "wage": "610",
+      "id": "E14000812"
+   },
+   "South Dorset": {
+      "wage": "510",
+      "id": "E14000936"
+   },
+   "Glasgow North East": {
+      "wage": "460",
+      "id": "S14000032"
+   },
+   "Skipton and Ripon": {
+      "wage": "490",
+      "id": "E14000928"
+   },
+   "Worsley and Eccles South": {
+      "wage": "500",
+      "id": "E14001054"
+   },
+   "Jarrow": {
+      "wage": "470",
+      "id": "E14000765"
+   },
+   "Taunton Deane": {
+      "wage": "510",
+      "id": "E14000988"
+   },
+   "Coventry North West": {
+      "wage": "560",
+      "id": "E14000650"
+   },
+   "Paisley and Renfrewshire North": {
+      "wage": "640",
+      "id": "S14000052"
+   },
+   "Gainsborough": {
+      "wage": "520",
+      "id": "E14000707"
+   },
+   "Caithness, Sutherland and Easter Ross": {
+      "wage": "570",
+      "id": "S14000009"
+   },
+   "Macclesfield": {
+      "wage": "590",
+      "id": "E14000802"
+   },
+   "Liverpool, Riverside": {
+      "wage": "500",
+      "id": "E14000793"
+   },
+   "South Suffolk": {
+      "wage": "560",
+      "id": "E14000946"
+   },
+   "Erith and Thamesmead": {
+      "wage": "560",
+      "id": "E14000696"
+   },
+   "South Ribble": {
+      "wage": "530",
+      "id": "E14000943"
+   },
+   "Reading West": {
+      "wage": "600",
+      "id": "E14000890"
+   },
+   "Torridge and West Devon": {
+      "wage": "500",
+      "id": "E14001000"
+   },
+   "Nottingham South": {
+      "wage": "480",
+      "id": "E14000867"
+   },
+   "West Dorset": {
+      "wage": "520",
+      "id": "E14001031"
+   },
+   "Poole": {
+      "wage": "530",
+      "id": "E14000881"
+   },
+   "Bournemouth West": {
+      "wage": "470",
+      "id": "E14000585"
+   },
+   "Canterbury": {
+      "wage": "590",
+      "id": "E14000619"
+   },
+   "Westminster North": {
+      "wage": "740",
+      "id": "E14001036"
+   },
+   "North West Leicestershire": {
+      "wage": "540",
+      "id": "E14000858"
+   },
+   "South West Devon": {
+      "wage": "550",
+      "id": "E14000950"
+   },
+   "North West Norfolk": {
+      "wage": "500",
+      "id": "E14000859"
+   },
+   "Bury North": {
+      "wage": "560",
+      "id": "E14000611"
+   },
+   "Aldridge-Brownhills": {
+      "wage": "480",
+      "id": "E14000531"
+   },
+   "Montgomeryshire": {
+      "wage": "470",
+      "id": "W07000063"
+   },
+   "Preston": {
+      "wage": "440",
+      "id": "E14000885"
+   },
+   "Brent North": {
+      "wage": "570",
+      "id": "E14000592"
+   },
+   "North Tyneside": {
+      "wage": "500",
+      "id": "E14000853"
+   },
+   "North East Hampshire": {
+      "wage": "670",
+      "id": "E14000844"
+   },
+   "East Surrey": {
+      "wage": "630",
+      "id": "E14000681"
+   },
+   "Birmingham, Northfield": {
+      "wage": "530",
+      "id": "E14000565"
+   },
+   "Penrith and The Border": {
+      "wage": "500",
+      "id": "E14000877"
+   },
+   "Romford": {
+      "wage": "630",
+      "id": "E14000900"
+   },
+   "Salford and Eccles": {
+      "wage": "480",
+      "id": "E14000911"
+   },
+   "Bethnal Green and Bow": {
+      "wage": "670",
+      "id": "E14000555"
+   },
+   "Delyn": {
+      "wage": "490",
+      "id": "W07000042"
+   },
+   "Fareham": {
+      "wage": "570",
+      "id": "E14000699"
+   },
+   "Central Ayrshire": {
+      "wage": "550",
+      "id": "S14000010"
+   },
+   "Henley": {
+      "wage": "670",
+      "id": "E14000742"
+   },
+   "Argyll and Bute": {
+      "wage": "460",
+      "id": "S14000005"
+   },
+   "Isle of Wight": {
+      "wage": "500",
+      "id": "E14000762"
+   },
+   "Barnsley East": {
+      "wage": "490",
+      "id": "E14000542"
+   },
+   "Wimbledon": {
+      "wage": "820",
+      "id": "E14001040"
+   },
+   "Gillingham and Rainham": {
+      "wage": "550",
+      "id": "E14000711"
+   },
+   "Islwyn": {
+      "wage": "490",
+      "id": "W07000077"
+   },
+   "Bristol South": {
+      "wage": "500",
+      "id": "E14000601"
+   },
+   "Dulwich and West Norwood": {
+      "wage": "700",
+      "id": "E14000673"
+   },
+   "Lichfield": {
+      "wage": "620",
+      "id": "E14000791"
+   },
+   "Burnley": {
+      "wage": "440",
+      "id": "E14000609"
+   },
+   "Wells": {
+      "wage": "490",
+      "id": "E14001026"
+   },
+   "West Aberdeenshire and Kincardine": {
+      "wage": "630",
+      "id": "S14000058"
+   },
+   "Cheadle": {
+      "wage": "610",
+      "id": "E14000627"
+   },
+   "South West Hertfordshire": {
+      "wage": "690",
+      "id": "E14000951"
+   },
+   "Tottenham": {
+      "wage": "560",
+      "id": "E14001002"
+   },
+   "Leicester West": {
+      "wage": "450",
+      "id": "E14000784"
+   },
+   "Wellingborough": {
+      "wage": "490",
+      "id": "E14001025"
+   },
+   "Gosport": {
+      "wage": "540",
+      "id": "E14000713"
+   },
+   "Birmingham, Edgbaston": {
+      "wage": "540",
+      "id": "E14000560"
+   },
+   "Birkenhead": {
+      "wage": "480",
+      "id": "E14000559"
+   },
+   "Poplar and Limehouse": {
+      "wage": "750",
+      "id": "E14000882"
+   },
+   "Carmarthen East and Dinefwr": {
+      "wage": "530",
+      "id": "W07000067"
+   },
+   "Clacton": {
+      "wage": "470",
+      "id": "E14000642"
+   },
+   "South Norfolk": {
+      "wage": "520",
+      "id": "E14000941"
+   },
+   "Dover": {
+      "wage": "520",
+      "id": "E14000670"
+   },
+   "Derbyshire Dales": {
+      "wage": "600",
+      "id": "E14000664"
+   },
+   "Sutton and Cheam": {
+      "wage": "670",
+      "id": "E14000984"
+   },
+   "Norwich North": {
+      "wage": "480",
+      "id": "E14000863"
+   },
+   "Dumfries and Galloway": {
+      "wage": "450",
+      "id": "S14000013"
+   },
+   "Coatbridge, Chryston and Bellshill": {
+      "wage": "550",
+      "id": "S14000011"
+   },
+   "Eastleigh": {
+      "wage": "550",
+      "id": "E14000685"
+   },
+   "Ilford South": {
+      "wage": "590",
+      "id": "E14000760"
+   },
+   "Saffron Walden": {
+      "wage": "630",
+      "id": "E14000910"
+   },
+   "City of Chester": {
+      "wage": "550",
+      "id": "E14000640"
+   },
+   "Eltham": {
+      "wage": "660",
+      "id": "E14000690"
+   }
+}

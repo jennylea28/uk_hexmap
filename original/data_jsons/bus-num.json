@@ -1,0 +1,3252 @@
+{
+   "North East Hertfordshire": {
+      "total_bus": "2668810",
+      "num_bus": "5020",
+      "id": "E14000845"
+   },
+   "Blaydon": {
+      "total_bus": "2668810",
+      "num_bus": "2270",
+      "id": "E14000574"
+   },
+   "Thornbury and Yate": {
+      "total_bus": "2668810",
+      "num_bus": "3930",
+      "id": "E14000994"
+   },
+   "South Antrim": {
+      "total_bus": "2668810",
+      "num_bus": "3540",
+      "id": "N06000014"
+   },
+   "Belfast North": {
+      "total_bus": "2668810",
+      "num_bus": "2260",
+      "id": "N06000002"
+   },
+   "Fermanagh and South Tyrone": {
+      "total_bus": "2668810",
+      "num_bus": "6950",
+      "id": "N06000007"
+   },
+   "Ipswich": {
+      "total_bus": "2668810",
+      "num_bus": "3460",
+      "id": "E14000761"
+   },
+   "Castle Point": {
+      "total_bus": "2668810",
+      "num_bus": "3275",
+      "id": "E14000622"
+   },
+   "Rochdale": {
+      "total_bus": "2668810",
+      "num_bus": "3300",
+      "id": "E14000897"
+   },
+   "Neath": {
+      "total_bus": "2668810",
+      "num_bus": "1610",
+      "id": "W07000069"
+   },
+   "Leeds West": {
+      "total_bus": "2668810",
+      "num_bus": "2515",
+      "id": "E14000781"
+   },
+   "South Leicestershire": {
+      "total_bus": "2668810",
+      "num_bus": "5365",
+      "id": "E14000940"
+   },
+   "Ashton-under-Lyne": {
+      "total_bus": "2668810",
+      "num_bus": "2540",
+      "id": "E14000537"
+   },
+   "Epsom and Ewell": {
+      "total_bus": "2668810",
+      "num_bus": "5090",
+      "id": "E14000694"
+   },
+   "Walsall North": {
+      "total_bus": "2668810",
+      "num_bus": "2255",
+      "id": "E14001011"
+   },
+   "Penistone and Stocksbridge": {
+      "total_bus": "2668810",
+      "num_bus": "2900",
+      "id": "E14000876"
+   },
+   "New Forest East": {
+      "total_bus": "2668810",
+      "num_bus": "3630",
+      "id": "E14000827"
+   },
+   "Chipping Barnet": {
+      "total_bus": "2668810",
+      "num_bus": "6445",
+      "id": "E14000636"
+   },
+   "Kilmarnock and Loudoun": {
+      "total_bus": "2668810",
+      "num_bus": "2615",
+      "id": "S14000040"
+   },
+   "Kettering": {
+      "total_bus": "2668810",
+      "num_bus": "3820",
+      "id": "E14000769"
+   },
+   "Orkney and Shetland": {
+      "total_bus": "2668810",
+      "num_bus": "2960",
+      "id": "S14000051"
+   },
+   "Aberavon": {
+      "total_bus": "2668810",
+      "num_bus": "1405",
+      "id": "W07000049"
+   },
+   "Rossendale and Darwen": {
+      "total_bus": "2668810",
+      "num_bus": "3385",
+      "id": "E14000902"
+   },
+   "Kensington": {
+      "total_bus": "2668810",
+      "num_bus": "9605",
+      "id": "E14000768"
+   },
+   "Westmorland and Lonsdale": {
+      "total_bus": "2668810",
+      "num_bus": "5285",
+      "id": "E14001037"
+   },
+   "Solihull": {
+      "total_bus": "2668810",
+      "num_bus": "3800",
+      "id": "E14000931"
+   },
+   "Totnes": {
+      "total_bus": "2668810",
+      "num_bus": "4355",
+      "id": "E14001001"
+   },
+   "Garston and Halewood": {
+      "total_bus": "2668810",
+      "num_bus": "2880",
+      "id": "E14000708"
+   },
+   "Warwick and Leamington": {
+      "total_bus": "2668810",
+      "num_bus": "5345",
+      "id": "E14001019"
+   },
+   "Basingstoke": {
+      "total_bus": "2668810",
+      "num_bus": "4320",
+      "id": "E14000545"
+   },
+   "Chesterfield": {
+      "total_bus": "2668810",
+      "num_bus": "3085",
+      "id": "E14000632"
+   },
+   "Dundee West": {
+      "total_bus": "2668810",
+      "num_bus": "2150",
+      "id": "S14000016"
+   },
+   "East Devon": {
+      "total_bus": "2668810",
+      "num_bus": "4040",
+      "id": "E14000678"
+   },
+   "Ceredigion": {
+      "total_bus": "2668810",
+      "num_bus": "4015",
+      "id": "W07000064"
+   },
+   "Harwich and North Essex": {
+      "total_bus": "2668810",
+      "num_bus": "4155",
+      "id": "E14000734"
+   },
+   "Bristol North West": {
+      "total_bus": "2668810",
+      "num_bus": "3590",
+      "id": "E14000600"
+   },
+   "Aberdeen South": {
+      "total_bus": "2668810",
+      "num_bus": "4830",
+      "id": "S14000002"
+   },
+   "Hartlepool": {
+      "total_bus": "2668810",
+      "num_bus": "2395",
+      "id": "E14000733"
+   },
+   "Hereford and South Herefordshire": {
+      "total_bus": "2668810",
+      "num_bus": "4645",
+      "id": "E14000743"
+   },
+   "North East Bedfordshire": {
+      "total_bus": "2668810",
+      "num_bus": "5205",
+      "id": "E14000841"
+   },
+   "Mid Norfolk": {
+      "total_bus": "2668810",
+      "num_bus": "4210",
+      "id": "E14000816"
+   },
+   "Witham": {
+      "total_bus": "2668810",
+      "num_bus": "4305",
+      "id": "E14001045"
+   },
+   "Eastbourne": {
+      "total_bus": "2668810",
+      "num_bus": "3235",
+      "id": "E14000684"
+   },
+   "Heywood and Middleton": {
+      "total_bus": "2668810",
+      "num_bus": "3390",
+      "id": "E14000747"
+   },
+   "Cardiff South and Penarth": {
+      "total_bus": "2668810",
+      "num_bus": "3935",
+      "id": "W07000080"
+   },
+   "South Down": {
+      "total_bus": "2668810",
+      "num_bus": "5350",
+      "id": "N06000015"
+   },
+   "Bolton South East": {
+      "total_bus": "2668810",
+      "num_bus": "2930",
+      "id": "E14000579"
+   },
+   "Vale of Glamorgan": {
+      "total_bus": "2668810",
+      "num_bus": "3200",
+      "id": "W07000078"
+   },
+   "Caerphilly": {
+      "total_bus": "2668810",
+      "num_bus": "2035",
+      "id": "W07000076"
+   },
+   "Morecambe and Lunesdale": {
+      "total_bus": "2668810",
+      "num_bus": "2685",
+      "id": "E14000825"
+   },
+   "Derby North": {
+      "total_bus": "2668810",
+      "num_bus": "2975",
+      "id": "E14000662"
+   },
+   "Winchester": {
+      "total_bus": "2668810",
+      "num_bus": "5105",
+      "id": "E14001041"
+   },
+   "Staffordshire Moorlands": {
+      "total_bus": "2668810",
+      "num_bus": "3375",
+      "id": "E14000966"
+   },
+   "Redditch": {
+      "total_bus": "2668810",
+      "num_bus": "3325",
+      "id": "E14000892"
+   },
+   "Great Grimsby": {
+      "total_bus": "2668810",
+      "num_bus": "2360",
+      "id": "E14000716"
+   },
+   "Milton Keynes North": {
+      "total_bus": "2668810",
+      "num_bus": "6505",
+      "id": "E14000821"
+   },
+   "Ogmore": {
+      "total_bus": "2668810",
+      "num_bus": "1655",
+      "id": "W07000074"
+   },
+   "Southampton, Itchen": {
+      "total_bus": "2668810",
+      "num_bus": "2995",
+      "id": "E14000955"
+   },
+   "Wolverhampton South West": {
+      "total_bus": "2668810",
+      "num_bus": "3375",
+      "id": "E14001051"
+   },
+   "Pendle": {
+      "total_bus": "2668810",
+      "num_bus": "2850",
+      "id": "E14000875"
+   },
+   "Huddersfield": {
+      "total_bus": "2668810",
+      "num_bus": "3240",
+      "id": "E14000756"
+   },
+   "City of Durham": {
+      "total_bus": "2668810",
+      "num_bus": "2395",
+      "id": "E14000641"
+   },
+   "Milton Keynes South": {
+      "total_bus": "2668810",
+      "num_bus": "6020",
+      "id": "E14000822"
+   },
+   "Banff and Buchan": {
+      "total_bus": "2668810",
+      "num_bus": "4720",
+      "id": "S14000007"
+   },
+   "Richmond (Yorks)": {
+      "total_bus": "2668810",
+      "num_bus": "5955",
+      "id": "E14000895"
+   },
+   "Edinburgh South": {
+      "total_bus": "2668810",
+      "num_bus": "2390",
+      "id": "S14000024"
+   },
+   "Chippenham": {
+      "total_bus": "2668810",
+      "num_bus": "4130",
+      "id": "E14000635"
+   },
+   "Buckingham": {
+      "total_bus": "2668810",
+      "num_bus": "6885",
+      "id": "E14000608"
+   },
+   "Dumfriesshire, Clydesdale and Tweeddale": {
+      "total_bus": "2668810",
+      "num_bus": "3915",
+      "id": "S14000014"
+   },
+   "Bradford East": {
+      "total_bus": "2668810",
+      "num_bus": "2735",
+      "id": "E14000587"
+   },
+   "Sedgefield": {
+      "total_bus": "2668810",
+      "num_bus": "2675",
+      "id": "E14000915"
+   },
+   "Halesowen and Rowley Regis": {
+      "total_bus": "2668810",
+      "num_bus": "2825",
+      "id": "E14000722"
+   },
+   "Stourbridge": {
+      "total_bus": "2668810",
+      "num_bus": "2870",
+      "id": "E14000976"
+   },
+   "Broxbourne": {
+      "total_bus": "2668810",
+      "num_bus": "4445",
+      "id": "E14000606"
+   },
+   "Bury St Edmunds": {
+      "total_bus": "2668810",
+      "num_bus": "4690",
+      "id": "E14000613"
+   },
+   "Hertsmere": {
+      "total_bus": "2668810",
+      "num_bus": "7415",
+      "id": "E14000745"
+   },
+   "Clwyd South": {
+      "total_bus": "2668810",
+      "num_bus": "2280",
+      "id": "W07000062"
+   },
+   "High Peak": {
+      "total_bus": "2668810",
+      "num_bus": "3920",
+      "id": "E14000748"
+   },
+   "Halifax": {
+      "total_bus": "2668810",
+      "num_bus": "3445",
+      "id": "E14000723"
+   },
+   "Oxford East": {
+      "total_bus": "2668810",
+      "num_bus": "3415",
+      "id": "E14000873"
+   },
+   "South Basildon and East Thurrock": {
+      "total_bus": "2668810",
+      "num_bus": "3350",
+      "id": "E14000933"
+   },
+   "Cardiff North": {
+      "total_bus": "2668810",
+      "num_bus": "2520",
+      "id": "W07000051"
+   },
+   "Luton South": {
+      "total_bus": "2668810",
+      "num_bus": "7440",
+      "id": "E14000801"
+   },
+   "Camborne and Redruth": {
+      "total_bus": "2668810",
+      "num_bus": "2935",
+      "id": "E14000616"
+   },
+   "Alyn and Deeside": {
+      "total_bus": "2668810",
+      "num_bus": "2680",
+      "id": "W07000043"
+   },
+   "Sittingbourne and Sheppey": {
+      "total_bus": "2668810",
+      "num_bus": "3640",
+      "id": "E14000927"
+   },
+   "Warrington South": {
+      "total_bus": "2668810",
+      "num_bus": "4645",
+      "id": "E14001018"
+   },
+   "Ealing, Southall": {
+      "total_bus": "2668810",
+      "num_bus": "4050",
+      "id": "E14000676"
+   },
+   "Normanton, Pontefract and Castleford": {
+      "total_bus": "2668810",
+      "num_bus": "2795",
+      "id": "E14000836"
+   },
+   "Stockton North": {
+      "total_bus": "2668810",
+      "num_bus": "2475",
+      "id": "E14000970"
+   },
+   "Blyth Valley": {
+      "total_bus": "2668810",
+      "num_bus": "1875",
+      "id": "E14000575"
+   },
+   "North West Hampshire": {
+      "total_bus": "2668810",
+      "num_bus": "5010",
+      "id": "E14000857"
+   },
+   "Grantham and Stamford": {
+      "total_bus": "2668810",
+      "num_bus": "4425",
+      "id": "E14000714"
+   },
+   "Chichester": {
+      "total_bus": "2668810",
+      "num_bus": "5870",
+      "id": "E14000633"
+   },
+   "Ealing Central and Acton": {
+      "total_bus": "2668810",
+      "num_bus": "9070",
+      "id": "E14000674"
+   },
+   "Bexleyheath and Crayford": {
+      "total_bus": "2668810",
+      "num_bus": "3110",
+      "id": "E14000558"
+   },
+   "Tamworth": {
+      "total_bus": "2668810",
+      "num_bus": "3800",
+      "id": "E14000986"
+   },
+   "South East Cornwall": {
+      "total_bus": "2668810",
+      "num_bus": "3850",
+      "id": "E14000938"
+   },
+   "Hitchin and Harpenden": {
+      "total_bus": "2668810",
+      "num_bus": "6245",
+      "id": "E14000749"
+   },
+   "Bradford West": {
+      "total_bus": "2668810",
+      "num_bus": "3740",
+      "id": "E14000589"
+   },
+   "North Norfolk": {
+      "total_bus": "2668810",
+      "num_bus": "3540",
+      "id": "E14000848"
+   },
+   "The Cotswolds": {
+      "total_bus": "2668810",
+      "num_bus": "6710",
+      "id": "E14000991"
+   },
+   "Esher and Walton": {
+      "total_bus": "2668810",
+      "num_bus": "6845",
+      "id": "E14000697"
+   },
+   "Brentwood and Ongar": {
+      "total_bus": "2668810",
+      "num_bus": "5760",
+      "id": "E14000594"
+   },
+   "Hammersmith": {
+      "total_bus": "2668810",
+      "num_bus": "7645",
+      "id": "E14000726"
+   },
+   "Mid Sussex": {
+      "total_bus": "2668810",
+      "num_bus": "5505",
+      "id": "E14000817"
+   },
+   "Leeds North West": {
+      "total_bus": "2668810",
+      "num_bus": "2695",
+      "id": "E14000780"
+   },
+   "Twickenham": {
+      "total_bus": "2668810",
+      "num_bus": "7280",
+      "id": "E14001005"
+   },
+   "Sheffield, Hallam": {
+      "total_bus": "2668810",
+      "num_bus": "2825",
+      "id": "E14000922"
+   },
+   "Rochford and Southend East": {
+      "total_bus": "2668810",
+      "num_bus": "4130",
+      "id": "E14000899"
+   },
+   "Ashfield": {
+      "total_bus": "2668810",
+      "num_bus": "2540",
+      "id": "E14000535"
+   },
+   "Kingston upon Hull North": {
+      "total_bus": "2668810",
+      "num_bus": "1560",
+      "id": "E14000772"
+   },
+   "Scunthorpe": {
+      "total_bus": "2668810",
+      "num_bus": "2260",
+      "id": "E14000914"
+   },
+   "Stretford and Urmston": {
+      "total_bus": "2668810",
+      "num_bus": "4710",
+      "id": "E14000979"
+   },
+   "South Swindon": {
+      "total_bus": "2668810",
+      "num_bus": "3785",
+      "id": "E14000947"
+   },
+   "Cheltenham": {
+      "total_bus": "2668810",
+      "num_bus": "4875",
+      "id": "E14000630"
+   },
+   "Mid Derbyshire": {
+      "total_bus": "2668810",
+      "num_bus": "2705",
+      "id": "E14000814"
+   },
+   "North Down": {
+      "total_bus": "2668810",
+      "num_bus": "2330",
+      "id": "N06000013"
+   },
+   "Bath": {
+      "total_bus": "2668810",
+      "num_bus": "4160",
+      "id": "E14000547"
+   },
+   "Stoke-on-Trent North": {
+      "total_bus": "2668810",
+      "num_bus": "2255",
+      "id": "E14000973"
+   },
+   "Stratford-on-Avon": {
+      "total_bus": "2668810",
+      "num_bus": "6180",
+      "id": "E14000977"
+   },
+   "Battersea": {
+      "total_bus": "2668810",
+      "num_bus": "6985",
+      "id": "E14000549"
+   },
+   "Leeds North East": {
+      "total_bus": "2668810",
+      "num_bus": "3065",
+      "id": "E14000779"
+   },
+   "St Albans": {
+      "total_bus": "2668810",
+      "num_bus": "6405",
+      "id": "E14000960"
+   },
+   "Dudley North": {
+      "total_bus": "2668810",
+      "num_bus": "2090",
+      "id": "E14000671"
+   },
+   "Chelmsford": {
+      "total_bus": "2668810",
+      "num_bus": "4375",
+      "id": "E14000628"
+   },
+   "North Shropshire": {
+      "total_bus": "2668810",
+      "num_bus": "5135",
+      "id": "E14000849"
+   },
+   "Waveney": {
+      "total_bus": "2668810",
+      "num_bus": "3115",
+      "id": "E14001022"
+   },
+   "Thirsk and Malton": {
+      "total_bus": "2668810",
+      "num_bus": "6215",
+      "id": "E14000993"
+   },
+   "Chatham and Aylesford": {
+      "total_bus": "2668810",
+      "num_bus": "2825",
+      "id": "E14000626"
+   },
+   "Weston-Super-Mare": {
+      "total_bus": "2668810",
+      "num_bus": "3785",
+      "id": "E14001038"
+   },
+   "Bassetlaw": {
+      "total_bus": "2668810",
+      "num_bus": "3475",
+      "id": "E14000546"
+   },
+   "Edinburgh South West": {
+      "total_bus": "2668810",
+      "num_bus": "3220",
+      "id": "S14000025"
+   },
+   "Forest of Dean": {
+      "total_bus": "2668810",
+      "num_bus": "4160",
+      "id": "E14000705"
+   },
+   "Motherwell and Wishaw": {
+      "total_bus": "2668810",
+      "num_bus": "1850",
+      "id": "S14000047"
+   },
+   "Sefton Central": {
+      "total_bus": "2668810",
+      "num_bus": "2395",
+      "id": "E14000916"
+   },
+   "Wansbeck": {
+      "total_bus": "2668810",
+      "num_bus": "1945",
+      "id": "E14001014"
+   },
+   "Islington South and Finsbury": {
+      "total_bus": "2668810",
+      "num_bus": "13245",
+      "id": "E14000764"
+   },
+   "South Holland and The Deepings": {
+      "total_bus": "2668810",
+      "num_bus": "4615",
+      "id": "E14000939"
+   },
+   "Mid Ulster": {
+      "total_bus": "2668810",
+      "num_bus": "5980",
+      "id": "N06000010"
+   },
+   "Angus": {
+      "total_bus": "2668810",
+      "num_bus": "3125",
+      "id": "S14000004"
+   },
+   "East Londonderry": {
+      "total_bus": "2668810",
+      "num_bus": "3930",
+      "id": "N06000006"
+   },
+   "Gower": {
+      "total_bus": "2668810",
+      "num_bus": "2295",
+      "id": "W07000046"
+   },
+   "Stafford": {
+      "total_bus": "2668810",
+      "num_bus": "3475",
+      "id": "E14000965"
+   },
+   "Glenrothes": {
+      "total_bus": "2668810",
+      "num_bus": "1745",
+      "id": "S14000036"
+   },
+   "Inverclyde": {
+      "total_bus": "2668810",
+      "num_bus": "1685",
+      "id": "S14000038"
+   },
+   "Harrow West": {
+      "total_bus": "2668810",
+      "num_bus": "6385",
+      "id": "E14000732"
+   },
+   "Liverpool, West Derby": {
+      "total_bus": "2668810",
+      "num_bus": "1515",
+      "id": "E14000796"
+   },
+   "Na h-Eileanan An Iar": {
+      "total_bus": "2668810",
+      "num_bus": "1165",
+      "id": "S14000027"
+   },
+   "Ealing North": {
+      "total_bus": "2668810",
+      "num_bus": "4765",
+      "id": "E14000675"
+   },
+   "Stirling": {
+      "total_bus": "2668810",
+      "num_bus": "3885",
+      "id": "S14000057"
+   },
+   "East Renfrewshire": {
+      "total_bus": "2668810",
+      "num_bus": "2685",
+      "id": "S14000021"
+   },
+   "Lagan Valley": {
+      "total_bus": "2668810",
+      "num_bus": "3830",
+      "id": "N06000009"
+   },
+   "Crewe and Nantwich": {
+      "total_bus": "2668810",
+      "num_bus": "3655",
+      "id": "E14000653"
+   },
+   "Walthamstow": {
+      "total_bus": "2668810",
+      "num_bus": "4655",
+      "id": "E14001013"
+   },
+   "West Lancashire": {
+      "total_bus": "2668810",
+      "num_bus": "3605",
+      "id": "E14001033"
+   },
+   "Rushcliffe": {
+      "total_bus": "2668810",
+      "num_bus": "4645",
+      "id": "E14000908"
+   },
+   "St Helens North": {
+      "total_bus": "2668810",
+      "num_bus": "2330",
+      "id": "E14000962"
+   },
+   "Great Yarmouth": {
+      "total_bus": "2668810",
+      "num_bus": "2890",
+      "id": "E14000717"
+   },
+   "Reading East": {
+      "total_bus": "2668810",
+      "num_bus": "5430",
+      "id": "E14000889"
+   },
+   "Bognor Regis and Littlehampton": {
+      "total_bus": "2668810",
+      "num_bus": "3025",
+      "id": "E14000576"
+   },
+   "Birmingham, Yardley": {
+      "total_bus": "2668810",
+      "num_bus": "2785",
+      "id": "E14000568"
+   },
+   "South Cambridgeshire": {
+      "total_bus": "2668810",
+      "num_bus": "5890",
+      "id": "E14000934"
+   },
+   "Welwyn Hatfield": {
+      "total_bus": "2668810",
+      "num_bus": "4670",
+      "id": "E14001027"
+   },
+   "Southend West": {
+      "total_bus": "2668810",
+      "num_bus": "3660",
+      "id": "E14000957"
+   },
+   "Beckenham": {
+      "total_bus": "2668810",
+      "num_bus": "4380",
+      "id": "E14000551"
+   },
+   "Wyre and Preston North": {
+      "total_bus": "2668810",
+      "num_bus": "4015",
+      "id": "E14001057"
+   },
+   "Dundee East": {
+      "total_bus": "2668810",
+      "num_bus": "1980",
+      "id": "S14000015"
+   },
+   "Salisbury": {
+      "total_bus": "2668810",
+      "num_bus": "4385",
+      "id": "E14000912"
+   },
+   "Colne Valley": {
+      "total_bus": "2668810",
+      "num_bus": "3980",
+      "id": "E14000645"
+   },
+   "Brighton, Pavilion": {
+      "total_bus": "2668810",
+      "num_bus": "6065",
+      "id": "E14000598"
+   },
+   "Birmingham, Perry Barr": {
+      "total_bus": "2668810",
+      "num_bus": "2620",
+      "id": "E14000566"
+   },
+   "Ilford North": {
+      "total_bus": "2668810",
+      "num_bus": "4935",
+      "id": "E14000759"
+   },
+   "Kirkcaldy and Cowdenbeath": {
+      "total_bus": "2668810",
+      "num_bus": "2270",
+      "id": "S14000041"
+   },
+   "East Antrim": {
+      "total_bus": "2668810",
+      "num_bus": "2425",
+      "id": "N06000005"
+   },
+   "Wyre Forest": {
+      "total_bus": "2668810",
+      "num_bus": "3475",
+      "id": "E14001058"
+   },
+   "Peterborough": {
+      "total_bus": "2668810",
+      "num_bus": "4135",
+      "id": "E14000878"
+   },
+   "Epping Forest": {
+      "total_bus": "2668810",
+      "num_bus": "5430",
+      "id": "E14000693"
+   },
+   "Wolverhampton South East": {
+      "total_bus": "2668810",
+      "num_bus": "2555",
+      "id": "E14001050"
+   },
+   "Wrexham": {
+      "total_bus": "2668810",
+      "num_bus": "2210",
+      "id": "W07000044"
+   },
+   "Newark": {
+      "total_bus": "2668810",
+      "num_bus": "4885",
+      "id": "E14000829"
+   },
+   "South Staffordshire": {
+      "total_bus": "2668810",
+      "num_bus": "3400",
+      "id": "E14000945"
+   },
+   "Bournemouth East": {
+      "total_bus": "2668810",
+      "num_bus": "3300",
+      "id": "E14000584"
+   },
+   "Bristol East": {
+      "total_bus": "2668810",
+      "num_bus": "2890",
+      "id": "E14000599"
+   },
+   "Weaver Vale": {
+      "total_bus": "2668810",
+      "num_bus": "3505",
+      "id": "E14001024"
+   },
+   "Glasgow South West": {
+      "total_bus": "2668810",
+      "num_bus": "1545",
+      "id": "S14000035"
+   },
+   "Portsmouth North": {
+      "total_bus": "2668810",
+      "num_bus": "3000",
+      "id": "E14000883"
+   },
+   "Witney": {
+      "total_bus": "2668810",
+      "num_bus": "5620",
+      "id": "E14001046"
+   },
+   "Ochil and South Perthshire": {
+      "total_bus": "2668810",
+      "num_bus": "3540",
+      "id": "S14000050"
+   },
+   "Llanelli": {
+      "total_bus": "2668810",
+      "num_bus": "1975",
+      "id": "W07000045"
+   },
+   "Birmingham, Erdington": {
+      "total_bus": "2668810",
+      "num_bus": "2285",
+      "id": "E14000561"
+   },
+   "Liverpool, Walton": {
+      "total_bus": "2668810",
+      "num_bus": "1615",
+      "id": "E14000794"
+   },
+   "Exeter": {
+      "total_bus": "2668810",
+      "num_bus": "3505",
+      "id": "E14000698"
+   },
+   "Glasgow North": {
+      "total_bus": "2668810",
+      "num_bus": "2180",
+      "id": "S14000031"
+   },
+   "Lewisham East": {
+      "total_bus": "2668810",
+      "num_bus": "3385",
+      "id": "E14000787"
+   },
+   "West Bromwich East": {
+      "total_bus": "2668810",
+      "num_bus": "2405",
+      "id": "E14001029"
+   },
+   "Altrincham and Sale West": {
+      "total_bus": "2668810",
+      "num_bus": "5765",
+      "id": "E14000532"
+   },
+   "Hendon": {
+      "total_bus": "2668810",
+      "num_bus": "7015",
+      "id": "E14000741"
+   },
+   "Stockton South": {
+      "total_bus": "2668810",
+      "num_bus": "3020",
+      "id": "E14000971"
+   },
+   "Middlesbrough South and East Cleveland": {
+      "total_bus": "2668810",
+      "num_bus": "2100",
+      "id": "E14000820"
+   },
+   "Gordon": {
+      "total_bus": "2668810",
+      "num_bus": "5140",
+      "id": "S14000037"
+   },
+   "Brigg and Goole": {
+      "total_bus": "2668810",
+      "num_bus": "3215",
+      "id": "E14000596"
+   },
+   "Midlothian": {
+      "total_bus": "2668810",
+      "num_bus": "2360",
+      "id": "S14000045"
+   },
+   "Louth and Horncastle": {
+      "total_bus": "2668810",
+      "num_bus": "3925",
+      "id": "E14000798"
+   },
+   "Wallasey": {
+      "total_bus": "2668810",
+      "num_bus": "1980",
+      "id": "E14001010"
+   },
+   "Gateshead": {
+      "total_bus": "2668810",
+      "num_bus": "2560",
+      "id": "E14000709"
+   },
+   "Falkirk": {
+      "total_bus": "2668810",
+      "num_bus": "2720",
+      "id": "S14000028"
+   },
+   "Vale of Clwyd": {
+      "total_bus": "2668810",
+      "num_bus": "2210",
+      "id": "W07000060"
+   },
+   "Birmingham, Hall Green": {
+      "total_bus": "2668810",
+      "num_bus": "3625",
+      "id": "E14000562"
+   },
+   "Birmingham, Ladywood": {
+      "total_bus": "2668810",
+      "num_bus": "13095",
+      "id": "E14000564"
+   },
+   "Oxford West and Abingdon": {
+      "total_bus": "2668810",
+      "num_bus": "4340",
+      "id": "E14000874"
+   },
+   "West Bromwich West": {
+      "total_bus": "2668810",
+      "num_bus": "2660",
+      "id": "E14001030"
+   },
+   "Camberwell and Peckham": {
+      "total_bus": "2668810",
+      "num_bus": "4125",
+      "id": "E14000615"
+   },
+   "Edmonton": {
+      "total_bus": "2668810",
+      "num_bus": "3550",
+      "id": "E14000687"
+   },
+   "Dudley South": {
+      "total_bus": "2668810",
+      "num_bus": "2740",
+      "id": "E14000672"
+   },
+   "Stoke-on-Trent South": {
+      "total_bus": "2668810",
+      "num_bus": "1940",
+      "id": "E14000974"
+   },
+   "Sevenoaks": {
+      "total_bus": "2668810",
+      "num_bus": "5300",
+      "id": "E14000918"
+   },
+   "Truro and Falmouth": {
+      "total_bus": "2668810",
+      "num_bus": "4450",
+      "id": "E14001003"
+   },
+   "Halton": {
+      "total_bus": "2668810",
+      "num_bus": "2720",
+      "id": "E14000725"
+   },
+   "Bradford South": {
+      "total_bus": "2668810",
+      "num_bus": "2290",
+      "id": "E14000588"
+   },
+   "Lanark and Hamilton East": {
+      "total_bus": "2668810",
+      "num_bus": "3230",
+      "id": "S14000042"
+   },
+   "Newcastle-under-Lyme": {
+      "total_bus": "2668810",
+      "num_bus": "2580",
+      "id": "E14000834"
+   },
+   "Broadland": {
+      "total_bus": "2668810",
+      "num_bus": "4805",
+      "id": "E14000603"
+   },
+   "Dewsbury": {
+      "total_bus": "2668810",
+      "num_bus": "3895",
+      "id": "E14000666"
+   },
+   "South West Surrey": {
+      "total_bus": "2668810",
+      "num_bus": "7095",
+      "id": "E14000953"
+   },
+   "Telford": {
+      "total_bus": "2668810",
+      "num_bus": "2665",
+      "id": "E14000989"
+   },
+   "Finchley and Golders Green": {
+      "total_bus": "2668810",
+      "num_bus": "9610",
+      "id": "E14000703"
+   },
+   "Rotherham": {
+      "total_bus": "2668810",
+      "num_bus": "2340",
+      "id": "E14000904"
+   },
+   "Coventry South": {
+      "total_bus": "2668810",
+      "num_bus": "4220",
+      "id": "E14000651"
+   },
+   "Feltham and Heston": {
+      "total_bus": "2668810",
+      "num_bus": "4945",
+      "id": "E14000701"
+   },
+   "Stone": {
+      "total_bus": "2668810",
+      "num_bus": "4040",
+      "id": "E14000975"
+   },
+   "Calder Valley": {
+      "total_bus": "2668810",
+      "num_bus": "4655",
+      "id": "E14000614"
+   },
+   "Northampton South": {
+      "total_bus": "2668810",
+      "num_bus": "4505",
+      "id": "E14000862"
+   },
+   "Tooting": {
+      "total_bus": "2668810",
+      "num_bus": "5335",
+      "id": "E14000998"
+   },
+   "Stalybridge and Hyde": {
+      "total_bus": "2668810",
+      "num_bus": "2650",
+      "id": "E14000967"
+   },
+   "Croydon South": {
+      "total_bus": "2668810",
+      "num_bus": "5485",
+      "id": "E14000656"
+   },
+   "Tynemouth": {
+      "total_bus": "2668810",
+      "num_bus": "2775",
+      "id": "E14001006"
+   },
+   "Berwick-upon-Tweed": {
+      "total_bus": "2668810",
+      "num_bus": "3445",
+      "id": "E14000554"
+   },
+   "Ross, Skye and Lochaber": {
+      "total_bus": "2668810",
+      "num_bus": "3720",
+      "id": "S14000055"
+   },
+   "Leicester South": {
+      "total_bus": "2668810",
+      "num_bus": "5205",
+      "id": "E14000783"
+   },
+   "Ynys Mon": {
+      "total_bus": "2668810",
+      "num_bus": "2495",
+      "id": "W07000041"
+   },
+   "Beverley and Holderness": {
+      "total_bus": "2668810",
+      "num_bus": "3980",
+      "id": "E14000556"
+   },
+   "Cambridge": {
+      "total_bus": "2668810",
+      "num_bus": "4690",
+      "id": "E14000617"
+   },
+   "Holborn and St Pancras": {
+      "total_bus": "2668810",
+      "num_bus": "22940",
+      "id": "E14000750"
+   },
+   "Woking": {
+      "total_bus": "2668810",
+      "num_bus": "5460",
+      "id": "E14001047"
+   },
+   "Washington and Sunderland West": {
+      "total_bus": "2668810",
+      "num_bus": "1645",
+      "id": "E14001020"
+   },
+   "Sheffield South East": {
+      "total_bus": "2668810",
+      "num_bus": "2915",
+      "id": "E14000920"
+   },
+   "Romsey and Southampton North": {
+      "total_bus": "2668810",
+      "num_bus": "4125",
+      "id": "E14000901"
+   },
+   "Coventry North East": {
+      "total_bus": "2668810",
+      "num_bus": "3160",
+      "id": "E14000649"
+   },
+   "Hornsey and Wood Green": {
+      "total_bus": "2668810",
+      "num_bus": "7160",
+      "id": "E14000752"
+   },
+   "Newcastle upon Tyne North": {
+      "total_bus": "2668810",
+      "num_bus": "2100",
+      "id": "E14000833"
+   },
+   "Sheffield, Heeley": {
+      "total_bus": "2668810",
+      "num_bus": "1730",
+      "id": "E14000923"
+   },
+   "Sutton Coldfield": {
+      "total_bus": "2668810",
+      "num_bus": "3835",
+      "id": "E14000985"
+   },
+   "North Durham": {
+      "total_bus": "2668810",
+      "num_bus": "1945",
+      "id": "E14000840"
+   },
+   "North West Durham": {
+      "total_bus": "2668810",
+      "num_bus": "2720",
+      "id": "E14000856"
+   },
+   "Wirral West": {
+      "total_bus": "2668810",
+      "num_bus": "2050",
+      "id": "E14001044"
+   },
+   "Mid Worcestershire": {
+      "total_bus": "2668810",
+      "num_bus": "4875",
+      "id": "E14000818"
+   },
+   "Dagenham and Rainham": {
+      "total_bus": "2668810",
+      "num_bus": "3525",
+      "id": "E14000657"
+   },
+   "Suffolk Coastal": {
+      "total_bus": "2668810",
+      "num_bus": "4610",
+      "id": "E14000981"
+   },
+   "Newbury": {
+      "total_bus": "2668810",
+      "num_bus": "6690",
+      "id": "E14000830"
+   },
+   "Loughborough": {
+      "total_bus": "2668810",
+      "num_bus": "4710",
+      "id": "E14000797"
+   },
+   "Barrow and Furness": {
+      "total_bus": "2668810",
+      "num_bus": "3100",
+      "id": "E14000543"
+   },
+   "Haltemprice and Howden": {
+      "total_bus": "2668810",
+      "num_bus": "3820",
+      "id": "E14000724"
+   },
+   "Gedling": {
+      "total_bus": "2668810",
+      "num_bus": "2585",
+      "id": "E14000710"
+   },
+   "South Shields": {
+      "total_bus": "2668810",
+      "num_bus": "1805",
+      "id": "E14000944"
+   },
+   "North Somerset": {
+      "total_bus": "2668810",
+      "num_bus": "5000",
+      "id": "E14000850"
+   },
+   "Ayr, Carrick and Cumnock": {
+      "total_bus": "2668810",
+      "num_bus": "2825",
+      "id": "S14000006"
+   },
+   "Lincoln": {
+      "total_bus": "2668810",
+      "num_bus": "2825",
+      "id": "E14000792"
+   },
+   "Swansea West": {
+      "total_bus": "2668810",
+      "num_bus": "2245",
+      "id": "W07000047"
+   },
+   "Moray": {
+      "total_bus": "2668810",
+      "num_bus": "3195",
+      "id": "S14000046"
+   },
+   "Belfast West": {
+      "total_bus": "2668810",
+      "num_bus": "1520",
+      "id": "N06000004"
+   },
+   "Richmond Park": {
+      "total_bus": "2668810",
+      "num_bus": "8115",
+      "id": "E14000896"
+   },
+   "Amber Valley": {
+      "total_bus": "2668810",
+      "num_bus": "2905",
+      "id": "E14000533"
+   },
+   "Chingford and Woodford Green": {
+      "total_bus": "2668810",
+      "num_bus": "4250",
+      "id": "E14000634"
+   },
+   "Bridgwater and West Somerset": {
+      "total_bus": "2668810",
+      "num_bus": "4500",
+      "id": "E14000595"
+   },
+   "Stockport": {
+      "total_bus": "2668810",
+      "num_bus": "3455",
+      "id": "E14000969"
+   },
+   "Kingston and Surbiton": {
+      "total_bus": "2668810",
+      "num_bus": "6285",
+      "id": "E14000770"
+   },
+   "Cannock Chase": {
+      "total_bus": "2668810",
+      "num_bus": "3400",
+      "id": "E14000618"
+   },
+   "Bermondsey and Old Southwark": {
+      "total_bus": "2668810",
+      "num_bus": "10430",
+      "id": "E14000553"
+   },
+   "Mole Valley": {
+      "total_bus": "2668810",
+      "num_bus": "6520",
+      "id": "E14000824"
+   },
+   "Derby South": {
+      "total_bus": "2668810",
+      "num_bus": "3355",
+      "id": "E14000663"
+   },
+   "Maidenhead": {
+      "total_bus": "2668810",
+      "num_bus": "6535",
+      "id": "E14000803"
+   },
+   "Knowsley": {
+      "total_bus": "2668810",
+      "num_bus": "2455",
+      "id": "E14000775"
+   },
+   "Nottingham North": {
+      "total_bus": "2668810",
+      "num_bus": "1660",
+      "id": "E14000866"
+   },
+   "Burton": {
+      "total_bus": "2668810",
+      "num_bus": "3940",
+      "id": "E14000610"
+   },
+   "Hemsworth": {
+      "total_bus": "2668810",
+      "num_bus": "2295",
+      "id": "E14000740"
+   },
+   "Cynon Valley": {
+      "total_bus": "2668810",
+      "num_bus": "1420",
+      "id": "W07000070"
+   },
+   "North Herefordshire": {
+      "total_bus": "2668810",
+      "num_bus": "5490",
+      "id": "E14000847"
+   },
+   "West Suffolk": {
+      "total_bus": "2668810",
+      "num_bus": "4650",
+      "id": "E14001034"
+   },
+   "South Northamptonshire": {
+      "total_bus": "2668810",
+      "num_bus": "6565",
+      "id": "E14000942"
+   },
+   "Runnymede and Weybridge": {
+      "total_bus": "2668810",
+      "num_bus": "6185",
+      "id": "E14000907"
+   },
+   "Erewash": {
+      "total_bus": "2668810",
+      "num_bus": "3030",
+      "id": "E14000695"
+   },
+   "Aylesbury": {
+      "total_bus": "2668810",
+      "num_bus": "5020",
+      "id": "E14000538"
+   },
+   "Blackpool North and Cleveleys": {
+      "total_bus": "2668810",
+      "num_bus": "2075",
+      "id": "E14000572"
+   },
+   "Putney": {
+      "total_bus": "2668810",
+      "num_bus": "5115",
+      "id": "E14000887"
+   },
+   "Boston and Skegness": {
+      "total_bus": "2668810",
+      "num_bus": "3640",
+      "id": "E14000582"
+   },
+   "Beaconsfield": {
+      "total_bus": "2668810",
+      "num_bus": "7540",
+      "id": "E14000550"
+   },
+   "East Hampshire": {
+      "total_bus": "2668810",
+      "num_bus": "5495",
+      "id": "E14000680"
+   },
+   "Worthing West": {
+      "total_bus": "2668810",
+      "num_bus": "3410",
+      "id": "E14001055"
+   },
+   "Upper Bann": {
+      "total_bus": "2668810",
+      "num_bus": "3635",
+      "id": "N06000017"
+   },
+   "North East Derbyshire": {
+      "total_bus": "2668810",
+      "num_bus": "2980",
+      "id": "E14000843"
+   },
+   "Meon Valley": {
+      "total_bus": "2668810",
+      "num_bus": "5580",
+      "id": "E14000811"
+   },
+   "Stroud": {
+      "total_bus": "2668810",
+      "num_bus": "5300",
+      "id": "E14000980"
+   },
+   "Bromley and Chislehurst": {
+      "total_bus": "2668810",
+      "num_bus": "4625",
+      "id": "E14000604"
+   },
+   "Newry and Armagh": {
+      "total_bus": "2668810",
+      "num_bus": "5900",
+      "id": "N06000011"
+   },
+   "Morley and Outwood": {
+      "total_bus": "2668810",
+      "num_bus": "3155",
+      "id": "E14000826"
+   },
+   "Lancaster and Fleetwood": {
+      "total_bus": "2668810",
+      "num_bus": "3110",
+      "id": "E14000776"
+   },
+   "Guildford": {
+      "total_bus": "2668810",
+      "num_bus": "5720",
+      "id": "E14000719"
+   },
+   "Rugby": {
+      "total_bus": "2668810",
+      "num_bus": "4610",
+      "id": "E14000905"
+   },
+   "Newcastle upon Tyne East": {
+      "total_bus": "2668810",
+      "num_bus": "2655",
+      "id": "E14000832"
+   },
+   "Fylde": {
+      "total_bus": "2668810",
+      "num_bus": "3440",
+      "id": "E14000706"
+   },
+   "Rutland and Melton": {
+      "total_bus": "2668810",
+      "num_bus": "5335",
+      "id": "E14000909"
+   },
+   "Ludlow": {
+      "total_bus": "2668810",
+      "num_bus": "5180",
+      "id": "E14000799"
+   },
+   "North East Fife": {
+      "total_bus": "2668810",
+      "num_bus": "2670",
+      "id": "S14000049"
+   },
+   "North Swindon": {
+      "total_bus": "2668810",
+      "num_bus": "3610",
+      "id": "E14000851"
+   },
+   "Newport East": {
+      "total_bus": "2668810",
+      "num_bus": "1935",
+      "id": "W07000055"
+   },
+   "South Thanet": {
+      "total_bus": "2668810",
+      "num_bus": "3090",
+      "id": "E14000948"
+   },
+   "Sleaford and North Hykeham": {
+      "total_bus": "2668810",
+      "num_bus": "4870",
+      "id": "E14000929"
+   },
+   "Rhondda": {
+      "total_bus": "2668810",
+      "num_bus": "1220",
+      "id": "W07000052"
+   },
+   "Wycombe": {
+      "total_bus": "2668810",
+      "num_bus": "5290",
+      "id": "E14001056"
+   },
+   "Wirral South": {
+      "total_bus": "2668810",
+      "num_bus": "2300",
+      "id": "E14001043"
+   },
+   "Barking": {
+      "total_bus": "2668810",
+      "num_bus": "4795",
+      "id": "E14000540"
+   },
+   "Tewkesbury": {
+      "total_bus": "2668810",
+      "num_bus": "4450",
+      "id": "E14000990"
+   },
+   "Rayleigh and Wickford": {
+      "total_bus": "2668810",
+      "num_bus": "4230",
+      "id": "E14000888"
+   },
+   "Huntingdon": {
+      "total_bus": "2668810",
+      "num_bus": "5005",
+      "id": "E14000757"
+   },
+   "Vauxhall": {
+      "total_bus": "2668810",
+      "num_bus": "6950",
+      "id": "E14001008"
+   },
+   "West Tyrone": {
+      "total_bus": "2668810",
+      "num_bus": "5475",
+      "id": "N06000018"
+   },
+   "Bolsover": {
+      "total_bus": "2668810",
+      "num_bus": "2980",
+      "id": "E14000577"
+   },
+   "Crawley": {
+      "total_bus": "2668810",
+      "num_bus": "3435",
+      "id": "E14000652"
+   },
+   "York Outer": {
+      "total_bus": "2668810",
+      "num_bus": "3720",
+      "id": "E14001062"
+   },
+   "The Wrekin": {
+      "total_bus": "2668810",
+      "num_bus": "2940",
+      "id": "E14000992"
+   },
+   "Tunbridge Wells": {
+      "total_bus": "2668810",
+      "num_bus": "5735",
+      "id": "E14001004"
+   },
+   "Filton and Bradley Stoke": {
+      "total_bus": "2668810",
+      "num_bus": "3520",
+      "id": "E14000702"
+   },
+   "Plymouth, Sutton and Devonport": {
+      "total_bus": "2668810",
+      "num_bus": "3065",
+      "id": "E14000880"
+   },
+   "Blaenau Gwent": {
+      "total_bus": "2668810",
+      "num_bus": "1225",
+      "id": "W07000072"
+   },
+   "Sheffield Central": {
+      "total_bus": "2668810",
+      "num_bus": "4905",
+      "id": "E14000919"
+   },
+   "Hackney South and Shoreditch": {
+      "total_bus": "2668810",
+      "num_bus": "12095",
+      "id": "E14000721"
+   },
+   "Nottingham East": {
+      "total_bus": "2668810",
+      "num_bus": "3305",
+      "id": "E14000865"
+   },
+   "Ribble Valley": {
+      "total_bus": "2668810",
+      "num_bus": "4910",
+      "id": "E14000894"
+   },
+   "Manchester Central": {
+      "total_bus": "2668810",
+      "num_bus": "12420",
+      "id": "E14000807"
+   },
+   "Newcastle upon Tyne Central": {
+      "total_bus": "2668810",
+      "num_bus": "3165",
+      "id": "E14000831"
+   },
+   "Central Devon": {
+      "total_bus": "2668810",
+      "num_bus": "5780",
+      "id": "E14000623"
+   },
+   "Hampstead and Kilburn": {
+      "total_bus": "2668810",
+      "num_bus": "8915",
+      "id": "E14000727"
+   },
+   "York Central": {
+      "total_bus": "2668810",
+      "num_bus": "3235",
+      "id": "E14001061"
+   },
+   "Arundel and South Downs": {
+      "total_bus": "2668810",
+      "num_bus": "6135",
+      "id": "E14000534"
+   },
+   "North East Cambridgeshire": {
+      "total_bus": "2668810",
+      "num_bus": "4215",
+      "id": "E14000842"
+   },
+   "Preseli Pembrokeshire": {
+      "total_bus": "2668810",
+      "num_bus": "3590",
+      "id": "W07000065"
+   },
+   "Chesham and Amersham": {
+      "total_bus": "2668810",
+      "num_bus": "6340",
+      "id": "E14000631"
+   },
+   "South West Bedfordshire": {
+      "total_bus": "2668810",
+      "num_bus": "4420",
+      "id": "E14000949"
+   },
+   "Sheffield, Brightside and Hillsborough": {
+      "total_bus": "2668810",
+      "num_bus": "2040",
+      "id": "E14000921"
+   },
+   "Maidstone and The Weald": {
+      "total_bus": "2668810",
+      "num_bus": "4735",
+      "id": "E14000804"
+   },
+   "Bedford": {
+      "total_bus": "2668810",
+      "num_bus": "3860",
+      "id": "E14000552"
+   },
+   "Torfaen": {
+      "total_bus": "2668810",
+      "num_bus": "1900",
+      "id": "W07000053"
+   },
+   "Ruislip, Northwood and Pinner": {
+      "total_bus": "2668810",
+      "num_bus": "5840",
+      "id": "E14000906"
+   },
+   "North East Somerset": {
+      "total_bus": "2668810",
+      "num_bus": "4050",
+      "id": "E14000846"
+   },
+   "Spelthorne": {
+      "total_bus": "2668810",
+      "num_bus": "4575",
+      "id": "E14000959"
+   },
+   "Wakefield": {
+      "total_bus": "2668810",
+      "num_bus": "3610",
+      "id": "E14001009"
+   },
+   "Havant": {
+      "total_bus": "2668810",
+      "num_bus": "3030",
+      "id": "E14000736"
+   },
+   "North Warwickshire": {
+      "total_bus": "2668810",
+      "num_bus": "3505",
+      "id": "E14000854"
+   },
+   "Lewisham West and Penge": {
+      "total_bus": "2668810",
+      "num_bus": "4100",
+      "id": "E14000788"
+   },
+   "Manchester, Gorton": {
+      "total_bus": "2668810",
+      "num_bus": "2515",
+      "id": "E14000808"
+   },
+   "Gloucester": {
+      "total_bus": "2668810",
+      "num_bus": "3385",
+      "id": "E14000712"
+   },
+   "Aldershot": {
+      "total_bus": "2668810",
+      "num_bus": "3755",
+      "id": "E14000530"
+   },
+   "Oldham East and Saddleworth": {
+      "total_bus": "2668810",
+      "num_bus": "3360",
+      "id": "E14000870"
+   },
+   "Wigan": {
+      "total_bus": "2668810",
+      "num_bus": "3080",
+      "id": "E14001039"
+   },
+   "Mid Dorset and North Poole": {
+      "total_bus": "2668810",
+      "num_bus": "3375",
+      "id": "E14000815"
+   },
+   "North Dorset": {
+      "total_bus": "2668810",
+      "num_bus": "5000",
+      "id": "E14000839"
+   },
+   "Darlington": {
+      "total_bus": "2668810",
+      "num_bus": "2460",
+      "id": "E14000658"
+   },
+   "Enfield, Southgate": {
+      "total_bus": "2668810",
+      "num_bus": "5720",
+      "id": "E14000692"
+   },
+   "Stevenage": {
+      "total_bus": "2668810",
+      "num_bus": "3790",
+      "id": "E14000968"
+   },
+   "Eddisbury": {
+      "total_bus": "2668810",
+      "num_bus": "4850",
+      "id": "E14000686"
+   },
+   "Carshalton and Wallington": {
+      "total_bus": "2668810",
+      "num_bus": "3690",
+      "id": "E14000621"
+   },
+   "Rochester and Strood": {
+      "total_bus": "2668810",
+      "num_bus": "4405",
+      "id": "E14000898"
+   },
+   "Slough": {
+      "total_bus": "2668810",
+      "num_bus": "5420",
+      "id": "E14000930"
+   },
+   "North Thanet": {
+      "total_bus": "2668810",
+      "num_bus": "2875",
+      "id": "E14000852"
+   },
+   "Harrow East": {
+      "total_bus": "2668810",
+      "num_bus": "5685",
+      "id": "E14000731"
+   },
+   "Easington": {
+      "total_bus": "2668810",
+      "num_bus": "1610",
+      "id": "E14000677"
+   },
+   "Leeds Central": {
+      "total_bus": "2668810",
+      "num_bus": "6450",
+      "id": "E14000777"
+   },
+   "Gravesham": {
+      "total_bus": "2668810",
+      "num_bus": "3840",
+      "id": "E14000715"
+   },
+   "Wolverhampton North East": {
+      "total_bus": "2668810",
+      "num_bus": "1875",
+      "id": "E14001049"
+   },
+   "Plymouth, Moor View": {
+      "total_bus": "2668810",
+      "num_bus": "1495",
+      "id": "E14000879"
+   },
+   "Merthyr Tydfil and Rhymney": {
+      "total_bus": "2668810",
+      "num_bus": "1585",
+      "id": "W07000071"
+   },
+   "Colchester": {
+      "total_bus": "2668810",
+      "num_bus": "3730",
+      "id": "E14000644"
+   },
+   "Arfon": {
+      "total_bus": "2668810",
+      "num_bus": "1890",
+      "id": "W07000057"
+   },
+   "Harlow": {
+      "total_bus": "2668810",
+      "num_bus": "3880",
+      "id": "E14000729"
+   },
+   "Doncaster North": {
+      "total_bus": "2668810",
+      "num_bus": "2520",
+      "id": "E14000669"
+   },
+   "Congleton": {
+      "total_bus": "2668810",
+      "num_bus": "5140",
+      "id": "E14000646"
+   },
+   "Broxtowe": {
+      "total_bus": "2668810",
+      "num_bus": "2995",
+      "id": "E14000607"
+   },
+   "Bristol West": {
+      "total_bus": "2668810",
+      "num_bus": "8540",
+      "id": "E14000602"
+   },
+   "Blackburn": {
+      "total_bus": "2668810",
+      "num_bus": "3355",
+      "id": "E14000570"
+   },
+   "Luton North": {
+      "total_bus": "2668810",
+      "num_bus": "2575",
+      "id": "E14000800"
+   },
+   "Yeovil": {
+      "total_bus": "2668810",
+      "num_bus": "4040",
+      "id": "E14001060"
+   },
+   "Wokingham": {
+      "total_bus": "2668810",
+      "num_bus": "5680",
+      "id": "E14001048"
+   },
+   "Blackpool South": {
+      "total_bus": "2668810",
+      "num_bus": "2485",
+      "id": "E14000573"
+   },
+   "Horsham": {
+      "total_bus": "2668810",
+      "num_bus": "5500",
+      "id": "E14000753"
+   },
+   "Newport West": {
+      "total_bus": "2668810",
+      "num_bus": "2650",
+      "id": "W07000056"
+   },
+   "Lewisham, Deptford": {
+      "total_bus": "2668810",
+      "num_bus": "4470",
+      "id": "E14000789"
+   },
+   "Streatham": {
+      "total_bus": "2668810",
+      "num_bus": "4580",
+      "id": "E14000978"
+   },
+   "Lewes": {
+      "total_bus": "2668810",
+      "num_bus": "4520",
+      "id": "E14000786"
+   },
+   "Wantage": {
+      "total_bus": "2668810",
+      "num_bus": "5375",
+      "id": "E14001015"
+   },
+   "Scarborough and Whitby": {
+      "total_bus": "2668810",
+      "num_bus": "3695",
+      "id": "E14000913"
+   },
+   "Middlesbrough": {
+      "total_bus": "2668810",
+      "num_bus": "2330",
+      "id": "E14000819"
+   },
+   "Watford": {
+      "total_bus": "2668810",
+      "num_bus": "5895",
+      "id": "E14001021"
+   },
+   "Maldon": {
+      "total_bus": "2668810",
+      "num_bus": "4815",
+      "id": "E14000806"
+   },
+   "Bishop Auckland": {
+      "total_bus": "2668810",
+      "num_bus": "3200",
+      "id": "E14000569"
+   },
+   "Cardiff Central": {
+      "total_bus": "2668810",
+      "num_bus": "3095",
+      "id": "W07000050"
+   },
+   "Reigate": {
+      "total_bus": "2668810",
+      "num_bus": "5475",
+      "id": "E14000893"
+   },
+   "Carlisle": {
+      "total_bus": "2668810",
+      "num_bus": "3005",
+      "id": "E14000620"
+   },
+   "Berwickshire, Roxburgh and Selkirk": {
+      "total_bus": "2668810",
+      "num_bus": "4115",
+      "id": "S14000008"
+   },
+   "Keighley": {
+      "total_bus": "2668810",
+      "num_bus": "3600",
+      "id": "E14000766"
+   },
+   "Hayes and Harlington": {
+      "total_bus": "2668810",
+      "num_bus": "4410",
+      "id": "E14000737"
+   },
+   "Torbay": {
+      "total_bus": "2668810",
+      "num_bus": "3045",
+      "id": "E14000999"
+   },
+   "Kingston upon Hull West and Hessle": {
+      "total_bus": "2668810",
+      "num_bus": "3800",
+      "id": "E14000773"
+   },
+   "Southampton, Test": {
+      "total_bus": "2668810",
+      "num_bus": "3105",
+      "id": "E14000956"
+   },
+   "Birmingham, Selly Oak": {
+      "total_bus": "2668810",
+      "num_bus": "2125",
+      "id": "E14000567"
+   },
+   "Sherwood": {
+      "total_bus": "2668810",
+      "num_bus": "2930",
+      "id": "E14000924"
+   },
+   "Blackley and Broughton": {
+      "total_bus": "2668810",
+      "num_bus": "3765",
+      "id": "E14000571"
+   },
+   "Inverness, Nairn, Badenoch and Strathspey": {
+      "total_bus": "2668810",
+      "num_bus": "3840",
+      "id": "S14000039"
+   },
+   "East Yorkshire": {
+      "total_bus": "2668810",
+      "num_bus": "4355",
+      "id": "E14000683"
+   },
+   "Norwich South": {
+      "total_bus": "2668810",
+      "num_bus": "3650",
+      "id": "E14000864"
+   },
+   "Orpington": {
+      "total_bus": "2668810",
+      "num_bus": "4130",
+      "id": "E14000872"
+   },
+   "Dartford": {
+      "total_bus": "2668810",
+      "num_bus": "4495",
+      "id": "E14000659"
+   },
+   "Bury South": {
+      "total_bus": "2668810",
+      "num_bus": "3670",
+      "id": "E14000612"
+   },
+   "Linlithgow and East Falkirk": {
+      "total_bus": "2668810",
+      "num_bus": "2930",
+      "id": "S14000043"
+   },
+   "Bracknell": {
+      "total_bus": "2668810",
+      "num_bus": "4300",
+      "id": "E14000586"
+   },
+   "Monmouth": {
+      "total_bus": "2668810",
+      "num_bus": "4150",
+      "id": "W07000054"
+   },
+   "Batley and Spen": {
+      "total_bus": "2668810",
+      "num_bus": "3665",
+      "id": "E14000548"
+   },
+   "Foyle": {
+      "total_bus": "2668810",
+      "num_bus": "2390",
+      "id": "N06000008"
+   },
+   "Chorley": {
+      "total_bus": "2668810",
+      "num_bus": "3785",
+      "id": "E14000637"
+   },
+   "Mansfield": {
+      "total_bus": "2668810",
+      "num_bus": "2745",
+      "id": "E14000810"
+   },
+   "Leyton and Wanstead": {
+      "total_bus": "2668810",
+      "num_bus": "4590",
+      "id": "E14000790"
+   },
+   "Daventry": {
+      "total_bus": "2668810",
+      "num_bus": "5440",
+      "id": "E14000660"
+   },
+   "Hornchurch and Upminster": {
+      "total_bus": "2668810",
+      "num_bus": "4130",
+      "id": "E14000751"
+   },
+   "Strangford": {
+      "total_bus": "2668810",
+      "num_bus": "3180",
+      "id": "N06000016"
+   },
+   "Glasgow Central": {
+      "total_bus": "2668810",
+      "num_bus": "7480",
+      "id": "S14000029"
+   },
+   "Bootle": {
+      "total_bus": "2668810",
+      "num_bus": "2460",
+      "id": "E14000581"
+   },
+   "Cleethorpes": {
+      "total_bus": "2668810",
+      "num_bus": "3205",
+      "id": "E14000643"
+   },
+   "North Antrim": {
+      "total_bus": "2668810",
+      "num_bus": "4785",
+      "id": "N06000012"
+   },
+   "Devizes": {
+      "total_bus": "2668810",
+      "num_bus": "4425",
+      "id": "E14000665"
+   },
+   "Nuneaton": {
+      "total_bus": "2668810",
+      "num_bus": "2810",
+      "id": "E14000868"
+   },
+   "Enfield North": {
+      "total_bus": "2668810",
+      "num_bus": "3690",
+      "id": "E14000691"
+   },
+   "Hastings and Rye": {
+      "total_bus": "2668810",
+      "num_bus": "3700",
+      "id": "E14000735"
+   },
+   "Livingston": {
+      "total_bus": "2668810",
+      "num_bus": "2675",
+      "id": "S14000044"
+   },
+   "Walsall South": {
+      "total_bus": "2668810",
+      "num_bus": "2950",
+      "id": "E14001012"
+   },
+   "Edinburgh East": {
+      "total_bus": "2668810",
+      "num_bus": "3215",
+      "id": "S14000022"
+   },
+   "Braintree": {
+      "total_bus": "2668810",
+      "num_bus": "4520",
+      "id": "E14000590"
+   },
+   "Harrogate and Knaresborough": {
+      "total_bus": "2668810",
+      "num_bus": "5075",
+      "id": "E14000730"
+   },
+   "Denton and Reddish": {
+      "total_bus": "2668810",
+      "num_bus": "2575",
+      "id": "E14000661"
+   },
+   "St Austell and Newquay": {
+      "total_bus": "2668810",
+      "num_bus": "3740",
+      "id": "E14000961"
+   },
+   "Warley": {
+      "total_bus": "2668810",
+      "num_bus": "2520",
+      "id": "E14001016"
+   },
+   "Cardiff West": {
+      "total_bus": "2668810",
+      "num_bus": "2735",
+      "id": "W07000079"
+   },
+   "Worcester": {
+      "total_bus": "2668810",
+      "num_bus": "3085",
+      "id": "E14001052"
+   },
+   "Kingston upon Hull East": {
+      "total_bus": "2668810",
+      "num_bus": "1955",
+      "id": "E14000771"
+   },
+   "New Forest West": {
+      "total_bus": "2668810",
+      "num_bus": "4300",
+      "id": "E14000828"
+   },
+   "Doncaster Central": {
+      "total_bus": "2668810",
+      "num_bus": "3345",
+      "id": "E14000668"
+   },
+   "South Derbyshire": {
+      "total_bus": "2668810",
+      "num_bus": "3690",
+      "id": "E14000935"
+   },
+   "Brent Central": {
+      "total_bus": "2668810",
+      "num_bus": "6350",
+      "id": "E14000591"
+   },
+   "Belfast South": {
+      "total_bus": "2668810",
+      "num_bus": "4735",
+      "id": "N06000003"
+   },
+   "Cumbernauld, Kilsyth and Kirkintilloch East": {
+      "total_bus": "2668810",
+      "num_bus": "2040",
+      "id": "S14000012"
+   },
+   "North Wiltshire": {
+      "total_bus": "2668810",
+      "num_bus": "5400",
+      "id": "E14000860"
+   },
+   "East Ham": {
+      "total_bus": "2668810",
+      "num_bus": "4900",
+      "id": "E14000679"
+   },
+   "Bolton West": {
+      "total_bus": "2668810",
+      "num_bus": "3175",
+      "id": "E14000580"
+   },
+   "Oldham West and Royton": {
+      "total_bus": "2668810",
+      "num_bus": "3020",
+      "id": "E14000871"
+   },
+   "Aberdeen North": {
+      "total_bus": "2668810",
+      "num_bus": "2590",
+      "id": "S14000001"
+   },
+   "Ashford": {
+      "total_bus": "2668810",
+      "num_bus": "5675",
+      "id": "E14000536"
+   },
+   "Aberconwy": {
+      "total_bus": "2668810",
+      "num_bus": "2255",
+      "id": "W07000058"
+   },
+   "North Devon": {
+      "total_bus": "2668810",
+      "num_bus": "4895",
+      "id": "E14000838"
+   },
+   "Clwyd West": {
+      "total_bus": "2668810",
+      "num_bus": "3155",
+      "id": "W07000059"
+   },
+   "Corby": {
+      "total_bus": "2668810",
+      "num_bus": "4795",
+      "id": "E14000648"
+   },
+   "East Dunbartonshire": {
+      "total_bus": "2668810",
+      "num_bus": "2470",
+      "id": "S14000018"
+   },
+   "Greenwich and Woolwich": {
+      "total_bus": "2668810",
+      "num_bus": "5310",
+      "id": "E14000718"
+   },
+   "St Helens South and Whiston": {
+      "total_bus": "2668810",
+      "num_bus": "2725",
+      "id": "E14000963"
+   },
+   "West Ham": {
+      "total_bus": "2668810",
+      "num_bus": "7140",
+      "id": "E14001032"
+   },
+   "Ellesmere Port and Neston": {
+      "total_bus": "2668810",
+      "num_bus": "2460",
+      "id": "E14000688"
+   },
+   "Windsor": {
+      "total_bus": "2668810",
+      "num_bus": "6625",
+      "id": "E14001042"
+   },
+   "Northampton North": {
+      "total_bus": "2668810",
+      "num_bus": "2940",
+      "id": "E14000861"
+   },
+   "Leicester East": {
+      "total_bus": "2668810",
+      "num_bus": "3890",
+      "id": "E14000782"
+   },
+   "South West Norfolk": {
+      "total_bus": "2668810",
+      "num_bus": "3955",
+      "id": "E14000952"
+   },
+   "Leeds East": {
+      "total_bus": "2668810",
+      "num_bus": "3260",
+      "id": "E14000778"
+   },
+   "North Cornwall": {
+      "total_bus": "2668810",
+      "num_bus": "5035",
+      "id": "E14000837"
+   },
+   "West Dunbartonshire": {
+      "total_bus": "2668810",
+      "num_bus": "1830",
+      "id": "S14000059"
+   },
+   "Pontypridd": {
+      "total_bus": "2668810",
+      "num_bus": "2915",
+      "id": "W07000075"
+   },
+   "Shipley": {
+      "total_bus": "2668810",
+      "num_bus": "3300",
+      "id": "E14000925"
+   },
+   "Basildon and Billericay": {
+      "total_bus": "2668810",
+      "num_bus": "4205",
+      "id": "E14000544"
+   },
+   "Brentford and Isleworth": {
+      "total_bus": "2668810",
+      "num_bus": "8385",
+      "id": "E14000593"
+   },
+   "Wentworth and Dearne": {
+      "total_bus": "2668810",
+      "num_bus": "2535",
+      "id": "E14001028"
+   },
+   "Islington North": {
+      "total_bus": "2668810",
+      "num_bus": "5245",
+      "id": "E14000763"
+   },
+   "Folkestone and Hythe": {
+      "total_bus": "2668810",
+      "num_bus": "4105",
+      "id": "E14000704"
+   },
+   "Swansea East": {
+      "total_bus": "2668810",
+      "num_bus": "1725",
+      "id": "W07000048"
+   },
+   "Hazel Grove": {
+      "total_bus": "2668810",
+      "num_bus": "2905",
+      "id": "E14000738"
+   },
+   "Hexham": {
+      "total_bus": "2668810",
+      "num_bus": "4030",
+      "id": "E14000746"
+   },
+   "Mid Bedfordshire": {
+      "total_bus": "2668810",
+      "num_bus": "8795",
+      "id": "E14000813"
+   },
+   "Pudsey": {
+      "total_bus": "2668810",
+      "num_bus": "3445",
+      "id": "E14000886"
+   },
+   "East Kilbride, Strathaven and Lesmahagow": {
+      "total_bus": "2668810",
+      "num_bus": "2780",
+      "id": "S14000019"
+   },
+   "Makerfield": {
+      "total_bus": "2668810",
+      "num_bus": "2290",
+      "id": "E14000805"
+   },
+   "Stoke-on-Trent Central": {
+      "total_bus": "2668810",
+      "num_bus": "2340",
+      "id": "E14000972"
+   },
+   "Harborough": {
+      "total_bus": "2668810",
+      "num_bus": "4565",
+      "id": "E14000728"
+   },
+   "Workington": {
+      "total_bus": "2668810",
+      "num_bus": "3290",
+      "id": "E14001053"
+   },
+   "Elmet and Rothwell": {
+      "total_bus": "2668810",
+      "num_bus": "4480",
+      "id": "E14000689"
+   },
+   "Edinburgh North and Leith": {
+      "total_bus": "2668810",
+      "num_bus": "6795",
+      "id": "S14000023"
+   },
+   "Copeland": {
+      "total_bus": "2668810",
+      "num_bus": "3350",
+      "id": "E14000647"
+   },
+   "Belfast East": {
+      "total_bus": "2668810",
+      "num_bus": "2500",
+      "id": "N06000001"
+   },
+   "Shrewsbury and Atcham": {
+      "total_bus": "2668810",
+      "num_bus": "4715",
+      "id": "E14000926"
+   },
+   "Wythenshawe and Sale East": {
+      "total_bus": "2668810",
+      "num_bus": "3095",
+      "id": "E14001059"
+   },
+   "Glasgow South": {
+      "total_bus": "2668810",
+      "num_bus": "1945",
+      "id": "S14000034"
+   },
+   "Paisley and Renfrewshire South": {
+      "total_bus": "2668810",
+      "num_bus": "2045",
+      "id": "S14000053"
+   },
+   "North West Cambridgeshire": {
+      "total_bus": "2668810",
+      "num_bus": "5525",
+      "id": "E14000855"
+   },
+   "Bromsgrove": {
+      "total_bus": "2668810",
+      "num_bus": "7185",
+      "id": "E14000605"
+   },
+   "Edinburgh West": {
+      "total_bus": "2668810",
+      "num_bus": "2910",
+      "id": "S14000026"
+   },
+   "Old Bexley and Sidcup": {
+      "total_bus": "2668810",
+      "num_bus": "3485",
+      "id": "E14000869"
+   },
+   "Croydon Central": {
+      "total_bus": "2668810",
+      "num_bus": "4550",
+      "id": "E14000654"
+   },
+   "Thurrock": {
+      "total_bus": "2668810",
+      "num_bus": "4645",
+      "id": "E14000995"
+   },
+   "Bosworth": {
+      "total_bus": "2668810",
+      "num_bus": "4375",
+      "id": "E14000583"
+   },
+   "Chelsea and Fulham": {
+      "total_bus": "2668810",
+      "num_bus": "8720",
+      "id": "E14000629"
+   },
+   "Liverpool, Wavertree": {
+      "total_bus": "2668810",
+      "num_bus": "2235",
+      "id": "E14000795"
+   },
+   "Tiverton and Honiton": {
+      "total_bus": "2668810",
+      "num_bus": "5425",
+      "id": "E14000996"
+   },
+   "Rutherglen and Hamilton West": {
+      "total_bus": "2668810",
+      "num_bus": "2285",
+      "id": "S14000056"
+   },
+   "Brighton, Kemptown": {
+      "total_bus": "2668810",
+      "num_bus": "2885",
+      "id": "E14000597"
+   },
+   "Hackney North and Stoke Newington": {
+      "total_bus": "2668810",
+      "num_bus": "6900",
+      "id": "E14000720"
+   },
+   "Charnwood": {
+      "total_bus": "2668810",
+      "num_bus": "3860",
+      "id": "E14000625"
+   },
+   "Newton Abbot": {
+      "total_bus": "2668810",
+      "num_bus": "3240",
+      "id": "E14000835"
+   },
+   "East Worthing and Shoreham": {
+      "total_bus": "2668810",
+      "num_bus": "3490",
+      "id": "E14000682"
+   },
+   "Christchurch": {
+      "total_bus": "2668810",
+      "num_bus": "3775",
+      "id": "E14000638"
+   },
+   "Tonbridge and Malling": {
+      "total_bus": "2668810",
+      "num_bus": "5225",
+      "id": "E14000997"
+   },
+   "Carmarthen West and Pembrokeshire South": {
+      "total_bus": "2668810",
+      "num_bus": "3800",
+      "id": "W07000066"
+   },
+   "South East Cambridgeshire": {
+      "total_bus": "2668810",
+      "num_bus": "5840",
+      "id": "E14000937"
+   },
+   "Faversham and Mid Kent": {
+      "total_bus": "2668810",
+      "num_bus": "4265",
+      "id": "E14000700"
+   },
+   "Don Valley": {
+      "total_bus": "2668810",
+      "num_bus": "3605",
+      "id": "E14000667"
+   },
+   "Glasgow North West": {
+      "total_bus": "2668810",
+      "num_bus": "1625",
+      "id": "S14000033"
+   },
+   "Cities of London and Westminster": {
+      "total_bus": "2668810",
+      "num_bus": "66095",
+      "id": "E14000639"
+   },
+   "Glasgow East": {
+      "total_bus": "2668810",
+      "num_bus": "1845",
+      "id": "S14000030"
+   },
+   "Wealden": {
+      "total_bus": "2668810",
+      "num_bus": "5965",
+      "id": "E14001023"
+   },
+   "Selby and Ainsty": {
+      "total_bus": "2668810",
+      "num_bus": "4790",
+      "id": "E14000917"
+   },
+   "Kingswood": {
+      "total_bus": "2668810",
+      "num_bus": "2690",
+      "id": "E14000774"
+   },
+   "Manchester, Withington": {
+      "total_bus": "2668810",
+      "num_bus": "3220",
+      "id": "E14000809"
+   },
+   "Brecon and Radnorshire": {
+      "total_bus": "2668810",
+      "num_bus": "4455",
+      "id": "W07000068"
+   },
+   "Redcar": {
+      "total_bus": "2668810",
+      "num_bus": "1965",
+      "id": "E14000891"
+   },
+   "Airdrie and Shotts": {
+      "total_bus": "2668810",
+      "num_bus": "1890",
+      "id": "S14000003"
+   },
+   "Hove": {
+      "total_bus": "2668810",
+      "num_bus": "5320",
+      "id": "E14000755"
+   },
+   "Mitcham and Morden": {
+      "total_bus": "2668810",
+      "num_bus": "4155",
+      "id": "E14000823"
+   },
+   "Central Suffolk and North Ipswich": {
+      "total_bus": "2668810",
+      "num_bus": "4555",
+      "id": "E14000624"
+   },
+   "Banbury": {
+      "total_bus": "2668810",
+      "num_bus": "5575",
+      "id": "E14000539"
+   },
+   "Bexhill and Battle": {
+      "total_bus": "2668810",
+      "num_bus": "4825",
+      "id": "E14000557"
+   },
+   "Hemel Hempstead": {
+      "total_bus": "2668810",
+      "num_bus": "4835",
+      "id": "E14000739"
+   },
+   "Somerton and Frome": {
+      "total_bus": "2668810",
+      "num_bus": "5870",
+      "id": "E14000932"
+   },
+   "Uxbridge and South Ruislip": {
+      "total_bus": "2668810",
+      "num_bus": "5040",
+      "id": "E14001007"
+   },
+   "Hertford and Stortford": {
+      "total_bus": "2668810",
+      "num_bus": "8145",
+      "id": "E14000744"
+   },
+   "Croydon North": {
+      "total_bus": "2668810",
+      "num_bus": "4785",
+      "id": "E14000655"
+   },
+   "North Ayrshire and Arran": {
+      "total_bus": "2668810",
+      "num_bus": "2390",
+      "id": "S14000048"
+   },
+   "St Ives": {
+      "total_bus": "2668810",
+      "num_bus": "3820",
+      "id": "E14000964"
+   },
+   "Southport": {
+      "total_bus": "2668810",
+      "num_bus": "2990",
+      "id": "E14000958"
+   },
+   "Perth and North Perthshire": {
+      "total_bus": "2668810",
+      "num_bus": "3730",
+      "id": "S14000054"
+   },
+   "Dwyfor Meirionnydd": {
+      "total_bus": "2668810",
+      "num_bus": "3435",
+      "id": "W07000061"
+   },
+   "Dunfermline and West Fife": {
+      "total_bus": "2668810",
+      "num_bus": "2895",
+      "id": "S14000017"
+   },
+   "Bolton North East": {
+      "total_bus": "2668810",
+      "num_bus": "3320",
+      "id": "E14000578"
+   },
+   "Portsmouth South": {
+      "total_bus": "2668810",
+      "num_bus": "2775",
+      "id": "E14000884"
+   },
+   "Surrey Heath": {
+      "total_bus": "2668810",
+      "num_bus": "5360",
+      "id": "E14000983"
+   },
+   "Leigh": {
+      "total_bus": "2668810",
+      "num_bus": "3170",
+      "id": "E14000785"
+   },
+   "Houghton and Sunderland South": {
+      "total_bus": "2668810",
+      "num_bus": "1535",
+      "id": "E14000754"
+   },
+   "Sunderland Central": {
+      "total_bus": "2668810",
+      "num_bus": "2650",
+      "id": "E14000982"
+   },
+   "Hyndburn": {
+      "total_bus": "2668810",
+      "num_bus": "2780",
+      "id": "E14000758"
+   },
+   "Bridgend": {
+      "total_bus": "2668810",
+      "num_bus": "2440",
+      "id": "W07000073"
+   },
+   "Birmingham, Hodge Hill": {
+      "total_bus": "2668810",
+      "num_bus": "2020",
+      "id": "E14000563"
+   },
+   "West Worcestershire": {
+      "total_bus": "2668810",
+      "num_bus": "5310",
+      "id": "E14001035"
+   },
+   "Barnsley Central": {
+      "total_bus": "2668810",
+      "num_bus": "2575",
+      "id": "E14000541"
+   },
+   "Rother Valley": {
+      "total_bus": "2668810",
+      "num_bus": "2770",
+      "id": "E14000903"
+   },
+   "Tatton": {
+      "total_bus": "2668810",
+      "num_bus": "6120",
+      "id": "E14000987"
+   },
+   "East Lothian": {
+      "total_bus": "2668810",
+      "num_bus": "3135",
+      "id": "S14000020"
+   },
+   "Warrington North": {
+      "total_bus": "2668810",
+      "num_bus": "3325",
+      "id": "E14001017"
+   },
+   "South West Wiltshire": {
+      "total_bus": "2668810",
+      "num_bus": "7280",
+      "id": "E14000954"
+   },
+   "Kenilworth and Southam": {
+      "total_bus": "2668810",
+      "num_bus": "5035",
+      "id": "E14000767"
+   },
+   "Meriden": {
+      "total_bus": "2668810",
+      "num_bus": "4410",
+      "id": "E14000812"
+   },
+   "South Dorset": {
+      "total_bus": "2668810",
+      "num_bus": "3025",
+      "id": "E14000936"
+   },
+   "Glasgow North East": {
+      "total_bus": "2668810",
+      "num_bus": "1460",
+      "id": "S14000032"
+   },
+   "Skipton and Ripon": {
+      "total_bus": "2668810",
+      "num_bus": "6660",
+      "id": "E14000928"
+   },
+   "Worsley and Eccles South": {
+      "total_bus": "2668810",
+      "num_bus": "2910",
+      "id": "E14001054"
+   },
+   "Jarrow": {
+      "total_bus": "2668810",
+      "num_bus": "1810",
+      "id": "E14000765"
+   },
+   "Taunton Deane": {
+      "total_bus": "2668810",
+      "num_bus": "4760",
+      "id": "E14000988"
+   },
+   "Coventry North West": {
+      "total_bus": "2668810",
+      "num_bus": "2685",
+      "id": "E14000650"
+   },
+   "Paisley and Renfrewshire North": {
+      "total_bus": "2668810",
+      "num_bus": "2520",
+      "id": "S14000052"
+   },
+   "Gainsborough": {
+      "total_bus": "2668810",
+      "num_bus": "3850",
+      "id": "E14000707"
+   },
+   "Caithness, Sutherland and Easter Ross": {
+      "total_bus": "2668810",
+      "num_bus": "3190",
+      "id": "S14000009"
+   },
+   "Macclesfield": {
+      "total_bus": "2668810",
+      "num_bus": "5010",
+      "id": "E14000802"
+   },
+   "Liverpool, Riverside": {
+      "total_bus": "2668810",
+      "num_bus": "5725",
+      "id": "E14000793"
+   },
+   "South Suffolk": {
+      "total_bus": "2668810",
+      "num_bus": "4320",
+      "id": "E14000946"
+   },
+   "Erith and Thamesmead": {
+      "total_bus": "2668810",
+      "num_bus": "3755",
+      "id": "E14000696"
+   },
+   "South Ribble": {
+      "total_bus": "2668810",
+      "num_bus": "3760",
+      "id": "E14000943"
+   },
+   "Reading West": {
+      "total_bus": "2668810",
+      "num_bus": "3995",
+      "id": "E14000890"
+   },
+   "Torridge and West Devon": {
+      "total_bus": "2668810",
+      "num_bus": "5365",
+      "id": "E14001000"
+   },
+   "Nottingham South": {
+      "total_bus": "2668810",
+      "num_bus": "3925",
+      "id": "E14000867"
+   },
+   "West Dorset": {
+      "total_bus": "2668810",
+      "num_bus": "5320",
+      "id": "E14001031"
+   },
+   "Poole": {
+      "total_bus": "2668810",
+      "num_bus": "4295",
+      "id": "E14000881"
+   },
+   "Bournemouth West": {
+      "total_bus": "2668810",
+      "num_bus": "3815",
+      "id": "E14000585"
+   },
+   "Canterbury": {
+      "total_bus": "2668810",
+      "num_bus": "3945",
+      "id": "E14000619"
+   },
+   "Westminster North": {
+      "total_bus": "2668810",
+      "num_bus": "6190",
+      "id": "E14001036"
+   },
+   "North West Leicestershire": {
+      "total_bus": "2668810",
+      "num_bus": "4200",
+      "id": "E14000858"
+   },
+   "South West Devon": {
+      "total_bus": "2668810",
+      "num_bus": "2955",
+      "id": "E14000950"
+   },
+   "North West Norfolk": {
+      "total_bus": "2668810",
+      "num_bus": "3405",
+      "id": "E14000859"
+   },
+   "Bury North": {
+      "total_bus": "2668810",
+      "num_bus": "4315",
+      "id": "E14000611"
+   },
+   "Aldridge-Brownhills": {
+      "total_bus": "2668810",
+      "num_bus": "2455",
+      "id": "E14000531"
+   },
+   "Montgomeryshire": {
+      "total_bus": "2668810",
+      "num_bus": "4245",
+      "id": "W07000063"
+   },
+   "Preston": {
+      "total_bus": "2668810",
+      "num_bus": "3260",
+      "id": "E14000885"
+   },
+   "Brent North": {
+      "total_bus": "2668810",
+      "num_bus": "6170",
+      "id": "E14000592"
+   },
+   "North Tyneside": {
+      "total_bus": "2668810",
+      "num_bus": "2280",
+      "id": "E14000853"
+   },
+   "North East Hampshire": {
+      "total_bus": "2668810",
+      "num_bus": "5530",
+      "id": "E14000844"
+   },
+   "East Surrey": {
+      "total_bus": "2668810",
+      "num_bus": "5840",
+      "id": "E14000681"
+   },
+   "Birmingham, Northfield": {
+      "total_bus": "2668810",
+      "num_bus": "1810",
+      "id": "E14000565"
+   },
+   "Penrith and The Border": {
+      "total_bus": "2668810",
+      "num_bus": "5715",
+      "id": "E14000877"
+   },
+   "Romford": {
+      "total_bus": "2668810",
+      "num_bus": "4130",
+      "id": "E14000900"
+   },
+   "Salford and Eccles": {
+      "total_bus": "2668810",
+      "num_bus": "4650",
+      "id": "E14000911"
+   },
+   "Bethnal Green and Bow": {
+      "total_bus": "2668810",
+      "num_bus": "8895",
+      "id": "E14000555"
+   },
+   "Delyn": {
+      "total_bus": "2668810",
+      "num_bus": "2460",
+      "id": "W07000042"
+   },
+   "Fareham": {
+      "total_bus": "2668810",
+      "num_bus": "4055",
+      "id": "E14000699"
+   },
+   "Central Ayrshire": {
+      "total_bus": "2668810",
+      "num_bus": "2260",
+      "id": "S14000010"
+   },
+   "Henley": {
+      "total_bus": "2668810",
+      "num_bus": "6810",
+      "id": "E14000742"
+   },
+   "Argyll and Bute": {
+      "total_bus": "2668810",
+      "num_bus": "3870",
+      "id": "S14000005"
+   },
+   "Isle of Wight": {
+      "total_bus": "2668810",
+      "num_bus": "4615",
+      "id": "E14000762"
+   },
+   "Barnsley East": {
+      "total_bus": "2668810",
+      "num_bus": "1960",
+      "id": "E14000542"
+   },
+   "Wimbledon": {
+      "total_bus": "2668810",
+      "num_bus": "7210",
+      "id": "E14001040"
+   },
+   "Gillingham and Rainham": {
+      "total_bus": "2668810",
+      "num_bus": "2610",
+      "id": "E14000711"
+   },
+   "Islwyn": {
+      "total_bus": "2668810",
+      "num_bus": "1650",
+      "id": "W07000077"
+   },
+   "Bristol South": {
+      "total_bus": "2668810",
+      "num_bus": "3040",
+      "id": "E14000601"
+   },
+   "Dulwich and West Norwood": {
+      "total_bus": "2668810",
+      "num_bus": "5195",
+      "id": "E14000673"
+   },
+   "Lichfield": {
+      "total_bus": "2668810",
+      "num_bus": "4415",
+      "id": "E14000791"
+   },
+   "Burnley": {
+      "total_bus": "2668810",
+      "num_bus": "2565",
+      "id": "E14000609"
+   },
+   "Wells": {
+      "total_bus": "2668810",
+      "num_bus": "5195",
+      "id": "E14001026"
+   },
+   "West Aberdeenshire and Kincardine": {
+      "total_bus": "2668810",
+      "num_bus": "5420",
+      "id": "S14000058"
+   },
+   "Cheadle": {
+      "total_bus": "2668810",
+      "num_bus": "4315",
+      "id": "E14000627"
+   },
+   "South West Hertfordshire": {
+      "total_bus": "2668810",
+      "num_bus": "6825",
+      "id": "E14000951"
+   },
+   "Tottenham": {
+      "total_bus": "2668810",
+      "num_bus": "4990",
+      "id": "E14001002"
+   },
+   "Leicester West": {
+      "total_bus": "2668810",
+      "num_bus": "2880",
+      "id": "E14000784"
+   },
+   "Wellingborough": {
+      "total_bus": "2668810",
+      "num_bus": "4230",
+      "id": "E14001025"
+   },
+   "Gosport": {
+      "total_bus": "2668810",
+      "num_bus": "2400",
+      "id": "E14000713"
+   },
+   "Birmingham, Edgbaston": {
+      "total_bus": "2668810",
+      "num_bus": "2915",
+      "id": "E14000560"
+   },
+   "Birkenhead": {
+      "total_bus": "2668810",
+      "num_bus": "2380",
+      "id": "E14000559"
+   },
+   "Poplar and Limehouse": {
+      "total_bus": "2668810",
+      "num_bus": "7940",
+      "id": "E14000882"
+   },
+   "Carmarthen East and Dinefwr": {
+      "total_bus": "2668810",
+      "num_bus": "3880",
+      "id": "W07000067"
+   },
+   "Clacton": {
+      "total_bus": "2668810",
+      "num_bus": "2295",
+      "id": "E14000642"
+   },
+   "South Norfolk": {
+      "total_bus": "2668810",
+      "num_bus": "4520",
+      "id": "E14000941"
+   },
+   "Dover": {
+      "total_bus": "2668810",
+      "num_bus": "2595",
+      "id": "E14000670"
+   },
+   "Derbyshire Dales": {
+      "total_bus": "2668810",
+      "num_bus": "5230",
+      "id": "E14000664"
+   },
+   "Sutton and Cheam": {
+      "total_bus": "2668810",
+      "num_bus": "4580",
+      "id": "E14000984"
+   },
+   "Norwich North": {
+      "total_bus": "2668810",
+      "num_bus": "2345",
+      "id": "E14000863"
+   },
+   "Dumfries and Galloway": {
+      "total_bus": "2668810",
+      "num_bus": "3935",
+      "id": "S14000013"
+   },
+   "Coatbridge, Chryston and Bellshill": {
+      "total_bus": "2668810",
+      "num_bus": "2205",
+      "id": "S14000011"
+   },
+   "Eastleigh": {
+      "total_bus": "2668810",
+      "num_bus": "5040",
+      "id": "E14000685"
+   },
+   "Ilford South": {
+      "total_bus": "2668810",
+      "num_bus": "6135",
+      "id": "E14000760"
+   },
+   "Saffron Walden": {
+      "total_bus": "2668810",
+      "num_bus": "6575",
+      "id": "E14000910"
+   },
+   "City of Chester": {
+      "total_bus": "2668810",
+      "num_bus": "4270",
+      "id": "E14000640"
+   },
+   "Eltham": {
+      "total_bus": "2668810",
+      "num_bus": "3155",
+      "id": "E14000690"
+   }
+}

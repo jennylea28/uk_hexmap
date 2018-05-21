@@ -36,25 +36,23 @@ var HexMap = (function () {
   }
 })();
 
-window.onload = function () {
+var loadVisualisation = function(callback) {
   var svg = d3.select('#frame').append('svg').attr('width', 500).attr('height', 430);
 
   var map = UK.HexMap();
 
-  var pop_focus = 'pop0_19';
+  var mindata = Number.POSITIVE_INFINITY;
+  var maxdata = 0;
 
-  var minpop = 100;
-  var maxpop = 0;
-
-  for (constituency in UK_POPULATIONS_BY_AGE) {
-    var info = UK_POPULATIONS_BY_AGE[constituency];
-    var pop = info[pop_focus] / info['popTotal'];
-    minpop = Math.min(minpop, pop);
-    maxpop = Math.max(maxpop, pop);
+  for (constituency in UK_ALL_DATA) {
+    var info = UK_ALL_DATA[constituency];
+    var data = info[field_name];
+    mindata = Math.min(mindata, data);
+    maxdata = Math.max(maxdata, data);
   }
 
-  var buckets = d3.range(minpop, maxpop, (maxpop - minpop) / (bucketCount + 1));
-  buckets.push(0.99);
+  var buckets = d3.range(mindata, maxdata, (maxdata - mindata) / (bucketCount + 1));
+  buckets.push(Number.POSITIVE_INFINITY);
   buckets.shift();
 
   var colour = d3.scaleThreshold()
@@ -63,10 +61,9 @@ window.onload = function () {
 
   map.fill(function(constituency) {
 
-    if (UK_POPULATIONS_BY_AGE[constituency]) {
-      var popTotal = UK_POPULATIONS_BY_AGE[constituency]['popTotal'];
-      var popPercent = UK_POPULATIONS_BY_AGE[constituency][pop_focus] / popTotal;
-      return colour(popPercent);
+    if (UK_ALL_DATA[constituency]) {
+      var data = UK_ALL_DATA[constituency][field_name];
+      return colour(data);
     } else {
       console.log("Cannot find constituency " + constituency + " in data");
       return colourArray[Math.floor(Math.random() * colourArray.length)];;
@@ -80,3 +77,5 @@ window.onload = function () {
   map(svg);
 
 }
+
+window.onload = loadVisualisation();
