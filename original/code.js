@@ -44,7 +44,7 @@ var loadVisualisation = function(callback) {
   var mindata = Number.POSITIVE_INFINITY;
   var maxdata = 0;
 
-  var field_name = variables[variable]['field_name'];
+  // var field_name = variables[variable]['field_name'];
   document.getElementById('heading').innerHTML = variables[variable]['title'];
 
   for (constituency in UK_ALL_DATA) {
