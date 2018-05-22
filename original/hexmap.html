@@ -4,6 +4,18 @@
 <meta charset="utf-8">
 <title>UK Constiuency Hex Map</title>
 </head>
+
+<style>
+h1 {
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+
+.legend-text {
+  font-size: 12px;
+}
+</style>
 <body>
 
 <h1 id='heading'></h1>
@@ -17,15 +29,15 @@
 <script src="https://rawgit.com/jennylea28/uk_hexmap/master/original/data_jsons/all-data.js"></script>
 <script>
 
-var bucketCount = 7;
-var colourArray = rd_bu_7;
-var variable = 2;
+var bucketCount = 5;
+var colourArray = rd_bu_5;
+var variable = 1;
 var field_name = variables[variable]['field_name'];
 
 document.getElementById('heading').innerHTML = variables[variable]['title'];
 
 </script>
 
-<script src="https://rawgit.com/jennylea28/uk_hexmap/master/original/code.js"></script>
+<script src="code.js"></script>
 </body>
 </html>

@@ -53,12 +53,16 @@ var loadVisualisation = function(callback) {
     maxdata = Math.max(maxdata, data);
   }
 
-  var buckets = d3.range(mindata, maxdata, (maxdata - mindata) / (bucketCount + 1));
-  buckets.push(Number.POSITIVE_INFINITY);
-  buckets.shift();
+  // Array of n + 1 objects
+  // Including min and max value
+  var x_data = d3.range(mindata, maxdata, (maxdata - mindata) / (bucketCount));
+  x_data.push(maxdata);
+
+  // Removing the first value for the colour scale to work
+  var colourbuckets = x_data.slice(1);
 
   var colour = d3.scaleThreshold()
-    .domain(buckets)
+    .domain(colourbuckets)
     .range(colourArray);
 
   map.fill(function(constituency) {
@@ -78,9 +82,53 @@ var loadVisualisation = function(callback) {
 
   map(svg);
 
+  var legendRectWidth = 50;
+  var legendRectHeight = 15;
+  var legendX = 325;
+  var legendY = 50;
+
+  var legend = d3.select('svg')
+    .append("g")
+    .selectAll("g")
+    .data(colour.range().map(function(d) {
+      // Gets the numbers that colour maps from -> to
+      d = colour.invertExtent(d);
+      if (d[0] == null) d[0] = x_data[0];
+      if (d[1] == null) d[1] = x_data[1];
+      return d;
+    }))
+    .enter()
+    .append('g')
+    .attr('class', 'legend')
+    .attr('transform', function(d, i) {
+        var x = legendX;
+        var y = legendY + i * legendRectHeight;
+        return 'translate(' + x + ',' + y + ')';
+    });
+
+    legend.append('rect')
+      .attr('width', legendRectWidth)
+      .attr('height', legendRectHeight)
+      .style('fill', function(d) {
+
+        // Find midpoint of the two values and that matching colour
+        return colour((d[0] + d[1]) / 2)
+      })
+      .style('stroke', 'white');
+
+    legend.append('text')
+    .attr('class', 'legend-text')
+    .attr('x', legendRectWidth + 8)
+    .attr('y', legendRectHeight - 2)
+    .text(function(d) {
+      var lower = Math.round(d[0] * 100);
+      var upper = Math.round(d[1] * 100);
+      return lower + ' - ' + upper;
+    });
+
   callback();
 
 }
 
 // FOR TESTING LOCALLY
-// window.onload = loadVisualisation();
+window.onload = loadVisualisation(function() { return 0;});
