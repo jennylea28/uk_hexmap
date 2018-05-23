@@ -84,8 +84,6 @@ var loadVisualisation = function(callback) {
     .domain(colourbuckets)
     .range(colourArray);
 
-  //debugger;
-
   map.fill(function(constituency) {
 
     if (UK_ALL_DATA[constituency]) {
