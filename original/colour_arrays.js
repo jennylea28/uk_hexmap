@@ -27,4 +27,4 @@ var variables = { 1: {'title': 'Percentage of Population Aged 0-19 in 2017', 'fi
                   3: {'title': 'Percentage of Population Aged 25-64 in 2017', 'field_name': 'pop_2064_percent'},
                   4: {'title': 'Unemployment Rate 2017', 'field_name': 'percent_unemployed'},
                   5: {'title': 'Out of Work Rate 2017', 'field_name': 'percent_oow'},
-                  6: {'title': 'Percentage of Population Aged 65+ in 2017', 'field_name': 'pop_65_percent'},
+                  6: {'title': 'Percentage of Population Aged 65+ in 2017', 'field_name': 'pop_65_percent'}}
