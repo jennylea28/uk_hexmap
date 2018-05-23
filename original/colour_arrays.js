@@ -26,7 +26,5 @@ var variables = { 1: {'title': 'Percentage of Population Aged 0-19 in 2017', 'fi
                   2: {'title': 'Youth Claimant Rate 2010', 'field_name': 'youth_unemp_rate'},
                   3: {'title': 'Percentage of Population Aged 25-64 in 2017', 'field_name': 'pop_2064_percent'},
                   4: {'title': 'Unemployment Rate 2017', 'field_name': 'percent_unemployed'},
-                  5: {'title': 'Number of Business 2017', 'field_name': 'num_bus'},
-                  6: {'title': 'Out of Work Rate 2017', 'field_name': 'percent_oow'},
-                  7: {'title': 'Percentage of Population Aged 65+ in 2017', 'field_name': 'pop_65_percent'},
-                  8: {'title': 'Wage Median 2017', 'field_name': 'wage'}};
+                  5: {'title': 'Out of Work Rate 2017', 'field_name': 'percent_oow'},
+                  6: {'title': 'Percentage of Population Aged 65+ in 2017', 'field_name': 'pop_65_percent'},
