@@ -37,39 +37,60 @@ var HexMap = (function () {
 })();
 
 var loadVisualisation = function(callback) {
+
   var svg = d3.select('#frame').append('svg').attr('width', 500).attr('height', 430);
-
   var map = UK.HexMap();
-
-  var mindata = Number.POSITIVE_INFINITY;
-  var maxdata = 0;
-
   document.getElementById('heading').innerHTML = variables[variable]['title'];
 
+  var to_log = variable == 2 || variable == 4 || variable == 5;
+  var data_array = [];
+
+  var mindata = parseFloat(Number.POSITIVE_INFINITY);
+  var maxdata = parseFloat(0);
+
+
+  // Put the data in the data array and log transform it
   for (constituency in UK_ALL_DATA) {
-    var info = UK_ALL_DATA[constituency];
-    var data = info[field_name];
-    mindata = Math.min(mindata, data);
-    maxdata = Math.max(maxdata, data);
+    var data = parseFloat(UK_ALL_DATA[constituency][field_name]);
+    data = to_log ? math.log(data) : data;
+
+    if (isNaN(data)) {
+      console.log(UK_ALL_DATA[constituency][field_name]);
+      data = 0.0;
+    }
+
+    data_array.push(data);
   }
+
+  var mean = math.mean(data_array);
+  var std = math.std(data_array);
+
+  var colourbuckets = bucketCount == 5 ?
+                      [mean - std * 1.2, mean - std * 0.4,
+                        mean + std * 0.4, mean + std * 1.2,
+                        mean + std * 2.0] :
+                      [mean - std * 1.5, mean - std * 0.9,
+                        mean - std * 0.3, mean + std * 0.3,
+                        mean + std * 0.9, mean + std * 1.5,
+                        mean + std * 2.1];
 
   // Array of n + 1 objects
   // Including min and max value
-  var x_data = d3.range(mindata, maxdata, (maxdata - mindata) / (bucketCount));
-  x_data.push(maxdata);
-
-  // Removing the first value for the colour scale to work
-  var colourbuckets = x_data.slice(1);
+  var x_data = bucketCount == 5 ?
+              [mean - std * 2.0].concat(colourbuckets) :
+              [mean - std * 2.1].concat(colourbuckets);
 
   var colour = d3.scaleThreshold()
     .domain(colourbuckets)
     .range(colourArray);
 
+  //debugger;
+
   map.fill(function(constituency) {
 
     if (UK_ALL_DATA[constituency]) {
       var data = UK_ALL_DATA[constituency][field_name];
-      return colour(data);
+      return to_log ? colour(math.log(data)) : colour(data);
     } else {
       console.log("Cannot find constituency " + constituency + " in data");
       return colourArray[Math.floor(Math.random() * colourArray.length)];;
@@ -121,6 +142,7 @@ var loadVisualisation = function(callback) {
     .attr('x', legendRectWidth + 8)
     .attr('y', legendRectHeight - 2)
     .text(function(d) {
+      console.log(d);
       var lower = Math.round(d[0] * 100);
       var upper = Math.round(d[1] * 100);
       return lower + ' - ' + upper;
