@@ -151,4 +151,4 @@ var loadVisualisation = function(callback) {
 }
 
 // FOR TESTING LOCALLY
-window.onload = loadVisualisation(function() { return 0;});
+//window.onload = loadVisualisation(function() { return 0;});
