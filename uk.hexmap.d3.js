@@ -3,7 +3,7 @@ if (typeof UK === 'undefined') {
 }
 
 UK.HexMap = function () {
-  var edgeLength = 5,
+  var edgeLength = 7,
       stroke = '#AAAAAA';
       fill = 'none';
       origin = undefined;
@@ -29,11 +29,13 @@ UK.HexMap = function () {
     var cosEdgeLength = Math.cos(angle) * edgeLength;
 
     if (typeof origin === 'undefined') {
-      origin = {x: (4 * edgeLength) + Math.ceil(5 * cosEdgeLength), y: svg.attr('height') - Math.ceil(2 * sinEdgeLength)};
+      origin = {x: (4 * edgeLength) + Math.ceil(5 * cosEdgeLength), y: svg.attr('height') - Math.ceil(4 * sinEdgeLength)};
     }
 
     function path(d) {
-      var x = origin.x + (d[0] * (edgeLength + cosEdgeLength)), y = origin.y - (d[1] * sinEdgeLength);
+      var x_origin = 100;
+      var y_origin = 550;
+      var x = x_origin + (d[0] * (edgeLength + cosEdgeLength)), y = y_origin - (d[1] * sinEdgeLength);
 
       var x1 = x + edgeLength, y1 = y + sinEdgeLength, y2 = y1 + sinEdgeLength;
 
