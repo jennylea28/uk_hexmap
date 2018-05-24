@@ -46,3 +46,5 @@ var variables = { 1: {'title': 'Percentage of Population Aged 0-19 in 2017',
                       'field_name': 'pop_65_percent',
                       'test_areas_5': ['East Ham', 'Foyle', 'HartlePool', 'Forest of Dean', 'Derbyshire Dales'],
                       'test_areas_7': ['Bristol West', 'Ealing North', 'Hemel Hempstead', 'City of Chester', 'Sherwood', 'Elmet and Rothwell', 'South Suffolk']}}
+
+var region_centres = ['Glasgow North East', 'City of Durham', 'Bolsover', 'Bexleyheath and Crayford', 'Bournemouth West', 'Mid Bedfordshire', 'Garston and Halewood'];
