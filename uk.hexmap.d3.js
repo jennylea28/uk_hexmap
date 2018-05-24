@@ -47,7 +47,8 @@ UK.HexMap = function () {
       .append('path')
         .attr('class', 'constituency')
         .attr('id', function(d) {
-          return d[2].replace(/\s/g, '-');
+          var name = d[2].replace(/[.,\/#!$%\^&\*;:{}=\-_`'~()]/g,"");
+          return name.replace(/\s/g, '-');
         })
         .attr('stroke', stroke)
         .attr('fill', fill)
