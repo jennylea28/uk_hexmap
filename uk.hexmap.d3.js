@@ -40,9 +40,13 @@ UK.HexMap = function () {
       return closedPath([x, y], [[x1, y], [x1 + cosEdgeLength, y1], [x1, y2], [x, y2], [x - cosEdgeLength, y1]]);
     }
 
+
     var tiles = svg.selectAll('.constituency').data(UK.HexMap.CONSTITUENCIES).enter()
       .append('path')
         .attr('class', 'constituency')
+        .attr('id', function(d) {
+          return d[2];
+        })
         .attr('stroke', stroke)
         .attr('fill', fill)
         .attr('d', path);
