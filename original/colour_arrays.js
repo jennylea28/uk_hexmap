@@ -61,3 +61,6 @@ var region_centres = [{"name": 'Glasgow North East',
                         "text_x": -85, "text_y": -10},
                         {"name": 'Garston and Halewood',
                         "text_x": -55, "text_y": -55}];
+
+var diverging_colour_scales = [{"name": "spectral", "scheme": spectral_7}, {"name": "br_bg", "scheme": br_bg_7}, {"name": "pu_gn", "scheme": br_bg_7}];
+var sequential_colour_scales = [{"name": "grey", "scheme": grey_7}, {"name": "rd_yl", "scheme": rd_yl_7}, {"name": "pu_bu", "scheme": pu_bu_7}];
