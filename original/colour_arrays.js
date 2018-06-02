@@ -64,3 +64,10 @@ var region_centres = [{"name": 'Glasgow North East',
 
 var diverging_colour_scales = [{"name": "spectral", "scheme": spectral_7}, {"name": "br_bg", "scheme": br_bg_7}, {"name": "pu_gn", "scheme": pu_gn_7}];
 var sequential_colour_scales = [{"name": "grey", "scheme": grey_7}, {"name": "rd_yl", "scheme": rd_yl_7}, {"name": "pu_bu", "scheme": pu_bu_7}];
+
+var paths = [ {"scheme_type":"div", "path":["spectral", "br_bg", "pu_pg"]},
+              {"scheme_type":"div", "path":["pu_pg", "spectral", "br_bg"]},
+              {"scheme_type":"div", "path":["br_bg", "pu_pg", "spectral"]},
+              {"scheme_type":"seq", "path":["grey", "pu_bu", "rd_yl"]},
+              {"scheme_type":"seq", "path":["rd_yl", "grey", "pu_bu"]},
+              {"scheme_type":"seq", "path":["pu_bu", "rd_yl", "grey"]}];
