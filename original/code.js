@@ -1,5 +1,8 @@
 
-var loadVisualisation = function(callback) {
+var loadVisualisation = function(bucketCount, colourArray, variable, callback) {
+  document.getElementById('heading').innerHTML = variables[variable]['title'];
+
+  var field_name = variables[variable]['field_name'];
 
   var svg = d3.select('#frame').append('svg').attr('width', 600).attr('height', 600);
   var map = UK.HexMap();
