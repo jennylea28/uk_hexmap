@@ -1,6 +1,8 @@
 
-var loadVisualisation = function(bucketCount, colourArray, variable, callback) {
+var loadVisualisation = function(bucketCount, colourScheme, variable, callback) {
   document.getElementById('heading').innerHTML = variables[variable]['title'];
+  
+  var colourArray = window[colourScheme + "_" + bucketCount]
 
   var field_name = variables[variable]['field_name'];
 
