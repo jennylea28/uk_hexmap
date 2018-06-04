@@ -1,7 +1,9 @@
 
 var loadVisualisation = function(bucketCount, colourScheme, variable, callback) {
-  document.getElementById('heading').innerHTML = variables[variable]['title'];
-  
+
+  var title = variables[variable]['title'];
+  document.getElementById('heading').innerHTML = title;
+
   var colourArray = window[colourScheme + "_" + bucketCount]
 
   var field_name = variables[variable]['field_name'];
@@ -103,15 +105,29 @@ var loadVisualisation = function(bucketCount, colourScheme, variable, callback) 
       })
       .style('stroke', 'white');
 
+    var titleWords = title.split(" ");
+    var percentage = titleWords[0] == "Percentage";
+    var rate = titleWords[titleWords.length - 2] == "Rate";
+
     legend.append('text')
     .attr('class', 'legend-text')
     .attr('x', legendRectWidth + 8)
     .attr('y', legendRectHeight - 2)
-    .text(function(d) {
-      console.log(d);
-      var lower = Math.round(d[0] * 100);
-      var upper = Math.round(d[1] * 100);
-      return lower + ' - ' + upper;
+    .text(function(d, i) {
+      var lower;
+      var upper;
+      if (percentage) {
+        lower = Math.round(d[0] * 100);
+        upper = Math.round(d[1] * 100);
+
+      } else if (title == "Out of Work Rate 2017") {
+        lower = Math.round(Math.exp(Math.abs(x_data[x_data.length - 1 - i])));
+        upper = Math.round(Math.exp(Math.abs(x_data[x_data.length - 2 - i])));
+      } else {
+        lower = Math.round(Math.exp(Math.abs(x_data[x_data.length - 1 - i]))/ 4);
+        upper = Math.round(Math.exp(Math.abs(x_data[x_data.length - 2 - i])) / 4);
+      }
+      return lower + ' - ' + upper + "%";
     });
 
   callback();
